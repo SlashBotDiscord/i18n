@@ -1,0 +1,32 @@
+{
+    "global" : {
+        "SELECT_ROLES" : {
+            "en" : "Select one of the {0} roles",
+            "de" : "Wähle eine der {0} Rollen"
+        },
+        "PLEASE_SELECT" : {
+            "en" : "Please select a role below",
+            "de" : "Bitte wähle eine der Rollen unten"
+        },
+        "SELECT_OPTIONS" : {
+            "en" : "Select one of the options",
+            "de" : "Bitte wähle eine der optionen"
+        },
+        "SELECT_BELOW" : {
+            "en" : "Please select below",
+            "de" : "Wähle unten"
+        },
+        "YES" : {
+            "en" : "Yes",
+            "de" : "Ja"
+        },
+        "NO" : {
+            "en" : "No",
+            "de" : "Nein"
+        },
+        "ERROR" : {
+            "en" : "Error",
+            "de" : "Fehler"
+        }
+    }
+}
