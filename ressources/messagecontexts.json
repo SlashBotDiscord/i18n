@@ -1,0 +1,76 @@
+{
+    "Copymessage" : {
+        "UNABLE_TO_FETCH" : {
+            "en" : "Unable to fetch targeted message",
+            "de" : "Es ist mir nicht möglich diese Nachricht zu sehen"
+        },
+        "NO_CONTENT_ERROR" : {
+            "en" : "I'm only able to copy messages with content or embeds",
+            "de" : "Mir ist es nur möglich Nachrichten mit Einbettungen oder Inhalt zu kopieren"
+        },
+        "MESSAGE_TOO_LONG" : {
+            "en" : "Message too long (max. 2000 characters)",
+            "de" : "Nachricht zu lang (max. 2000 Zeichen)"
+        },
+        "RESULT" : {
+            "en" : "Copied [this message]({0})",
+            "de" : "Ich habe [diese Nachricht]({0}) kopiert"
+        }
+    },
+    "Messageinfo" : {
+        "MESSAGE_TOO_LONG" : {
+            "en" : "The messages content is too long",
+            "de" : "Der Inhalt der Nachricht ist zu lange"
+        },
+        "NO_COMPONENTS" : {
+            "en" : "There are no components on this message",
+            "de" : "Es gibt keine Komponenten in dieser Nachricht"
+        },
+        "TITLE_FORMAT" : {
+            "en" : "Message JSON",
+            "de" : "JSON Format der Nachricht"
+        },
+        "TITLE" : {
+            "en" : "MessageInfo",
+            "de" : "Nachrichteninformation"
+        },
+        "DESCRIPTION" : {
+            "en" : "Information about components on my [message]({0}):\n\n{1}",
+            "de" : "Informationen zu den Komponenten in [meiner Nachricht]({0}):\n\n{1}"
+        },
+        "OTHER_DROPDOWN" : {
+            "en" : "Other Dropdown",
+            "de" : "Anderes Dropdown-Menü"
+        },
+        "OTHER_BUTTON" : {
+            "en" : "Other Button",
+            "de" : "Anderer Knopf"
+        },
+        "ROLES" : {
+            "en" : "Roles",
+            "de" : "Rollen"
+        },
+        "NEEDED_ROLES" : {
+            "en" : "Needed Roles",
+            "de" : "Benötigte Rollen"
+        },
+        "LINKBUTTON" : {
+            "en" : "LinkButton **URL** [click here]({0})",
+            "de" : "LinkButton **URL** [klicke hier]({0})"
+        },
+        "TYPE" : {
+            "en" : "Type",
+            "de" : "Typ"
+        },
+        "NOTIFY" : {
+            "en" : "Notify",
+            "de" : "Benachrichtigen"
+        }
+    },
+    "Mock" : {
+        "NO_CONTENT" : {
+            "en" : "No content",
+            "de" : "Kein Inhalt"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SUPPORTED_LANGUAGES" : ["en", "de"],
+    "commandHandler" : {
+        "MISSING_PERMISSIONS" : {
+            "en" : "You are missing permissions [{0}]",
+            "de" : "Dir fehlen berechtigungen [{0}]"
+        },
+        "WRONG" : {
+            "en" : "Something went wrong",
+            "de" : "Irgendetwas ist schiefgelaufen"
+        },
+        "PERMISSIONS_NEEDED" : {
+            "en" : "This command requires `{0}` more (global) permission(s): ```diff\n{1}```Add them to my integration role to fix this.",
+            "de" : "Dieser Command benötigt {0} weitere (globale) berechtigungen: ```diff\n{1}```Füge dieser meiner Integrierten Rolle hinzu um dies zu beheben."
+        }
+    }
+}
