@@ -1,0 +1,114 @@
+{
+    "global" : {
+        "NONE" : {
+            "en" : "none",
+            "de" : "keine"
+        }
+    },
+    "Assets" : {
+        "IMAGE_QUALITY" : {
+            "en" : "Image quality",
+            "de" : "Bildqualität"
+        },
+        "IMAGE_FORMAT" : {
+            "en" : "Image format",
+            "de" : "Bildformat"
+        },
+        "ASSETS" : {
+            "en" : "Assets ",
+            "de" : "Bilder "
+        },
+        "AVATAR" : {
+            "en" : "Avatar",
+            "de" : "Avatar"
+        },
+        "BANNER" : {
+            "en" : "Banner",
+            "de" : "Banner"
+        },
+        "GUILD_AVATAR" : {
+            "en" : "Guild Avatar",
+            "de" : "Server Avatar"
+        },
+        "GUILD_BANNER" : {
+            "en" : "Guild Banner",
+            "de" : "Guild Banner"
+        },
+        "MISSING_ASSETS" : {
+            "en" : "This user doesn't have any assets",
+            "de" : "Dieser Nutzer hat keine Bilder"
+        }
+    },
+    "Permissions" : {
+        "PERMISSIONS" : {
+            "en" : "Permissions",
+            "de" : "Berechtigung"
+        },
+        "FOR_SERVER" : {
+            "en" : "For this server",
+            "de" : "Für diesen Server"
+        },
+        "FOR_CHANNEL" : {
+            "en" : "For this channel",
+            "de" : "Für diesen Kanal"
+        }
+    },
+    "Warn" : {
+        "MEMBER_ABOVE" : {
+            "en" : "You can't warn members above you",
+            "de" : "Du kannst keine Mitglieder über dir verwarnen"
+        },
+        "WARN" : {
+            "en" : "You've been warned in {0}",
+            "de" : "Du wurdest in {0} verwarnt"
+        },
+        "CONFIRMATION" : {
+            "en" : "{0} has been warned",
+            "de" : "{0} wurde verwarnt"
+        }
+    },
+    "Whois" : {
+        "CREATED" : {
+            "en" : "Created",
+            "de" : "Erstellt",
+            "es" : "Creado",
+            "cs" : "Vytvořeno"
+        },
+        "JOINED" : {
+            "en" : "Joined",
+            "de" : "Beigetreten",
+            "es" : "Ingresó",
+            "cs" : "Připojil se k "
+        },
+        "DEVELOPER" : {
+            "en" : "SlashBot Developer",
+            "de" : "SlashBot Entwickler",
+            "es" : "SlashBot Desarrollador",
+            "cs" : "SlashBot Vývojář"
+        },
+        "USER" : {
+            "en" : "SlashBot User",
+            "de" : "SlashBot Nutzer",
+            "es" : "SlashBot Usuarois",
+            "cs" : "SlashBot Uživatel"
+        },
+        "ROLES" : {
+            "en" : "Roles",
+            "de" : "Rollen",
+            "es" : "Roles",
+            "cs" : "Válečky"
+        },
+        "PREMIUM_STATUS" : {
+            "en" : "Premium status",
+            "de" : "Premium Status",
+            "es" : "Premium Estado",
+            "cs" : "Premium Stav"
+        },
+        "NO_PREMIUM" : {
+            "en" : "No Premium",
+            "de" : "Kein Premium",
+            "es" : "No prima",
+            "cs" : "Žádná prémie"
+        }
+    }
+}
