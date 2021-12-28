@@ -10,3 +10,5 @@ To request changes because of spelling or grammar mistakes also create a pull re
 - AVAILABLE_LANGUAGES.json
 
 These are the "template" files we use to add new languages since the bot is originally written in english and then translated to other languages
+
+If you have any questions join our [support server](https://discord.gg/rs83TFf)
