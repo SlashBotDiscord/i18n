@@ -4,7 +4,7 @@ The localized strings of SlashBot
 To contribute create a pull request with the language you want to add.
 To request changes because of spelling or grammar mistakes also create a pull request editing that.
 
-**FILES WHICH YOU CAN'T CREATE PULL REQUESTS FOR**
+## **FILES WHICH YOU CAN'T CREATE PULL REQUESTS FOR**
 - TEMPLATE.json
 - en.json
 - AVAILABLE_LANGUAGES.json
