@@ -114,6 +114,8 @@
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "When restricting the roles you can only set up 4 roles at once",
     "ERROR_BUTTONROLE_INVALID_REQUIRING_ROLE": "The requiring role is invalid",
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "You can't require the @everyone role",
+    "ERROR_BUTTONROLE_ALREADY_HAVE": "You already have the role(s): {0}",
+    "ERROR_BUTTONROLE_DONT_HAVE": "You don't have any of the following role(s): {0}",
     "ERROR_BUTTONROLE_LABEL_REQUIRED": "When using more than 1 role a custom label is required",
     "ERROR_BUTTONROLE_EVERYONE_ROLE": "You can't hand out the `@everyone` role",
     "ERROR_BUTTONROLE_DUPLICATE_SET": "This exact set of roles has already been given. You can't have duplicates.",
