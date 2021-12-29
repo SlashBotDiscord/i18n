@@ -114,6 +114,8 @@
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Wenn du die Rollen beschränkst kannst du nur 4 Rollen auf einmal geben",
     "ERROR_BUTTONROLE_INVALID_REQUIRING_ROLE": "Die benötigende Rolle ist ungültig",
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "Du kannst die @everyone Rolle nicht benötigen",
+    "ERROR_BUTTONROLE_ALREADY_HAVE": "Du hast schon alle der folgenden Rollen: {0}",
+    "ERROR_BUTTONROLE_DONT_HAVE": "Du hast keine der folgenden Rollen: {0}",
     "ERROR_BUTTONROLE_LABEL_REQUIRED": "Wenn du mehr als 1 Rolle gibst musst du ein Label einstellen",
     "ERROR_BUTTONROLE_EVERYONE_ROLE": "Du kannst die @everyone Rolle nicht ausgeben",
     "ERROR_BUTTONROLE_DUPLICATE_SET": "Das genaue Set von Rollen wurde schon gegeben. Du kannst keine duplikate haben",
