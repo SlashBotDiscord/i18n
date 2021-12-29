@@ -120,7 +120,7 @@
     "ERROR_BUTTONROLE_EVERYONE_ROLE": "Du kannst die Rolle @everyone nicht ausgeben",
     "ERROR_BUTTONROLE_DUPLICATE_SET": "Das genaue Set von Rollen wurde schon gegeben. Du kannst keine Duplikate haben",
     "ERROR_BUTTONROLE_CANT_RESTRICT_TO_EVERYONE": "Du kannst die Rolle @everyone nicht als Anforderung einstellen",
-    "ERROR_FUNCTIONBUTTON_NO_PRONOUN_ROLES": "Du must die 4 Rollen mit den Namen 'he/him', 'she/her', 'they/them' und 'others' erstellen",
+    "ERROR_FUNCTIONBUTTON_NO_PRONOUN_ROLES": "Du musst die 4 Rollen mit den Namen 'he/him', 'she/her', 'they/them' und 'others' erstellen",
     "ERROR_FUNCTIONBUTTON_USED_IN_THREAD": "Du kannst keine Threads in einem Thread öffnen",
     "ERROR_INVALID_EMOJI_COMPONENTS": "In dieser Nachricht sind Komponenten mit ungültigen Emojis oder ein Button mit der gleichen Konfiguration",
     "ERROR_MESSAGE_EDIT_FAIL": "In dieser Nachricht sind Komponenten mit ungültigen Emojis",
