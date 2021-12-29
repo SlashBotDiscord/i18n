@@ -206,7 +206,7 @@
     "OFFENDER_WARNED_REASONLESS": "**Du wurdest auf dem Server {0} verwarnt**",
     "OFFENDER_KICKED": "**Du wurdest von dem Server {0} aus folgendem Grund gekickt:**\n{1}",
     "OFFENDER_MUTED": "**Du wurdest auf dem Server {0} aus dem folgenden Grund stummgeschaltet :**\n{1}\nAufhebung Stummschaltung: <t:{2}:R>",
-    "INFO_DESCRIPTION": "SlashBot ist ein neuer innovativer Bot mit nützlichen Slash Commands, einer intuitiven Benutzeroberfläche.\nLege los, in dem du `/buttonrole` or `/dropdownroles` in die TextBox schreibst\n\n**Nützliche URLs**\n[Support Server]({0}) **|** [Empfohlene Einladung]({1}) **|** [Bot Liste]({2}) **|** [Webseite]({3}) **|** [Patreon]({4})",
+    "INFO_DESCRIPTION": "SlashBot ist ein neuer innovativer Bot mit nützlichen Slash Commands, einer intuitiven Benutzeroberfläche.\nLege los, in dem du `/buttonrole` oder `/dropdownroles` in die TextBox schreibst\n\n**Nützliche URLs**\n[Support Server]({0}) **|** [Empfohlene Einladung]({1}) **|** [Bot Liste]({2}) **|** [Webseite]({3}) **|** [Patreon]({4})",
     "HELP_TEXT": "Finde detailliertere Hilfe auf [unserer Webseite]({0})\noder in unserem [Support Server]({1})",
     "ACTIVITIES_RESPONSE": "[Klicke, um {0} beizutreten]({1})",
     "COPYMESSAGE_SUCCESS": "Ich habe [diese Nachricht]({0}) kopiert",
