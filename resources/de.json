@@ -112,7 +112,7 @@
     "ERROR_BUTTONROLE_MISSING_ROLE4": "<:SystemMessageInteractionFail:872222564557127680> Dir fehlt die Rolle <@&{0}>, um die Rolle <@&{1}> gegen die Rolle <@&{2}> auszutauschen.",
     "ERROR_BUTTONROLE_MISSING_ROLE5": "Du hast die Rolle <@&{0}> nicht, also kann ich sie nicht austauschen.",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Wenn du die Rollen beschränkst kannst du nur 4 Rollen auf einmal geben",
-    "ERROR_BUTTONROLE_INVALID_REQUIRING_ROLE": "Die erforderliche Rolle ist ungültig",
+    "ERROR_BUTTONROLE_INVALID_REQUIRING_ROLE": "Die vorausgesetzte Rolle ist ungültig",
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "Du kannst die Rolle @everyone nicht voraussetzen",
     "ERROR_BUTTONROLE_ALREADY_HAVE": "Du hast schon alle der folgenden Rollen: {0}",
     "ERROR_BUTTONROLE_DONT_HAVE": "Du hast keine der folgenden Rollen: {0}",
