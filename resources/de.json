@@ -118,7 +118,7 @@
     "ERROR_BUTTONROLE_DONT_HAVE": "Du hast keine der folgenden Rollen: {0}",
     "ERROR_BUTTONROLE_LABEL_REQUIRED": "Wenn du mehr als eine Rolle angibst musst du ein Label angeben",
     "ERROR_BUTTONROLE_EVERYONE_ROLE": "Du kannst die Rolle @everyone nicht ausgeben",
-    "ERROR_BUTTONROLE_EVERYONE_SET_UP": "Du kannst die @everyone Rolle nicht einstellen",
+    "ERROR_BUTTONROLE_EVERYONE_SET_UP": "Du kannst die Rolle @everyone nicht einstellen",
     "ERROR_BUTTONROLE_DUPLICATE_SET": "Das genaue Set von Rollen wurde schon gegeben. Du kannst keine Duplikate haben",
     "ERROR_BUTTONROLE_CANT_RESTRICT_TO_EVERYONE": "Du kannst die Rolle @everyone nicht als Anforderung einstellen",
     "ERROR_FUNCTIONBUTTON_NO_PRONOUN_ROLES": "Du musst die 4 Rollen mit den Namen 'he/him', 'she/her', 'they/them' und 'others' erstellen",
