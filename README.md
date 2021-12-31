@@ -1,7 +1,7 @@
 # SlashBotLocalization
 The localized strings of SlashBot
 
-How to add a new language: 
+### How to add a new language:
 - Grab the en.json and TEMPLATE.json files
 - Fill out the TEMPLATE.json file with the translations translated from en.json
 - Rename the TEMPLATE.json file to the language code you translated to
@@ -9,7 +9,7 @@ How to add a new language:
 - Create a Pull request with the newly added file
 - Wait for approval
 
-How to edit already existing languages:
+### How to edit already existing languages:
 - Grab the language file you want to edit
 - Edit the strings
 - Create a pull request with the reason you changed those strings in the description
