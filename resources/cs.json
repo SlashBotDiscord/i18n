@@ -41,7 +41,7 @@
     "WARN_SUCCESS_REASONLESS": "**{0} byl varován**",
     "IMAGE_FORMAT": "Formát obrázku",
     "PLACEHOLDER_TEXT": "Máte rádi psy?",
-    "BAN_SUCCESS": "**Byl si zabanován ze serveru {0} s důvodem:**\n{1}",
+    "BAN_SUCCESS": "**Byl si zabanován ze serveru __{0}__ s důvodem:**\n{1}",
     "LOADING": "",
     "CONTEXT_MENUS": "",
     "COMPONENTS": "",
