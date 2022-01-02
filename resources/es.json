@@ -1,7 +1,7 @@
 {
     "CLICK_TO_ARCHIVE_THREAD": "Haz clic debajo para archivar este hilo",
-    "SWITCH_ROLE": "Rol Switch",
-    "TOGGLE_ROLE": "Rol Toggle",
+    "SWITCH_ROLE": "Switch rol \"{0}\"",
+    "TOGGLE_ROLE": "Toggle rol \"{0}\"",
     "ADD_ROLE": "Añadir rol \"{0}\"",
     "REMOVE_ROLE": "Eliminar rol \"{0}\"",
     "UNSUPPORTED_FORMAT": "Formato no soportado",
