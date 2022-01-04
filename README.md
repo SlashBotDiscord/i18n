@@ -24,3 +24,29 @@ The localized strings of SlashBot
 These are the "template" files we use to add new languages since the bot is originally written in english and then translated to other languages
 
 If you have any questions join our [support server](https://discord.gg/rs83TFf)
+
+### Languages
+
+**Currently maintained**
+
+- English
+- German
+- Spanish
+
+**Currently being worked on**
+(or being a pull request waiting for verification)
+
+- French
+
+**Being planned for future**
+
+`none`
+
+### Credit goes to
+
+- Evil Psychiatric ↯#6666 (spanish translations)
+- [Pikachu#0003](https://github.com/PikaFederation) (french translations)
+- [Dejvy#0069](https://github.com/Dejvy) (czech translations)
+- [jonilala796#0001](https://github.com/jonilala796) (verifying translations)
+- [ARγOtaRe#8215](https://github.com/ARyOtaRe) (verifying translations)
+- [Valentin04#3679](https://github.com/Valetin04) (verifying translations)
