@@ -25,24 +25,24 @@ These are the "template" files we use to add new languages since the bot is orig
 
 If you have any questions join our [support server](https://discord.gg/rs83TFf)
 
-### Languages
+## Languages
 
-**Currently maintained**
+### Currently maintained
 
 - English
 - German
 - Spanish
 
-**Currently being worked on**
+### Currently being worked on
 (or being a pull request waiting for verification)
 
 - French
 
-**Being planned for future**
+### Being planned for future
 
 `none`
 
-### Credit goes to
+## Credit goes to
 
 - Evil Psychiatric ↯#6666 (spanish translations)
 - [Pikachu#0003](https://github.com/PikaFederation) (french translations)
