@@ -327,6 +327,5 @@
     "BUTTONROLES_SWITCH_DESCRIPTION_CREATE": "**Salon** <#{0}>\n**Notification** {1}\n**Rôle à enlever** <@&{2}>\n**Rôle à donner** <@&{3}>\n**Type** Intervertir{4}",
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Message** [clique ici]({0})\n**Notification** {1}\n**Rôle à enlever** <@&{2}>\n**Rôle à donner** <@&{3}>\n**Type** Intervertir{4}",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Salon** <#{0}>\n**Notification** {1}\n**Rôle(s)** {2}\n**Type** {3}{4}",
-    "BUTTONROLES_ADVANCED": "**Salon** <#{0}>\n**Rôles** {1}",
-    "COMPONENTS_MOVE_TITLE": "Déplacer le bouton"
+    "BUTTONROLES_ADVANCED": "**Salon** <#{0}>\n**Rôles** {1}"
 }
