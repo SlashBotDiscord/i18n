@@ -36,7 +36,7 @@ If you have any questions join our [support server](https://discord.gg/rs83TFf)
 ### Currently being worked on
 (or being a pull request waiting for verification)
 
-- French
+- French (ready to verify)
 
 ### Being planned for future
 
@@ -46,7 +46,7 @@ If you have any questions join our [support server](https://discord.gg/rs83TFf)
 
 - Evil Psychiatric ↯#6666 (spanish translations)
 - [Pikachu#0003](https://github.com/PikaFederation) (french translations)
+- [ARγOtaRe#8215](https://github.com/ARyOtaRe) (french translations)
 - [Dejvy#0069](https://github.com/Dejvy) (czech translations)
 - [jonilala796#0001](https://github.com/jonilala796) (verifying translations)
-- [ARγOtaRe#8215](https://github.com/ARyOtaRe) (verifying translations)
 - [Valentin04#3679](https://github.com/Valetin04) (verifying translations)
