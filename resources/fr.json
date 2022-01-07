@@ -204,7 +204,7 @@
     "OFFENDER_KICKED": "Tu t'es fait expulser de {0} pour :**\n{1}",
     "OFFENDER_MUTED": "Tu t'es fait mettre en sourdine dans {0} pour :**\n{1}\nTu seras débolqué <t:{2}:R>",
     "INFO_DESCRIPTION": "SlashBot est un nouveau robot innovant avec des commandes slash utiles qui remplace ReactionRoles avec une interface utilisateur plus simple et des notes conviviales. Commence par configurer un ButtonRole ou un DropdownRole en tapant `/buttonrole` ou `/dropdownroles` ! \n\n**Liens utiles**\n[Serveur de support]({0}) **|** [Invitation recommandée]({1}) **|** [Page du bot]({2}) **|** [Site Web]({3}) **|** [Patreon]({4})",
-    "HELP_TEXT": "Vous trouverez une aide détaillée sur [notre site web]({0}) ou sur notre [serveur de support]({1})",
+    "HELP_TEXT": "Tu trouveras une aide détaillée sur [notre site web]({0}) ou sur notre [serveur de support]({1})",
     "ACTIVITIES_RESPONSE": "[Clique pour rejoindre {0}]({1})",
     "COPYMESSAGE_SUCCESS": "Copié [ce message]({0})",
     "COPYMESSAGE_SUCCESS_CHANNEL": "J'ai copié [le message]({0}){1}",
