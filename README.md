@@ -14,6 +14,11 @@ Thanks to our contributors, we have translated the bot to the following language
 - Czech ([`Dejvy#0069`](https://github.com/Dejvy))
 - French ([`ARγOtaRe#8215`](https://github.com/ARyOtaRe), [`Pikachu#0003`](https://github.com/PikaFederation))
 
+And thanks to these people, for verifying new translations 💙
+
+- [`jonilala796#0001`](https://github.com/jonilala796)
+- [`Valentin04#3679`](https://github.com/Valetin04)
+
 ## FAQs
 
 ### I want to translate the bot to a different language
