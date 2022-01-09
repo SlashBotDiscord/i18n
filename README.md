@@ -39,3 +39,7 @@ Follow the steps `2` and `4-6` of the [above question](https://github.com/SlashB
 ### I have a question. Where should I ask?
 
 You can create [a new issue](https://github.com/SlashBotDiscord/SlashBotLocalization/issues/new?labels=question) or [join our support server](https://discord.gg/hJGetcxCSy).
+
+### I don't have a GitHub account. What can I do?
+
+[Join our support server](https://discord.gg/hJGetcxCSy) and create a support ticket.
