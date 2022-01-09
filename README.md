@@ -2,6 +2,8 @@
 The localized strings of SlashBot
 
 ### How to add a new language:
+- make sure there isn't a pull request for that language already
+(if there is you can verify the translations in there)
 - Grab the en.json and TEMPLATE.json files
 - Fill out the TEMPLATE.json file with the translations translated from en.json
 - Rename the TEMPLATE.json file to the language code you translated to
