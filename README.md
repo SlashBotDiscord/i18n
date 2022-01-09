@@ -42,4 +42,4 @@ You can create [a new issue](https://github.com/SlashBotDiscord/SlashBotLocaliza
 
 ### I don't have a GitHub account. What can I do?
 
-[Join our support server](https://discord.gg/hJGetcxCSy) and create a support ticket.
+Download the [`resources/en.json`](https://raw.githubusercontent.com/SlashBotDiscord/SlashBotLocalization/main/resources/en.json) file to translate it, [join our support server](https://discord.gg/hJGetcxCSy) and create a support ticket.
