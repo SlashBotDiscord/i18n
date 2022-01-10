@@ -28,7 +28,7 @@ Sure you can! Follow the following steps to translate the bot!
 1. Make sure there isn't a pull request for your language. In that case, you can verify their translations or ask the contributor to work together.
 2. [Fork this repository](https://github.com/SlashBotDiscord/SlashBotLocalization/fork).
 3. Rename this `/resources/en.json` file to `/resources/language_key.json` where `language_key` is a locale [supported by Discord](https://discord.com/developers/docs/dispatch/field-values#predefined-field-values-accepted-locales).
-4. Translate the `/resources/language_key.json` file. Only the values! Not the keys. In case your translation contains double-quotes, escape them with a bashslash (i.e. `"` => `\"`). Do not touch argument variables such as `{0}`.
+4. Translate the `/resources/language_key.json` file. Only the values! Not the keys. In case your translation contains double quotes, escape them with a backslash (i.e. `"` => `\"`). Do not touch argument variables such as `{0}`.
 5. Create a pull request with the new language.
 6. Wait for approval.
 
