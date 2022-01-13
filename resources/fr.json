@@ -205,6 +205,7 @@
     "ERROR_AT_LEAST_2_ROLES": "Tu as besoin d'au moins 2 rôles uniques",
     "ERROR_AT_LEAST_X_ROLES": "Tu as besoin d'au moins {0} rôles uniques",
     "ERROR_FATAL_MISSING_PERMISSIONS": "Il me manque des permissions pour effectuer cette action",
+    "ERROR_SHARDS_SPAWNING": "",
     "ERROR_FATAL_MISSING_ACCESS": "Il me manque l'accès",
     "ERROR_UNKNOWN": "Il y a eu un problème",
     "OTHER_BUTTON": "Autre bouton",

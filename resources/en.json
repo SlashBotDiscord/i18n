@@ -205,6 +205,7 @@
     "ERROR_AT_LEAST_2_ROLES": "You need at least 2 unique roles",
     "ERROR_AT_LEAST_X_ROLES": "You need at least {0} unique roles",
     "ERROR_FATAL_MISSING_PERMISSIONS": "I'm missing permissions to perform this action",
+    "ERROR_SHARDS_SPAWNING": "We are currently restarting. Please wait until we are back online.",
     "ERROR_FATAL_MISSING_ACCESS": "I'm missing access",
     "ERROR_UNKNOWN": "Something went wrong",
     "OTHER_BUTTON": "Other Button",

@@ -205,6 +205,7 @@
     "ERROR_AT_LEAST_2_ROLES": "Você precisa de pelo menos 2 cargos exclusivos",
     "ERROR_AT_LEAST_X_ROLES": "Você precisa de pelo menos {0} cargos exclusivos",
     "ERROR_FATAL_MISSING_PERMISSIONS": "Estou perdendo permissões para realizar esta ação",
+    "ERROR_SHARDS_SPAWNING": "",
     "ERROR_FATAL_MISSING_ACCESS": "Estou perdendo o acesso",
     "ERROR_UNKNOWN": "Algo deu errado",
     "OTHER_BUTTON": "Outro Botão",
