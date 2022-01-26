@@ -188,6 +188,7 @@
     "ERROR_2_EMOJIS_NEEDED": "Když uvádíš vlastní emotikon, musíš uvést aspoň 2 unikódové emotikony",
     "ERROR_LEVEL2_NEEDED": "Tento server potřebuje 2 úroveň aby tento příkaz mohl fungovat. (soukromá vlákna)",
     "ERROR_EMBED_REMOVE_EDIT_ERROR": "Odstranění embedů z této zprávy není podporovýno nebo jeden z komponentů má neplatný emotikon",
+    "ERROR_EMBED_MORE_THAN_ONE": "",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "Tato konfigurace (role + omezovací role) je už používána, nemůžeš mít duplikáty.",
     "ERROR_EMBED_INVALID_JSON": "Uveď aspoň jeden platný embed",
     "ERROR_EMBED_INVALID_STRUCTURE": "Neplatná struktura embedu!",

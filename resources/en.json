@@ -188,6 +188,7 @@
     "ERROR_2_EMOJIS_NEEDED": "When providing custom emojis you need to give at least 2 unicode emojis",
     "ERROR_LEVEL2_NEEDED": "This server needs level 2 for this to work (access to private threads)",
     "ERROR_EMBED_REMOVE_EDIT_ERROR": "Removing all embeds on this message is not supported or your components have invalid emojis",
+    "ERROR_EMBED_MORE_THAN_ONE": "Adding more than one embed is not supported",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "This configuration (combination of role + restriction roles) has already been specified. You can't have duplicate ones.",
     "ERROR_EMBED_INVALID_JSON": "Please make sure you pass at least one valid embed",
     "ERROR_EMBED_INVALID_STRUCTURE": "Invalid embed structure!",
