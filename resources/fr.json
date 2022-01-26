@@ -188,6 +188,7 @@
     "ERROR_2_EMOJIS_NEEDED": "Lorsque tu fournis des emojis personnalisés, tu dois indiquer au moins 2 emojis unicode.",
     "ERROR_LEVEL2_NEEDED": "Ce serveur a besoin du niveau 2 pour que cela fonctionne (accès aux fils privés).",
     "ERROR_EMBED_REMOVE_EDIT_ERROR": "La suppression de toutes les intégrations de ce message n'est pas prise en charge ou tes composants comportent des emojis non valides.",
+    "ERROR_EMBED_MORE_THAN_ONE": "",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "Cette configuration (combinaison de rôle + rôles de restriction) a déjà été spécifiée. Tu ne peux pas avoir de doublons",
     "ERROR_EMBED_INVALID_JSON": "Assure-toi que tu passes au moins une intégration valide.",
     "ERROR_EMBED_INVALID_STRUCTURE": "Structure d'intégration invalide!",

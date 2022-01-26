@@ -188,6 +188,7 @@
     "ERROR_2_EMOJIS_NEEDED": "Wenn du benutzerdefinierte Emoji gibst musst du mindestens 2 unterschiedliche Emojis geben",
     "ERROR_LEVEL2_NEEDED": "Dieser Server muss auf Level 2 geboostet sein, damit ich das machen kann",
     "ERROR_EMBED_REMOVE_EDIT_ERROR": "Das entfernen von allen Embeds ist nicht unterstützt für diese Nachricht oder eine Komponente hat ungültige Emojis",
+    "ERROR_EMBED_MORE_THAN_ONE": "Das hinzufügen von mehr als einem Embed ist nicht unterstützt",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "Diese Konfiguration (Kombination von Rollen und benötigten Rollen) wurde schon gegeben. Du kannst keine Duplikate haben",
     "ERROR_EMBED_INVALID_JSON": "Bitte stelle sicher, dass du mindestens ein gültiges Embed gibst",
     "ERROR_EMBED_INVALID_STRUCTURE": "Ungültige Embed Struktur!",

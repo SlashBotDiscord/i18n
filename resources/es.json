@@ -188,6 +188,7 @@
     "ERROR_2_EMOJIS_NEEDED": "Al proporcionar emojis personalizados, se requieren mínimamente 2 emojis en unicode",
     "ERROR_LEVEL2_NEEDED": "El servidor tiene que tener un nivel 2 para que esto funcione (acceso a hilos privados)",
     "ERROR_EMBED_REMOVE_EDIT_ERROR": "No está soportada la eliminación de todos los embeds del mensaje o los componentes tienen emojis inválidos",
+    "ERROR_EMBED_MORE_THAN_ONE": "",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "Esta configuración (combinación de rol + restricción de roles) ya se encuentra especificada. No se pueden tener duplicados.",
     "ERROR_EMBED_INVALID_JSON": "Por favor, asegúrate de pasar al menos un embed válido",
     "ERROR_EMBED_INVALID_STRUCTURE": "Estructura de embed no válida",
