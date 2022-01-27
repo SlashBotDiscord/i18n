@@ -191,6 +191,7 @@
     "ERROR_EMBED_MORE_THAN_ONE": "Das hinzufügen von mehr als einem Embed ist nicht unterstützt",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "Diese Konfiguration (Kombination von Rollen und benötigten Rollen) wurde schon gegeben. Du kannst keine Duplikate haben",
     "ERROR_EMBED_INVALID_JSON": "Bitte stelle sicher, dass du mindestens ein gültiges Embed gibst",
+    "ERROR_EPHEMERAL_AND_CHANNEL": "Du kannst die Nachricht nicht ephemeral machen, wenn du einen Kanal ausgewählt hast",
     "ERROR_EMBED_INVALID_STRUCTURE": "Ungültige Embed Struktur!",
     "ERROR_NO_EMBED_IN_POSITION": "In der Position {0} gibt es kein Embed",
     "ERROR_OPEN_THREAD": "Du hast schon einen Thread offen (<#{0}>)",
