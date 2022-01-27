@@ -188,7 +188,7 @@
     "ERROR_2_EMOJIS_NEEDED": "Ao fornecer emojis personalizados, você precisa fornecer pelo menos 2 emojis únicos",
     "ERROR_LEVEL2_NEEDED": "Este servidor precisa do nível 2 para que isso funcione (acesso a tópicos privados)",
     "ERROR_EMBED_REMOVE_EDIT_ERROR": "A remoção de todas as embeds nesta mensagem não é suportada ou seus componentes têm emojis inválidos",
-    "ERROR_EMBED_MORE_THAN_ONE": "",
+    "ERROR_EMBED_MORE_THAN_ONE": "A adição de mais uma embed não é suportada",
     "ERROR_CONFIGURATION_ALREADY_SPECIFIED": "Esta configuração (combinação de cargo + restrição de cargos) já foi especificada. Você não pode ter duplicatas.",
     "ERROR_EMBED_INVALID_JSON": "Certifique-se de passar pelo menos uma embed válida",
     "ERROR_EPHEMERAL_AND_CHANNEL": "",
