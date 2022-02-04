@@ -155,6 +155,8 @@
     "ERROR_INVALID_RESTRICTION_ROLE": "Restricción de rol(es) inválido",
     "ERROR_MISSING_TITLE_FOR_URL": "Al proporcionar un enlace para el título se necesita un título",
     "ERROR_MISSING_PERMISSIONS": "Te faltan los permisos [{0}]",
+    "ERROR_MESSAGE_SEND_SENT_TOO_MANY": "",
+    "ERROR_MESSAGE_SEND_NONE": "",
     "ERROR_NOT_A_GUILD_MEMBER": "No eres usuario de este servidor",
     "ERROR_REASON_TOO_LONG": "La razón es demasiado extensa (máx. 200 caracteres)",
     "ERROR_FUNCTIONBUTTON_NO_RULES": "El servidor no tiene ninguna regla",
@@ -285,6 +287,7 @@
     "EMBED_SHORTEN_DESCRIPTION": "Por favor, reduce la descripción a {0} caracteres",
     "EMBED_SHORTEN_FOOTER": "Por favor, reduce el pie de página a {0} caracteres",
     "EMBED_SHORTEN_STRINGS": "Por favor, reduce cualquiera de las cadenas del título, descripción o pie de página para que el tamaño total sea menos de 6000 caracteres",
+    "EMBED_SHORTEN_CONTENT": "",
     "EMBED_EDIT_REPLACE_QUESTION": "Al proporcionar más de un embed, todos los embeds serán reemplazados por el nuevo.\n¿Quieres reemplazar los embeds antiguos por los nuevos?",
     "EMBED_EDIT_ONLY_ONE_EMBED": "Por favor, proporciona únicamente un embed",
     "EMBED_EDIT_FIRST_IN_POSITION": "El primer embed está en la posición 1",
@@ -354,5 +357,7 @@
     "BUTTONROLES_SWITCH_DESCRIPTION_CREATE": "**Canal** <#{0}>\n**Notificación** {1}\n**Rol a eliminar** <@&{2}>\n**Role a asignar** <@&{3}>\n**Tipo** Switch{4}",
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Mensaje** [haz clic aquí]({0})\n**Notificación** {1}\n**Rol a eliminar** <@&{2}>\n**Rol a asignar** <@&{3}>\n**Tipo** Switch{4}",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Canal** <#{0}>\n**Notificación** {1}\n**Rol(es)** {2}\n**Tipo** {3}{4}",
-    "BUTTONROLES_ADVANCED": "**Canal** <#{0}>\n**Roles** {1}"
+    "BUTTONROLES_ADVANCED": "**Canal** <#{0}>\n**Roles** {1}",
+    "MESSAGE_SEND_SENT": "",
+    "MESSAGE_EDIT_EDITED": ""
 }

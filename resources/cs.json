@@ -155,6 +155,8 @@
     "ERROR_INVALID_RESTRICTION_ROLE": "Neplatné obezovací role",
     "ERROR_MISSING_TITLE_FOR_URL": "Když uvádíš odkaz pro nadpis, musíš také uvést nadpis",
     "ERROR_MISSING_PERMISSIONS": "Chybí ti oprávnění [{0}]",
+    "ERROR_MESSAGE_SEND_SENT_TOO_MANY": "",
+    "ERROR_MESSAGE_SEND_NONE": "",
     "ERROR_NOT_A_GUILD_MEMBER": "To není člen tohoto serveru",
     "ERROR_REASON_TOO_LONG": "Tvůj důvod je moc dlouhý (max 200 znaků)",
     "ERROR_FUNCTIONBUTTON_NO_RULES": "Tento server nemá žádná pravidla",
@@ -285,6 +287,7 @@
     "EMBED_SHORTEN_DESCRIPTION": "Zkrať popis o {0} znaků",
     "EMBED_SHORTEN_FOOTER": "Zkrať záhlaví o {0} znaků",
     "EMBED_SHORTEN_STRINGS": "Zkrať jakoukoliv část, aby embed měla max 6000 znaků",
+    "EMBED_SHORTEN_CONTENT": "",
     "EMBED_EDIT_REPLACE_QUESTION": "Když uvedeš víc jak 1 embed, všechny ostatní budou nahrazeny tímto.\nVážně chcete všechny ostatní nahradit?",
     "EMBED_EDIT_ONLY_ONE_EMBED": "Uveď jen jeden embed",
     "EMBED_EDIT_FIRST_IN_POSITION": "První embed je na pozici 1",
@@ -354,5 +357,7 @@
     "BUTTONROLES_SWITCH_DESCRIPTION_CREATE": "**Kanál** <#{0}>\n**Oznámení** {1}\n**Role k odebrání** <@&{2}>\n**Role k přidání** <@&{3}>\n**Typ** Prohození{4}",
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Zpráva** [klikněte zde]({0})\n**Oznámení** {1}\n**Role k odebrání** <@&{2}>\n**Role k přidání** <@&{3}>\n**Typ** Prohození{4}",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Kanál** <#{0}>\n**Oznámení** {1}\n**Role** {2}\n**Typ** {3}{4}",
-    "BUTTONROLES_ADVANCED": "**Kanál** <#{0}>\n**Role** {1}"
+    "BUTTONROLES_ADVANCED": "**Kanál** <#{0}>\n**Role** {1}",
+    "MESSAGE_SEND_SENT": "",
+    "MESSAGE_EDIT_EDITED": ""
 }

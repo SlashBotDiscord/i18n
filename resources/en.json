@@ -155,6 +155,8 @@
     "ERROR_INVALID_RESTRICTION_ROLE": "Invalid restriction role(s)",
     "ERROR_MISSING_TITLE_FOR_URL": "When providing a link for the title you need a title",
     "ERROR_MISSING_PERMISSIONS": "You are missing permissions [{0}]",
+    "ERROR_MESSAGE_SEND_SENT_TOO_MANY": "You can only either have content or an attachment",
+    "ERROR_MESSAGE_SEND_NONE": "You need to give either the content or an attachment",
     "ERROR_NOT_A_GUILD_MEMBER": "That's not a member of this guild",
     "ERROR_REASON_TOO_LONG": "Your reason is too long (max. 200 characters)",
     "ERROR_FUNCTIONBUTTON_NO_RULES": "This server doesn't have any rules",
@@ -285,6 +287,7 @@
     "EMBED_SHORTEN_DESCRIPTION": "Please shorten your description by {0} characters",
     "EMBED_SHORTEN_FOOTER": "Please shorten your footer by {0} characters",
     "EMBED_SHORTEN_STRINGS": "Please shorten any of your strings to be under 6000 characters of title, description and footer in total",
+    "EMBED_SHORTEN_CONTENT": "Please shorten your content by {0} characters",
     "EMBED_EDIT_REPLACE_QUESTION": "By providing more than 1 embed all embeds will be replaced with the new one.\nDo you want to replace the old embeds with the new embeds?",
     "EMBED_EDIT_ONLY_ONE_EMBED": "Please provide only one embed",
     "EMBED_EDIT_FIRST_IN_POSITION": "The first embed is in position 1",
@@ -354,5 +357,7 @@
     "BUTTONROLES_SWITCH_DESCRIPTION_CREATE": "**Channel** <#{0}>\n**Notification** {1}\n**Role to remove** <@&{2}>\n**Role to give** <@&{3}>\n**Type** Switch{4}",
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Message** [click here]({0})\n**Notification** {1}\n**Role to remove** <@&{2}>\n**Role to give** <@&{3}>\n**Type** Switch{4}",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Channel** <#{0}>\n**Notification** {1}\n**Role(s)** {2}\n**Type** {3}{4}",
-    "BUTTONROLES_ADVANCED": "**Channel** <#{0}>\n**Roles** {1}"
+    "BUTTONROLES_ADVANCED": "**Channel** <#{0}>\n**Roles** {1}",
+    "MESSAGE_SEND_SENT": "Message sent{0}",
+    "MESSAGE_EDIT_EDITED": "[Message]({0}){1} edited"
 }
