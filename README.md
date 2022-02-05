@@ -1,25 +1,45 @@
-# SlashBotLocalization
-The localized strings of SlashBot
+# SlashBot Localization
 
-### How to add a new language:
-- Grab the en.json and TEMPLATE.json files
-- Fill out the TEMPLATE.json file with the translations translated from en.json
-- Rename the TEMPLATE.json file to the language code you translated to
-(for german that would be de.json)
-- Create a Pull request with the newly added file
-- Wait for approval
+This repository contains the translations of [SlashBot](https://top.gg/bot/788814313930096662).
+You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=788814313930096662&permissions=8&scope=bot%20applications.commands).
 
-### How to edit already existing languages:
-- Grab the language file you want to edit
-- Edit the strings
-- Create a pull request with the reason you changed those strings in the description
-- Wait for approval
+## Available Languages
 
-## **FILES WHICH YOU CAN'T CREATE PULL REQUESTS FOR**
-- TEMPLATE.json
-- en.json
-- AVAILABLE_LANGUAGES.json
+Thanks to our contributors, we have translated the bot to the following languages ❤
 
-These are the "template" files we use to add new languages since the bot is originally written in english and then translated to other languages
+- English ([`Zelda_Fan#0225`](https://github.com/ZeldaFan0225))
+- German ([`Zelda_Fan#0225`](https://github.com/ZeldaFan0225))
+- Spanish (`Evil Psychiatric ↯#6666`)
+- Portuguese (`Fabricio#3801`)
+- Czech ([`Dejvy#0069`](https://github.com/Dejvy))
+- French ([`ARγOtaRe#8215`](https://github.com/ARyOtaRe), [`Pikachu#0003`](https://github.com/PikaFederation))
 
-If you have any questions join our [support server](https://discord.gg/rs83TFf)
+And thanks to these people, for verifying new translations 💙
+
+- [`jonilala796#0001`](https://github.com/jonilala796)
+- [`Valentin04#3679`](https://github.com/Valetin04)
+
+## FAQs
+
+### I want to translate the bot to a different language
+
+Sure you can! Follow the following steps to translate the bot!
+
+1. Make sure there isn't a pull request for your language. In that case, you can verify their translations or ask the contributor to work together.
+2. [Fork this repository](https://github.com/SlashBotDiscord/SlashBotLocalization/fork).
+3. Rename this `/resources/en.json` file to `/resources/language_key.json` where `language_key` is a locale [supported by Discord](https://discord.com/developers/docs/dispatch/field-values#predefined-field-values-accepted-locales).
+4. Translate the `/resources/language_key.json` file. Only the values! Not the keys. In case your translation contains double quotes, escape them with a backslash (i.e. `"` => `\"`). Do not touch argument variables such as `{0}`.
+5. Create a pull request with the new language.
+6. Wait for approval.
+
+### How to modify or improve an already existing language?
+
+Follow the steps `2` and `4-6` of the [above question](https://github.com/SlashBotDiscord/SlashBotLocalization#i-want-to-translate-the-bot-to-a-different-language).
+
+### I have a question. Where should I ask?
+
+You can create [a new issue](https://github.com/SlashBotDiscord/SlashBotLocalization/issues/new?labels=question) or [join our support server](https://discord.gg/hJGetcxCSy).
+
+### I don't have a GitHub account. What can I do?
+
+Download the [`resources/en.json`](https://raw.githubusercontent.com/SlashBotDiscord/SlashBotLocalization/main/resources/en.json) file to translate it, [join our support server](https://discord.gg/hJGetcxCSy) and create a support ticket.
