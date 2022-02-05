@@ -155,8 +155,8 @@
     "ERROR_INVALID_RESTRICTION_ROLE": "Cargo(s) de restrição(ões) inválido(s)",
     "ERROR_MISSING_TITLE_FOR_URL": "Ao fornecer um link para o título, você precisa de um título",
     "ERROR_MISSING_PERMISSIONS": "Você não tem permissões [{0}]",
-    "ERROR_MESSAGE_SEND_SENT_TOO_MANY": "",
-    "ERROR_MESSAGE_SEND_NONE": "",
+    "ERROR_MESSAGE_SEND_SENT_TOO_MANY": "Você só pode ter conteúdo ou anexo",
+    "ERROR_MESSAGE_SEND_NONE": "Você precisa fornecer o conteúdo ou um anexo",
     "ERROR_NOT_A_GUILD_MEMBER": "Este não é um membro deste servidor",
     "ERROR_REASON_TOO_LONG": "Seu motivo é muito longo (máximo 200 caracteres)",
     "ERROR_FUNCTIONBUTTON_NO_RULES": "Este servidor não tem regras",
@@ -287,7 +287,7 @@
     "EMBED_SHORTEN_DESCRIPTION": "Reduza sua descrição em {0} caracteres",
     "EMBED_SHORTEN_FOOTER": "Reduza o rodapé em {0} caracteres",
     "EMBED_SHORTEN_STRINGS": "Reduza qualquer uma de suas strings para menos de 6.000 caracteres de título, descrição e rodapé no total",
-    "EMBED_SHORTEN_CONTENT": "",
+    "EMBED_SHORTEN_CONTENT": "Encurte seu conteúdo em {0} caracteres",
     "EMBED_EDIT_REPLACE_QUESTION": "Ao fornecer mais de 1 embed, todas as embeds serão substituídas pela nova.\nVocê deseja substituir as embeds antigas pelas novas?",
     "EMBED_EDIT_ONLY_ONE_EMBED": "Forneça apenas uma embed",
     "EMBED_EDIT_FIRST_IN_POSITION": "A primeira embed está na posição 1",
@@ -358,6 +358,6 @@
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Mensagem** [clique aqui]({0})\n**Notificação** {1}\n**Cargo para mover** <@&{2}>\n**Cargo para dar** <@&{3}>\n**Tipo** Troca{4}",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Canal** <#{0}>\n**Notificação** {1}\n**Cargo(s)** {2}\n**Tipo** {3}{4}",
     "BUTTONROLES_ADVANCED": "**Canal** <#{0}>\n**Cargos** {1}",
-    "MESSAGE_SEND_SENT": "",
-    "MESSAGE_EDIT_EDITED": ""
+    "MESSAGE_SEND_SENT": "Mensagem enviada{0}",
+    "MESSAGE_EDIT_EDITED": "[Mensagem]({0}){1} editada"
 }
