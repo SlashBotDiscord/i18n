@@ -176,6 +176,8 @@
     "ERROR_ROLES_NOT_BELOW": "All given roles have to be below me and not managed",
     "ERROR_ROLES_NOT_BELOW1": "All given roles have to be below me",
     "ERROR_ROLES_NOT_BELOW2": "None of the given roles can be managed",
+    "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "You can't add any more roles to this DropdownRoles setup",
+    "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "You can't remove any more roles from this DropdownRoles setup",
     "ERROR_PURGE_LIMIT": "You can only purge up to 100 messages",
     "ERROR_PURGE_MESSAGES_TOO_OLD": "The messages are older than 14 days and can't be deleted",
     "ERROR_SWITCH_MANAGED_ROLES": "You can't hand out or remove managed roles",
