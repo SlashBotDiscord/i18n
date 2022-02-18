@@ -268,7 +268,7 @@
     "REMOVE_COMPONENTS_DESCRIPTON": "**Удалено** {0}",
     "REMOVE_COMPONENTS_ALL": "Все компоненты",
     "REMOVE_COMPONENTS_POSITION": "Позиция {0}",
-    "MUTE_ISNT_MUTED": "на данный момент не в муте",
+    "MUTE_ISNT_MUTED": "{0} на данный момент не в муте",
     "MUTE_UNMUTED_IN": "{0} получит размут <t:{1}:R>",
     "LINKBUTTON_TITLE": "Кнопка с ссылкой добавлена",
     "LINKBUTTON_DESCRIPTION": "**Веб-сайт** [{0}]({1})\n**Сообщение** [нажмите здесь]({2})",
