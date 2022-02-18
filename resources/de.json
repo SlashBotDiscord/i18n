@@ -176,6 +176,8 @@
     "ERROR_ROLES_NOT_BELOW": "Alle gegebenen Rollen müssen unter meiner höchsten Rolle sein und dürfen integriert nicht sein",
     "ERROR_ROLES_NOT_BELOW1": "Alle gegebenen Rollen müssen unter meiner höchsten Rolle sein",
     "ERROR_ROLES_NOT_BELOW2": "Keine der gegebenen Rollen darf integriert sein",
+    "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "Du kannst diesem DropdownRoles Setup keine weiteren Rollen mehr hinzufügen",
+    "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "Du kannst von diesem DropdownRoles Setup keine weiteren Rollen mehr entfernen",
     "ERROR_PURGE_LIMIT": "Du kannst nur bis zu 100 Nachrichten löschen",
     "ERROR_PURGE_MESSAGES_TOO_OLD": "Die Nachrichten sind älter als 14 Tage und können daher nicht gelöscht werden",
     "ERROR_SWITCH_MANAGED_ROLES": "Du kannst keine verwalteten Rollen austauschen lassen",

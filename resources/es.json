@@ -176,6 +176,8 @@
     "ERROR_ROLES_NOT_BELOW": "Todos los roles otorgados tienen que estar por debajo de mí y no estar gestionados",
     "ERROR_ROLES_NOT_BELOW1": "Todos los roles a otorgar deben encontrarse inferiormente a mi rol",
     "ERROR_ROLES_NOT_BELOW2": "Ninguno de los roles proporcionados pueden ser gestionados",
+    "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "",
+    "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "",
     "ERROR_PURGE_LIMIT": "Sólo se pueden eliminar un máximo de 100 mensajes",
     "ERROR_PURGE_MESSAGES_TOO_OLD": "Estos mensajes tienen más de 14 días y no se pueden eliminar",
     "ERROR_SWITCH_MANAGED_ROLES": "No se pueden establecer o eliminar los roles administrados",

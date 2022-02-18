@@ -176,6 +176,8 @@
     "ERROR_ROLES_NOT_BELOW": "Todos os cargos dados devem estar abaixo de mim e não gerenciados",
     "ERROR_ROLES_NOT_BELOW1": "Todas os cargos dados devem estar abaixo de mim",
     "ERROR_ROLES_NOT_BELOW2": "Nenhum dos cargos fornecidos pode ser gerenciado",
+    "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "",
+    "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "",
     "ERROR_PURGE_LIMIT": "Você pode apenas limpar até 100 mensagens",
     "ERROR_PURGE_MESSAGES_TOO_OLD": "As mensagens têm mais de 14 dias e não podem ser excluídas",
     "ERROR_SWITCH_MANAGED_ROLES": "Você não pode distribuir ou remover cargos gerenciados",

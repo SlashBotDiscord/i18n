@@ -176,6 +176,8 @@
     "ERROR_ROLES_NOT_BELOW": "Všechny uvedené role musí být pod mojí rolí a žádná nesmí být spravována discordem",
     "ERROR_ROLES_NOT_BELOW1": "Všechny uvedené role musí být pode mnou",
     "ERROR_ROLES_NOT_BELOW2": "Žádná z rolí nemůže být spravována",
+    "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "",
+    "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "",
     "ERROR_PURGE_LIMIT": "Můžeš smazat pouze 100 zpráv",
     "ERROR_PURGE_MESSAGES_TOO_OLD": "Zrpávy jsou starší 14 dnů a proto nemohou být smazány",
     "ERROR_SWITCH_MANAGED_ROLES": "Nemůžeš dávat nebo odebírat spravované role",
