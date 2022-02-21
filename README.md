@@ -13,6 +13,7 @@ Thanks to our contributors, we have translated the bot to the following language
 - Portuguese (`Fabricio#3801`)
 - Czech ([`Dejvy#0069`](https://github.com/Dejvy))
 - French ([`ARγOtaRe#8215`](https://github.com/ARyOtaRe), [`Pikachu#0003`](https://github.com/PikaFederation))
+- Russian ([`Golosovoy#6202`](https://github.com/Golosovoy))
 
 And thanks to these people, for verifying new translations 💙
 
