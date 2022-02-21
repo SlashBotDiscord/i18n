@@ -128,6 +128,7 @@
     "YES": "Ja",
     "NO": "Nein",
     "ERROR_EMBED_TEXT_OR_IMAGE_REQUIRED": "Du benötigst mindestens ein Textfeld oder Bild",
+    "ERROR_EMBED_TOO_LONG_STRINGS": "Du kannst keine Texte mit über 6000 Zeichen länge haben",
     "ERROR_EMBED_NO_FIELD": "Es existiert kein Feld an dieser Position",
     "ERROR_EMBED_NO_FIELDS": "Es gibt keine Felder, die man entfernen könnte",
     "ERROR_EMBED_EDIT_NO_FIELDS": "Es gibt keine Felder, die man bearbeiten könnte",

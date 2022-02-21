@@ -128,6 +128,7 @@
     "YES": "Sí",
     "NO": "No",
     "ERROR_EMBED_TEXT_OR_IMAGE_REQUIRED": "Se necesita al menos un campo de texto o una imagen",
+    "ERROR_EMBED_TOO_LONG_STRINGS": "",
     "ERROR_EMBED_NO_FIELD": "",
     "ERROR_EMBED_NO_FIELDS": "",
     "ERROR_EMBED_EDIT_NO_FIELDS": "",
