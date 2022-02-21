@@ -128,6 +128,7 @@
     "YES": "Yes",
     "NO": "No",
     "ERROR_EMBED_TEXT_OR_IMAGE_REQUIRED": "You need at least one text field or an image",
+    "ERROR_EMBED_TOO_LONG_STRINGS": "You can't have over 6000 characters of strings in an embed",
     "ERROR_EMBED_NO_FIELD": "There is no field in that position",
     "ERROR_EMBED_NO_FIELDS": "There are no fields you could remove",
     "ERROR_EMBED_EDIT_NO_FIELDS": "There are no fields you could edit",
