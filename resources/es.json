@@ -63,7 +63,7 @@
     "EDIT_RAW_JSON_PLACEHOLDER": "Embed en JSON puro",
     "TIMESTAMP_PLACEHOLDER": "ISO8601 u otra fecha procesable",
     "EDIT_COLOR": "Editar color",
-    "COLOR_PLACEHOLDER": "Un nombre de color o un código hexadecimal con #",
+    "COLOR_PLACEHOLDER": "Un nombre de color o un código hex (#)",
     "IMAGE_FORMAT": "Formato de imagen",
     "PLACEHOLDER_TEXT": "¿Te gustan los perros?",
     "PLACEHOLDER_SETUP": "Esta es sólo una vista previa de los roles que has proporcionado",
