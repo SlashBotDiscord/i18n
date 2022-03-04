@@ -13,6 +13,7 @@ ButtonRoles have 3 modes:
 - Toggle, which removes if you have the role and adds if you don't have the role
 - Add, which only adds the role no matter if you have it already
 - Remove, which only removes the role no matter if you don't have it
+- Switch, which removes one role but adds another role in return
 
 ![ButtonRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413770900533268/buttonrole.png)
 
