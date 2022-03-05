@@ -9,7 +9,7 @@ SlashBot offers a wide variety of features. From simple moderation over fun comm
 One of our key features are ButtonRoles.
 With ButtonRoles you can easily let members of your server assign role(s) to them selves.
 
-ButtonRoles have 3 modes:
+ButtonRoles have 4 modes:
 - Toggle, which removes if you have the role and adds if you don't have the role
 - Add, which only adds the role no matter if you have it already
 - Remove, which only removes the role no matter if you don't have it
