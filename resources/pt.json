@@ -10,6 +10,7 @@
     "EVENTS_RECEIVED": "Eventos recebidos",
     "SUPPORT_SERVER": "Servidor de Suporte",
     "PREMIUM_STATUS": "Status premium",
+    "PREMIUM_INFO": "",
     "EXPIRES": "",
     "GET_PREMIUM": "",
     "OPEN_PRIVATE_THREAD": "Abrir um tópico privado",
@@ -117,6 +118,7 @@
     "BANNER": "Banner",
     "GUILD": "Servidor",
     "USERS": "Usuários",
+    "USER": "",
     "ROLES": "Cargos",
     "PING": "Ping",
     "VOTE": "Votar",
@@ -418,5 +420,8 @@
     "BUTTONROLES_CREATE_DESCRIPTION": "**Canal** <#{0}>\n**Notificação** {1}\n**Cargo(s)** {2}\n**Tipo** {3}{4}",
     "BUTTONROLES_ADVANCED": "**Canal** <#{0}>\n**Cargos** {1}",
     "MESSAGE_SEND_SENT": "Mensagem enviada{0}",
-    "MESSAGE_EDIT_EDITED": "[Mensagem]({0}){1} editada"
+    "MESSAGE_EDIT_EDITED": "[Mensagem]({0}){1} editada",
+    "PREMIUM_STATUS_USER": "",
+    "PREMIUM_STATUS_GUILD": "",
+    "PREMIUM_INFO_DESCRIPTION": ""
 }

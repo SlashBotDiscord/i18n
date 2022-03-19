@@ -10,6 +10,7 @@
     "EVENTS_RECEIVED": "Commands erhalten",
     "SUPPORT_SERVER": "Support Server",
     "PREMIUM_STATUS": "Premium Status",
+    "PREMIUM_INFO": "",
     "EXPIRES": "",
     "GET_PREMIUM": "",
     "OPEN_PRIVATE_THREAD": "Einen privaten Thread öffnen",
@@ -117,6 +118,7 @@
     "BANNER": "Banner",
     "GUILD": "Server ",
     "USERS": "Nutzer",
+    "USER": "",
     "ROLES": "Rollen",
     "PING": "Ping",
     "VOTE": "Stimme Ab",
@@ -418,5 +420,8 @@
     "BUTTONROLES_CREATE_DESCRIPTION": "**Kanal** <#{0}>\n**Benachrichtigung** {1}\n**Rolle(n)** {2}\n**Typ** {3}{4}",
     "BUTTONROLES_ADVANCED": "**Kanal** <#{0}>\n**Rolle(n)** {1}",
     "MESSAGE_SEND_SENT": "Nachricht{0} gesendet",
-    "MESSAGE_EDIT_EDITED": "[Nachricht]({0}){1} bearbeitet"
+    "MESSAGE_EDIT_EDITED": "[Nachricht]({0}){1} bearbeitet",
+    "PREMIUM_STATUS_USER": "",
+    "PREMIUM_STATUS_GUILD": "",
+    "PREMIUM_INFO_DESCRIPTION": ""
 }

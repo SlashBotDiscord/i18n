@@ -10,6 +10,7 @@
     "EVENTS_RECEIVED": "Uskutečněné eventy",
     "SUPPORT_SERVER": "Podpora",
     "PREMIUM_STATUS": "Premium Stav",
+    "PREMIUM_INFO": "",
     "EXPIRES": "",
     "GET_PREMIUM": "",
     "OPEN_PRIVATE_THREAD": "Otevřít soukromé vlákno",
@@ -117,6 +118,7 @@
     "BANNER": "Banner",
     "GUILD": "Server",
     "USERS": "Uživatelé",
+    "USER": "",
     "ROLES": "Role",
     "PING": "Odezva",
     "VOTE": "Hlasovat",
@@ -418,5 +420,8 @@
     "BUTTONROLES_CREATE_DESCRIPTION": "**Kanál** <#{0}>\n**Oznámení** {1}\n**Role** {2}\n**Typ** {3}{4}",
     "BUTTONROLES_ADVANCED": "**Kanál** <#{0}>\n**Role** {1}",
     "MESSAGE_SEND_SENT": "",
-    "MESSAGE_EDIT_EDITED": ""
+    "MESSAGE_EDIT_EDITED": "",
+    "PREMIUM_STATUS_USER": "",
+    "PREMIUM_STATUS_GUILD": "",
+    "PREMIUM_INFO_DESCRIPTION": ""
 }
