@@ -10,6 +10,7 @@
     "EVENTS_RECEIVED": "",
     "SUPPORT_SERVER": "",
     "PREMIUM_STATUS": "",
+    "PREMIUM_INFO": "",
     "EXPIRES": "",
     "GET_PREMIUM": "",
     "OPEN_PRIVATE_THREAD": "",
@@ -117,6 +118,7 @@
     "BANNER": "",
     "GUILD": "",
     "USERS": "",
+    "USER": "",
     "ROLES": "",
     "PING": "",
     "VOTE": "",
@@ -419,6 +421,9 @@
     "BUTTONROLES_ADVANCED": "",
     "MESSAGE_SEND_SENT": "",
     "MESSAGE_EDIT_EDITED": "",
+    "PREMIUM_STATUS_USER": "",
+    "PREMIUM_STATUS_GUILD": "",
+    "PREMIUM_INFO_DESCRIPTION": "",
     "EMBED_ADVANCED_EDIT": "",
     "ERORR_NOT_A_DEV": ""
 }

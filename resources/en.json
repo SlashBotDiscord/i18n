@@ -10,6 +10,7 @@
     "EVENTS_RECEIVED": "Events received",
     "SUPPORT_SERVER": "Support Server",
     "PREMIUM_STATUS": "Premium status",
+    "PREMIUM_INFO": "Premium info",
     "EXPIRES": "✅ Expires {0}",
     "GET_PREMIUM": "❌ [Upgrade your experience now]({0})",
     "OPEN_PRIVATE_THREAD": "Open a private thread",
@@ -117,6 +118,7 @@
     "BANNER": "Banner",
     "GUILD": "Guild",
     "USERS": "Users",
+    "USER": "User",
     "ROLES": "Roles",
     "PING": "Ping",
     "VOTE": "Vote",
@@ -418,5 +420,8 @@
     "BUTTONROLES_CREATE_DESCRIPTION": "**Channel** <#{0}>\n**Notification** {1}\n**Role(s)** {2}\n**Type** {3}{4}",
     "BUTTONROLES_ADVANCED": "**Channel** <#{0}>\n**Roles** {1}",
     "MESSAGE_SEND_SENT": "Message sent{0}",
-    "MESSAGE_EDIT_EDITED": "[Message]({0}){1} edited"
+    "MESSAGE_EDIT_EDITED": "[Message]({0}){1} edited",
+    "PREMIUM_STATUS_USER": "**Activated** {0}{1}\n**Guilds activated** {2}\n**Tier** {3}",
+    "PREMIUM_STATUS_GUILD": "**Activated** {0}\n**Activated by** {1}",
+    "PREMIUM_INFO_DESCRIPTION": "SlashBot Premium is the best way to make using SlashBot easier. It includes special advanced tools to give you the ability to create new content your community will love. By purchasing SlashBot premium you help keep the project online.\n\nLearn how to purchase and activate SlashBot Premium [here]({0}).\nIf you are already subscribed use `/premium activate` to activate premium for a server of your choice.\nPurchase a Premium subscription [here]({1}).\nStill have questions? Join our support server [here]({2})\n\nCurrently available premium commands:\n```\n{3}```"
 }

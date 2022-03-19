@@ -10,6 +10,7 @@
     "EVENTS_RECEIVED": "Событий получено",
     "SUPPORT_SERVER": "Сервер поддержки",
     "PREMIUM_STATUS": "Премиум статус",
+    "PREMIUM_INFO": "",
     "EXPIRES": "",
     "GET_PREMIUM": "",
     "OPEN_PRIVATE_THREAD": "Создать приватную ветку",
@@ -117,6 +118,7 @@
     "BANNER": "Баннер",
     "GUILD": "Сервер",
     "USERS": "Кол-во пользователей",
+    "USER": "",
     "ROLES": "Роли",
     "PING": "Пинг",
     "VOTE": "Проголосовать",
@@ -418,5 +420,8 @@
     "BUTTONROLES_CREATE_DESCRIPTION": "**Канал** <#{0}>\n**Уведомление** {1}\n**Роль(-и)** {2}\n**Тип** {3}{4}",
     "BUTTONROLES_ADVANCED": "**Канал** <#{0}>\n**Роли** {1}",
     "MESSAGE_SEND_SENT": "Сообщение отправлено{0}",
-    "MESSAGE_EDIT_EDITED": "[Сообщение]({0}){1} отредактировано"
+    "MESSAGE_EDIT_EDITED": "[Сообщение]({0}){1} отредактировано",
+    "PREMIUM_STATUS_USER": "",
+    "PREMIUM_STATUS_GUILD": "",
+    "PREMIUM_INFO_DESCRIPTION": ""
 }
