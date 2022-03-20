@@ -1,0 +1,16 @@
+name: Node JS
+
+on:
+    push:
+        paths:
+            - "resources/**.json"
+
+jobs:
+    run_scripts:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v2
+              with:
+                  node-version: "16"
+            - run: find ./scripts -type f -regex '.*m?js' -exec node {} \;
