@@ -7,6 +7,7 @@ SlashBot é um novo bot inovador que traz comandos de barra e outras novas inter
 Um dos nossos principais recursos são os Cargos por Botões. Com Cargos por Botões você pode facilmente permitir que os membros do seu servidor atribuam funções a eles mesmos.
 
 Cargos por Botões tem 4 modos:
+
 - Toggle, que remove se você tiver a função e adiciona se você não tiver a função
 - Add, que apenas adiciona a função, não importa se você já a possui
 - Remove, que apenas remove a função, não importa se você não a possui
@@ -15,7 +16,6 @@ Cargos por Botões tem 4 modos:
 ![ButtonRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413770900533268/buttonrole.png)
 
 Você pode personalizar o rótulo, emoji e até o estilo dos botões.
-
 
 ## Menus Suspensos
 
