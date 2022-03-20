@@ -421,7 +421,12 @@
     "BUTTONROLES_ADVANCED": "**Kanal** <#{0}>\n**Rolle(n)** {1}",
     "MESSAGE_SEND_SENT": "Nachricht{0} gesendet",
     "MESSAGE_EDIT_EDITED": "[Nachricht]({0}){1} bearbeitet",
-    "PREMIUM_STATUS_USER": "",
-    "PREMIUM_STATUS_GUILD": "",
-    "PREMIUM_INFO_DESCRIPTION": ""
+    "PREMIUM_STATUS_USER": "**Aktiviert** {0}{1}\n**Server aktiviert** {2}\n**Rang** {3}",
+    "PREMIUM_STATUS_GUILD": "**Aktiviert** {0}\n**Aktiviert durch** {1}",
+    "PREMIUM_INFO_DESCRIPTION": "SlashBot Premium ist der beste Weg, deine Nutzererfahrung zu verbessern. Es beinhaltet professionelle Werkzeuge, mit denen du neue Inhalte erstellen kannst, die deine Servermitglieder lieben werden. Durch erwerben von SlashBot Premium unterstützt du die Entwickler das Projekt an Leben zu erhalten.\n\nErfahre [hier]({0}), wie du SlashBot Premium erwerben und aktivieren kannst.\nFalls du schon SlashBot Premium erworben hast, verwende `/premium activate`, um Premium im Server deiner Wahl zu aktivieren.\nErwerbe [hier]({1}) SlashBot Premium.\nDu hast noch Fragen? Trete unserem [Server]({2}) bei.\n\nDerzeit verfügbare Commands:\n```\n{3}```",
+    "NO_USER_PREMIUM": "Du hast kein Premium! Aktiviere es hier: {0}",
+    "PREMIUM_NON_EXISTENT_GUILD": "Der Server mit der ID {0} existiert nicht",
+    "PREMIUM_ALREADY_ENABLED": "Dieser Server hat schon Premium.",
+    "PREMIUM_MAX_GUILDS_ACTIVATED": "Dein Premium-Rang kann nicht mehr als {0} Server aktivieren. [Erhöhe deinen Premium-Rang]({1}) oder kontaktiere die Entwickler, wenn du mehr als {2} Server aktivieren möchtest",
+    "PREMIUM_UNKNOWN_ERROR": "Fehler bei der Aktivierung von Premium"
 }
