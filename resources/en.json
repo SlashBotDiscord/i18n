@@ -270,7 +270,7 @@
     "ERROR_SHARDS_SPAWNING": "We are currently restarting. Please wait until we are back online.",
     "ERROR_FATAL_MISSING_ACCESS": "I'm missing access",
     "ERROR_UNKNOWN": "Something went wrong",
-    "ERROR_NO_PREMIUM": "To use this command this guild needs a [premium subscription]({0})",
+    "ERROR_NO_PREMIUM": "In order to use this command this guild needs a [premium subscription]({0})",
     "OTHER_BUTTON": "Other Button",
     "ERROR": "Error",
     "UNBAN_SUCCESS": "I unbanned **{0}** (`{1}`) on <@{2}> request",
@@ -423,5 +423,10 @@
     "MESSAGE_EDIT_EDITED": "[Message]({0}){1} edited",
     "PREMIUM_STATUS_USER": "**Activated** {0}{1}\n**Guilds activated** {2}\n**Tier** {3}",
     "PREMIUM_STATUS_GUILD": "**Activated** {0}\n**Activated by** {1}",
-    "PREMIUM_INFO_DESCRIPTION": "SlashBot Premium is the best way to make using SlashBot easier. It includes special advanced tools to give you the ability to create new content your community will love. By purchasing SlashBot premium you help keep the project online.\n\nLearn how to purchase and activate SlashBot Premium [here]({0}).\nIf you are already subscribed use `/premium activate` to activate premium for a server of your choice.\nPurchase a Premium subscription [here]({1}).\nStill have questions? Join our support server [here]({2})\n\nCurrently available premium commands:\n```\n{3}```"
+    "PREMIUM_INFO_DESCRIPTION": "SlashBot Premium is the best way to make using SlashBot easier. It includes special advanced tools to give you the ability to create new content your community will love. By purchasing SlashBot premium you help keep the project online.\n\nLearn how to purchase and activate SlashBot Premium [here]({0}).\nIf you are already subscribed use `/premium activate` to activate premium for a server of your choice.\nPurchase a Premium subscription [here]({1}).\nStill have questions? Join our support server [here]({2})\n\nCurrently available premium commands:\n```\n{3}```",
+    "NO_USER_PREMIUM": "You don't have premium! Activate it from here: {0}",
+    "PREMIUM_NON_EXISTENT_GUILD": "The guild with ID {0} doesn't exist",
+    "PREMIUM_ALREADY_ENABLED": "This guild already has premium",
+    "PREMIUM_MAX_GUILDS_ACTIVATED": "Your premium tier can't activate more than {0} guild(s). [Upgrade]({1}) or contact the developers if you wish to activate more than {2} guilds",
+    "PREMIUM_UNKNOWN_ERROR": "Unable to enable premium"
 }
