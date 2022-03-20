@@ -1,6 +1,6 @@
 {
     "CLICK_TO_ARCHIVE_THREAD": "Click below to archive this thread",
-    "SWITCH_ROLE": "Switch role \"{0}\"",
+    "SWITCH_ROLE": "Switch role \"{0}\"", 
     "TOGGLE_ROLE": "Toggle role \"{0}\"",
     "ADD_ROLE": "Add role \"{0}\"",
     "REMOVE_ROLE": "Remove role \"{0}\"",
