@@ -10,6 +10,7 @@ One of our key features are ButtonRoles.
 With ButtonRoles you can easily let members of your server assign role(s) to them selves.
 
 ButtonRoles have 4 modes:
+
 - Toggle, which removes if you have the role and adds if you don't have the role
 - Add, which only adds the role no matter if you have it already
 - Remove, which only removes the role no matter if you don't have it
@@ -18,7 +19,6 @@ ButtonRoles have 4 modes:
 ![ButtonRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413770900533268/buttonrole.png)
 
 You can customize the label, emoji and even the style of the buttons.
-
 
 ## DropdownRoles
 

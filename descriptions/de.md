@@ -10,6 +10,7 @@ Ein Haupe-Feature sind ButtonRoles.
 Mit ButtonRoles kannst du mühelos den Mitgliedern deines Servers erlauben sich Rollen zuzuweisen.
 
 ButtonRoles haben 4 Modi:
+
 - Toggle bzw. Wechseln, welcher die Rolle hinzufügt, falls man sie nicht hat und die Rolle entfernt, falls man sie hat
 - Add bzw. Hinzufügen, welcher die Rolle nur hinzufügt, aber nicht wieder entfernt
 - Remove bzw. Entfernen, welcher die Rolle nur entfernt, aber nicht hinzufügt
@@ -18,7 +19,6 @@ ButtonRoles haben 4 Modi:
 ![ButtonRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413770900533268/buttonrole.png)
 
 Du kannst das Label, das Emoji und sogar das Aussehen des Buttons anpassen.
-
 
 ## DropdownRoles
 
