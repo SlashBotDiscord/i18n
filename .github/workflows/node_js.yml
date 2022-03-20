@@ -10,7 +10,15 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: actions/setup-node@v2
+            - name: Run Node.js Scripts
+              uses: actions/setup-node@v2
               with:
                   node-version: "16"
             - run: find ./scripts -type f -regex '.*m?js' -exec node {} \;
+            - name: Commit and push changes
+              run: |
+                  git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git config --global user.name "github-actions[bot]"
+                  git add -A
+                  git commit -m "chore(resources): Organize files"
+                  git push
