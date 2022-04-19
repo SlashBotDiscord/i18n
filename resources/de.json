@@ -191,6 +191,7 @@
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "Ich bin nicht in der Lage eine Nachricht in diesem Kanal zu senden oder du hast eine ungültige Bilder URL gegeben",
     "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Ich bin nicht in der Lage eine Nachricht in diesen Kanal zu senden, also kann ich nichts überprüfen",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Mir fehlt die Berechtigung deine Rollen zu verwalten",
+    "ERROR_COLOR_TOO_LARGE": "",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Du kannst Befehle nur in einem Server verwenden",
     "ERROR_COMPONENT_CREATED_BY_CLIENT": "Ich kann nur Komponenten entfernen, die von einem Nutzer erstellt wurden",
     "ERROR_COMPONENTS_MOVE_NOT_ENOUGH_BUTTONS": "In dieser Nachricht sind nicht genügend Buttons",

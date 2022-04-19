@@ -191,6 +191,7 @@
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",
     "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "No es posible enviar un mensaje a este canal, por lo que no se puede comprobar",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Se necesitan permisos para gestionar los roles",
+    "ERROR_COLOR_TOO_LARGE": "",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Sólo se pueden usar comandos en servidores",
     "ERROR_COMPONENT_CREATED_BY_CLIENT": "Sólo es posible eliminar componentes añadidos por un usuario",
     "ERROR_COMPONENTS_MOVE_NOT_ENOUGH_BUTTONS": "No hay suficientes botones en este mensje",
