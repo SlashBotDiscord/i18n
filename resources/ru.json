@@ -191,6 +191,7 @@
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",
     "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Я не могу отправить сообщение в этот канал, поэтому проверка невозможна.",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Мне не хватает прав для управления вашими ролями",
+    "ERROR_COLOR_TOO_LARGE": "",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Вы можете использовать команды только на серверах",
     "ERROR_COMPONENT_CREATED_BY_CLIENT": "Я могу удалять только те компоненты, которые были добавлены пользователем",
     "ERROR_COMPONENTS_MOVE_NOT_ENOUGH_BUTTONS": "На этом сообщении не хватает кнопок",
