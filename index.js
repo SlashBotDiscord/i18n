@@ -12,7 +12,7 @@ class SlashBotLocalizationManager {
                     readFileSync(`./localizations/${f}`).toString("utf-8")
                 );
             });
-        Object.defineProperty(this, "languages", {writable: false, value: i18n})
+        Object.defineProperty(this, "languages", {value: i18n})
     }
 
     getTranslation(locale, key, ...args) {
