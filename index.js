@@ -20,10 +20,10 @@ class SlashBotLocalizationManager {
     getTranslation(locale, key, ...args) {
 		let language = locale
 		language = language.split("-")[0]
-		if (!(language in this.client.i18n)) language = "en";
+		if (!(language in this.languages)) language = "en";
 
-		const strings = this.client.i18n[language],
-			english = this.client.i18n["en"];
+		const strings = this.languages[language],
+			english = this.languages["en"];
 		let value;
 
 		if (key in strings) value = strings[key];
