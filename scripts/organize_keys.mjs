@@ -2,7 +2,7 @@ import { opendir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
 const BLACKLISTED = ["AVAILABLE_LANGUAGES.json"];
-const BASE_PATH = join(process.cwd(), "resources");
+const BASE_PATH = join(process.cwd(), "localizations");
 
 const PRIMARY_FILE = await pathToJSON(join(BASE_PATH, "en.json"));
 
@@ -14,7 +14,7 @@ for await (const dirent of await opendir(BASE_PATH)) {
     for (const k in file) {
         if (!(k in PRIMARY_FILE)) {
             console.warn(
-                `Removing extra key from resources/${dirent.name} — "${k}": "${file[k]}"`
+                `Removing extra key from localizations/${dirent.name} — "${k}": "${file[k]}"`
             );
 
             delete file[k];
@@ -25,7 +25,7 @@ for await (const dirent of await opendir(BASE_PATH)) {
         if (!(k in file)) {
             file[k] = "";
             console.info(
-                `Adding missing key "${k}" in resources/${dirent.name}`
+                `Adding missing key "${k}" in localizations/${dirent.name}`
             );
         }
     }
