@@ -7,11 +7,11 @@ class SlashBotLocalizationManager {
 
     loadLanguages() {
         let i18n = {};
-        readdirSync("./localizations")
+        readdirSync(`${__dirname}/localizations`)
             .filter((f) => f.replace(".json", "").length === 2)
             .forEach((f) => {
                 i18n[f.replace(".json", "")] = JSON.parse(
-                    readFileSync(`./localizations/${f}`).toString("utf-8")
+                    readFileSync(`${__dirname}/localizations/${f}`).toString("utf-8")
                 );
             });
         Object.defineProperty(this, "languages", {value: i18n})
