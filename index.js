@@ -1,3 +1,5 @@
+const {readdirSync, readFileSync} = require("fs")
+
 class SlashBotLocalizationManager {
     constructor() {
         this.loadLanguages()
