@@ -211,6 +211,7 @@
     "ERROR_BUTTONROLE_MANAGED_ROLE": "Du kannst keine verwalteten Rollen ausgeben",
     "ERROR_BUTTONROLE_MISSING_ADMIN": "Du kannst keine Rollen über dir selbst einrichten ohne Administrator zu sein",
     "ERROR_BUTTONROLE_MISSING_PERMISSIONS": "Mir fehlt die Berechtigung deine Rollen zu ändern",
+    "ERROR_BUTTONROLE_MISSING_ROLES": "",
     "ERROR_BUTTONROLE_MISSING_ROLE1": "<:SystemMessageInteractionFail:964501377466372136> Dir fehlt die Rolle <@&{0}>, um die Rollen {2} von dir zu entfernen oder hinzuzufügen.",
     "ERROR_BUTTONROLE_MISSING_ROLE2": "<:SystemMessageInteractionFail:964501377466372136> Dir fehlt die Rolle <@&{0}>, um dir die Rollen {1} zu geben.",
     "ERROR_BUTTONROLE_MISSING_ROLE3": "<:SystemMessageInteractionFail:964501377466372136> Dir fehlt die Rolle <@&{0}>, um die Rollen {1} von dir zu entfernen.",

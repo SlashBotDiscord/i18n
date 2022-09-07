@@ -211,6 +211,7 @@
     "ERROR_BUTTONROLE_MANAGED_ROLE": "No se pueden establecer los roles gestionados",
     "ERROR_BUTTONROLE_MISSING_ADMIN": "No se pueden establecer roles superiores sin ser administrador",
     "ERROR_BUTTONROLE_MISSING_PERMISSIONS": "Se necesitan permisos para actualizar los roles",
+    "ERROR_BUTTONROLE_MISSING_ROLES": "",
     "ERROR_BUTTONROLE_MISSING_ROLE1": "<:SystemMessageInteractionFail:964501377466372136> Te falta el rol <@&{0}> para {1} el/los rol(es) {2} {3}.",
     "ERROR_BUTTONROLE_MISSING_ROLE2": "<:SystemMessageInteractionFail:964501377466372136> Te falta el rol <@&{0}> para asignarte el/los rol(es) {1}.",
     "ERROR_BUTTONROLE_MISSING_ROLE3": "<:SystemMessageInteractionFail:964501377466372136> Te falta el rol <@&{0}> para quitarte el/los rol(es) {1}.",
