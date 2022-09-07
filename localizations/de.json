@@ -26,7 +26,7 @@
     "BUTTONROLE_ADVANCED_DESCRIPTION": "Klicke unten, um einen Knopf hinzuzufügen/zu entfernen\n\nStelle sicher, dass du den unten aufgelisteten Vorgaben folgst:\n`- ` Ein Label kann ein diverser Text oder `none` sein\n`- ` Ein Emoji kann jeder Emoji, eine ID oder `none` sein\n`- ` Das Aussehen muss `PRIMARY`, `SECONDARY`, `SUCCESS oder `DANGER` sein\n`- ` Der Modus kann `TOGGLE`, `ADD` oder `REMOVE` sein.\n`- ` Die benötigte Rolle ist die Rolle, die das Mitglied benötigt\n\nDu kannst unten ein Menü mit den Knöpfen sehen, die du schon erstellt hast",
     "BUTTONROLE_REQUIRED_ROLE": "\n**Benötigte Rolle** <@&{0}>",
     "BUTTONROLE_SETUP": "ButtonRole Setup",
-    "BUTTONROLE_DATA_TABLE": "**ID** `{0}`\n**Rollen Umschalten** {1}\n**Rollen Hinzufügen** {2}\n**Rollen Entfernen** {3}\n**Benötigte Rollen** {4}\n**Benachrichtigung** {5}\n**Benötigen Modus**\n {6}\n**Nutzer Limit** {7}",
+    "BUTTONROLE_DATA_TABLE": "**ID** `{0}`\n**Rollen Umschalten** {1}\n**Rollen Hinzufügen** {2}\n**Rollen Entfernen** {3}\n**Benötigte Rollen** {4}\n**Benachrichtigung** {5}\n**Benötigen Modus**\n {6}\n**Nutzer Limit** {7}\n**Pausiert** {8}",
     "BUTTONROLE_REQUIRE_ALL": "Alle benötigen",
     "BUTTONROLE_REQUIRE_SOME": "Einige bemötigen",
     "BUTTONROLE_SUCCESS_DESCRIPTION": "**Rolle(n)** <@&{0}>\n**Benachrichtigung** {1}\n**Type** {2}\n**Nachricht** [Klicke hier]({3}){4}",

@@ -26,7 +26,7 @@
     "BUTTONROLE_ADVANCED_DESCRIPTION": "Click the buttons below to add/remove a button\n\nMake sure to follow the requirements below:\n`- ` A label can be any text or `none`\n`- ` An emoji can be any emoji, an ID or `none`\n`- ` The style being `PRIMARY`, `SECONDARY`, `SUCCESS` or `DANGER`\n`- ` The mode being `TOGGLE`, `ADD` or `REMOVE`\n`- ` Required role being a role the member needs\n\nYou can see a select-menu below with the buttons you already set up",
     "BUTTONROLE_REQUIRED_ROLE": "\n**Required Role** <@&{0}>",
     "BUTTONROLE_SETUP": "ButtonRole setup",
-    "BUTTONROLE_DATA_TABLE": "**ID** `{0}`\n**Roles Toggle** {1}\n**Roles Add** {2}\n**Roles Remove** {3}\n**Roles Require** {4}\n**Notification** {5}\n**Required Mode**\n {6}\n**Users Limit** {7}",
+    "BUTTONROLE_DATA_TABLE": "**ID** `{0}`\n**Roles Toggle** {1}\n**Roles Add** {2}\n**Roles Remove** {3}\n**Roles Require** {4}\n**Notification** {5}\n**Required Mode**\n {6}\n**Users Limit** {7}\n**Paused** {8}",
     "BUTTONROLE_REQUIRE_ALL": "Require all roles",
     "BUTTONROLE_REQUIRE_SOME": "Require some roles",
     "BUTTONROLE_SUCCESS_DESCRIPTION": "**Role(s)** <@&{0}>\n**Notification** {1}\n**Type** {2}\n**Message** [Click here]({3}){4}",
