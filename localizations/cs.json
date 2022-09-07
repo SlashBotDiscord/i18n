@@ -35,6 +35,7 @@
     "BUTTONROLES_ADVANCED_ROLES_INSTRUCTION": "Další zprávy prosím odešlete v následujícím formátu:\n```md\n@{0} <role> <režim> <styl> <emotikon> <štítek>\n<požadovaná role>```\n` - ` [Styl musí být číslo mezi 1 a 4](https://discord.com/assets/7bb017ce52cfd6575e21c058feb3883b.png)\n​ ​ ​ ​ ​`- **: **{1} \n​ ​ ​ ​ ​`- ` **{2}**: Sekundární\n​ ​ ​ ​ ​`- ` **{3}**: Úspěch\n​ ​ ​ ​ ​`- ` **{4}**: Destruktivní\n`- ` Režim musí být jeden z následujících\n​ ​ ​ ​ ​`- ` **toggle**: Umožňuje přidávat a odebírat\n<:empty: 708946760277688363>`- ` **add**: Umožňuje pouze přidávání\n<:prázdný:964464317137289248>`- ` **remove**: Umožňuje pouze odebírat\n`- ` Musí být poskytnut štítek **nebo** emotikony \n`- ` Štítek může být jakýkoli text kratší než 100 znaků nebo žádný\n`- ` Emoji může být jakýkoli emotikon, výchozí nebo žádný\n`- ` Maximálně 25 rolí\n`- ` Před požadovanou rolí musí být nový řádek\n`- ` Role nutná k použití tlačítka\nPošli `done` pro dokončení nebo `cancel` pro zrušení",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Kanál** <#{0}>\n**Oznámení** {1}\n**Role** {2}\n**Typ** {3}{4}",
     "BUTTONROLES_SET_UP": "Tlačítkový setup",
+    "BUTTONROLES_EDITED": "",
     "BUTTONROLES_SETUP_CANCELLED": "Tlačítkový setup byl zrušen",
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Zpráva** [klikněte zde]({0})\n**Oznámení** {1}\n**Role k odebrání** <@&{2}>\n**Role k přidání** <@&{3}>\n**Typ** Prohození{4}",
     "BUTTONROLES_SWITCH_DESCRIPTION_CREATE": "**Kanál** <#{0}>\n**Oznámení** {1}\n**Role k odebrání** <@&{2}>\n**Role k přidání** <@&{3}>\n**Typ** Prohození{4}",
