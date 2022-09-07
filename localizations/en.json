@@ -35,6 +35,7 @@
     "BUTTONROLES_ADVANCED_ROLES_INSTRUCTION": "Please send the next messages with the following format:\n```md\n@{0} <role> <mode> <style> <emoji> <label>\n<required role>```\n`- ` [The style must be a number between 1 and 4](https://discord.com/assets/7bb017ce52cfd6575e21c058feb3883b.png)\n​ ​ ​ ​ ​`- ` **{1}**: Primary\n​ ​ ​ ​ ​`- ` **{2}**: Secondary\n​ ​ ​ ​ ​`- ` **{3}**: Success\n​ ​ ​ ​ ​`- ` **{4}**: Destructive\n`- ` The mode must be a one of the following\n​ ​ ​ ​ ​`- ` **toggle**: Allows adding and removing\n​ ​ ​ ​ ​`- ` **add**: Allows only adding\n​ ​ ​ ​ ​`- ` **remove**: Allows only removing\n`- ` A label **or** emoji must be provided\n`- ` A label can be any text less than 80 characters or none\n`- ` An emoji can be any emoji, `default` or `none`\n`- ` Maximum 25 roles\n`- ` There must be a newline before the required role\n`- ` The role required to use the button\nSend `done` to finish or `cancel` to cancel",
     "BUTTONROLES_CREATE_DESCRIPTION": "**Channel** <#{0}>\n**Notification** {1}\n**Role(s)** {2}\n**Type** {3}{4}",
     "BUTTONROLES_SET_UP": "ButtonRoles set up",
+    "BUTTONROLES_EDITED": "ButtonRole edited",
     "BUTTONROLES_SETUP_CANCELLED": "ButtonRoles setup cancelled",
     "BUTTONROLES_SWITCH_DESCRIPTION_ADD": "**Message** [click here]({0})\n**Notification** {1}\n**Role to remove** <@&{2}>\n**Role to give** <@&{3}>\n**Type** Switch{4}",
     "BUTTONROLES_SWITCH_DESCRIPTION_CREATE": "**Channel** <#{0}>\n**Notification** {1}\n**Role to remove** <@&{2}>\n**Role to give** <@&{3}>\n**Type** Switch{4}",
