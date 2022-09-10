@@ -26,6 +26,7 @@
     "BUTTONROLE_ADVANCED_ROLES_PLACEHOLDER": "Bis zu 5 Rollen getrennt mit ','\nFüge am Ende eine benötigte Rolle mit '|' hinzu",
     "BUTTONROLE_ADVANCED_DESCRIPTION": "Klicke unten, um einen Knopf hinzuzufügen/zu entfernen\n\nStelle sicher, dass du den unten aufgelisteten Vorgaben folgst:\n`- ` Ein Label kann ein diverser Text oder `none` sein\n`- ` Ein Emoji kann jeder Emoji, eine ID oder `none` sein\n`- ` Das Aussehen muss `PRIMARY`, `SECONDARY`, `SUCCESS oder `DANGER` sein\n`- ` Der Modus kann `TOGGLE`, `ADD` oder `REMOVE` sein.\n`- ` Die benötigte Rolle ist die Rolle, die das Mitglied benötigt\n\nDu kannst unten ein Menü mit den Knöpfen sehen, die du schon erstellt hast",
     "BUTTONROLE_REQUIRED_ROLE": "\n**Benötigte Rolle** <@&{0}>",
+    "BUTTONROLE_LOG_CHANNEL_TEST_MESSAGE": "",
     "BUTTONROLE_SETUP": "ButtonRole Setup",
     "BUTTONROLE_CREATED": "",
     "BUTTONROLE_DELETED": "",
