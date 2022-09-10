@@ -373,6 +373,7 @@
     "FOOTER": "Footer",
     "FORM_CREATE_MODAL_TITLE": "Create the questions for the user to answer",
     "FORM_CREATE_MODAL_LABEL": "Question {0}",
+    "FORM_DATA_TABLE": "**ID** `{0}`\n**Questions** {1}\n**Editable** {2}\n**Log Channel** {3}\n**Paused** {4}",
     "FUNCTIONBUTTON_DESCRIPTION": "**Function** {0}\n**Message** [click here]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Server Rules {0}",
     "FUNCTIONBUTTON_TITLE": "FunctionButton added",
