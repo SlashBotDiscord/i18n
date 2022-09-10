@@ -373,6 +373,8 @@
     "FOOTER": "Fußnote",
     "FORM_CREATE_MODAL_TITLE": "",
     "FORM_CREATE_MODAL_LABEL": "",
+    "FORM_SET_UP": "",
+    "FORM_LIST_TITLE": "",
     "FORM_DATA_TABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Funktion** {0}\n**Nachricht** [klicke hier]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Server Regeln {0}",

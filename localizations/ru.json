@@ -373,6 +373,8 @@
     "FOOTER": "Нижний колонтитул",
     "FORM_CREATE_MODAL_TITLE": "",
     "FORM_CREATE_MODAL_LABEL": "",
+    "FORM_SET_UP": "",
+    "FORM_LIST_TITLE": "",
     "FORM_DATA_TABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Функция** {0}\n**Сообщение** [нажмите здесь]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Правила сервера {0}",

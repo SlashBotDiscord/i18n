@@ -373,6 +373,8 @@
     "FOOTER": "Pie",
     "FORM_CREATE_MODAL_TITLE": "",
     "FORM_CREATE_MODAL_LABEL": "",
+    "FORM_SET_UP": "",
+    "FORM_LIST_TITLE": "",
     "FORM_DATA_TABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Función** {0}\n**Mensaje** [haz clic aquí]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Reglas del servidor {0}",
