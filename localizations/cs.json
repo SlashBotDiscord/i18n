@@ -373,6 +373,8 @@
     "FOOTER": "",
     "FORM_CREATE_MODAL_TITLE": "",
     "FORM_CREATE_MODAL_LABEL": "",
+    "FORM_SET_UP": "",
+    "FORM_LIST_TITLE": "",
     "FORM_DATA_TABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Funkce** {0}\n**Zpráva** [klikněte zde]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Pravidla Serveru {0}",
