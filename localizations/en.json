@@ -375,7 +375,7 @@
     "FORM_CREATE_MODAL_LABEL": "Question {0}",
     "FORM_SET_UP": "Form set up",
     "FORM_LIST_TITLE": "All Forms",
-    "FORM_DATA_TABLE": "**ID** `{0}`\n**Questions** {1}\n**Editable** {2}\n**Log Channel** {3}\n**Paused** {4}",
+    "FORM_DATA_TABLE": "**ID** `{0}`\n**Title** {1}\n**Questions** {2}\n**Editable** {3}\n**Log Channel** {4}\n**Paused** {5}",
     "FUNCTIONBUTTON_DESCRIPTION": "**Function** {0}\n**Message** [click here]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Server Rules {0}",
     "FUNCTIONBUTTON_TITLE": "FunctionButton added",
