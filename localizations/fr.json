@@ -373,6 +373,7 @@
     "FOOTER": "Pied de page",
     "FORM_CREATE_MODAL_TITLE": "",
     "FORM_CREATE_MODAL_LABEL": "",
+    "FORM_DATA_TABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Fonction** {0}\n**Message** [clique ici]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Règles du serveur {0}",
     "FUNCTIONBUTTON_TITLE": "FunctionButton ajouté",
