@@ -338,7 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "That's not a message sent by me",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "That's not a message sent by me (new)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "That's not a message sent by me (old)",
-    "ERROR_NOT_YOUR_PROMPT": "Only the user that used this command can interact with the buttons",
+    "ERROR_NOT_YOUR_PROMPT": "Only the author may use this command",
     "ERROR_OPEN_THREAD": "You already have a thread opened (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "Your placeholder exceeded the max length (max. 150)",
     "ERROR_PROMPT_EXPIRED": "This prompt expired",
