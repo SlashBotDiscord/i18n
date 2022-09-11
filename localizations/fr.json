@@ -289,6 +289,7 @@
     "ERROR_FATAL_MISSING_ACCESS": "Il me manque l'accès",
     "ERROR_FATAL_MISSING_PERMISSIONS": "Il me manque des permissions pour effectuer cette action",
     "ERROR_FORM_LIMIT_REACHED": "",
+    "ERROR_FORM_ALREADY_SUBMITTED": "",
     "ERROR_FUNCTIONBUTTON_NO_PRONOUN_ROLES": "Tu as besoin de 4 rôles appelés 'he/him', 'she/her', 'they/them' et 'others'",
     "ERROR_FUNCTIONBUTTON_NO_RULES": "Ce serveur n'a aucune règle",
     "ERROR_FUNCTIONBUTTON_USED_IN_THREAD": "Tu ne peux pas ouvrir un fil de discussion dans un fil de discussion",
