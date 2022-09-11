@@ -338,6 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "Este mensaje no se ha enviado por mí",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Este mensaje no se ha enviado por mí (nuevo)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Este mensaje no se ha enviado por mí (antiguo)",
+    "ERROR_NOT_YOUR_PROMPT": "",
     "ERROR_OPEN_THREAD": "Ya existe un hilo abierto (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "El indicador de contenido ha excedido la longitud máxima permitida (máx. 100)",
     "ERROR_PROMPT_EXPIRED": "Este aviso ha expirado",

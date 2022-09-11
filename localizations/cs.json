@@ -338,6 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "To není zpráva poslaná mnou",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "To není zpráva poslaná mnou (nový)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "To není zpráva poslaná mnou (starý)",
+    "ERROR_NOT_YOUR_PROMPT": "",
     "ERROR_OPEN_THREAD": "Už máš vlákno otevřené (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "Maximální délka placeholderu byla překročena (max. 100)",
     "ERROR_PROMPT_EXPIRED": "Příkaz byl zrušen",

@@ -338,6 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "Dies ist keine gültige Nachricht, die von mir geschickt wurde",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Dies ist keine gültige Nachricht, die von mir geschickt wurde (neu)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Dies ist keine gültige Nachricht, die von mir geschickt wurde (alt)",
+    "ERROR_NOT_YOUR_PROMPT": "",
     "ERROR_OPEN_THREAD": "Du hast schon einen Thread offen (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "Dein Platzhalter ist zu lang (max. 100 Zeichen)",
     "ERROR_PROMPT_EXPIRED": "Diese Eingabeaufforderung ist abgelaufen",

@@ -338,6 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "Ce n'est pas un message envoyé par moi",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "C'est n'est pas un message envoyé par moi (nouveau)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Ce n'est pas un message envoyé par moi (ancien)",
+    "ERROR_NOT_YOUR_PROMPT": "",
     "ERROR_OPEN_THREAD": "Tu as déjà un fil de discussion d'ouvert (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "Oups ! Ton texte par défaut dépasse la longueur maximale (max. 100)",
     "ERROR_PROMPT_EXPIRED": "Cette demande a expiré. Merci de recommencer !",
