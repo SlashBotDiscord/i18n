@@ -338,6 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "Esta não é uma mensagem enviada por mim",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Esta não é uma mensagem enviada por mim (nova)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Esta não é uma mensagem enviada por mim (antiga)",
+    "ERROR_NOT_YOUR_PROMPT": "",
     "ERROR_OPEN_THREAD": "Você já tem um tópico aberto (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "Seu espaço reservado excedeu o comprimento máximo (máximo 100)",
     "ERROR_PROMPT_EXPIRED": "Este prompt expirou",

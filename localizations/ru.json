@@ -338,6 +338,7 @@
     "ERROR_NOT_SENT_BY_CLIENT": "Это сообщение отправлено не мной",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Это сообщение отправлено не мной (новое)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Это сообщение отправлено не мной (старое)",
+    "ERROR_NOT_YOUR_PROMPT": "",
     "ERROR_OPEN_THREAD": "У вас уже есть открытая ветка (<#{0}>)",
     "ERROR_PLACEHOLDER_LENGTH_EXCEEDED": "Ваш заполнитель превысил максимальную длину (макс. 100)",
     "ERROR_PROMPT_EXPIRED": "Срок действия запроса истек",
