@@ -3,7 +3,8 @@ name: Node JS
 on:
     push:
         paths:
-            - "resources/**.json"
+            - "information/**.json"
+            - "localizations/**.json"
 
 jobs:
     run_scripts:
