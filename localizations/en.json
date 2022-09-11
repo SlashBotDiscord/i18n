@@ -328,6 +328,7 @@
     "ERROR_NO_DROPDOWN_IN_ROW": "There's no dropdown in the selected row",
     "ERROR_NO_EMBED": "There are no embeds in this message",
     "ERROR_NO_EMBED_IN_POSITION": "There's no embed in position {0}",
+    "ERROR_NO_FURTHER_PAGES_FOUND": "Unable to find any more pages",
     "ERROR_NO_PREMIUM": "In order to use this command this guild needs a [premium subscription]({0})",
     "ERROR_NOT_A_DEV": "You're not a developer",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "That's not a dropdownrole setup",

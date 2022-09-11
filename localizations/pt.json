@@ -328,6 +328,7 @@
     "ERROR_NO_DROPDOWN_IN_ROW": "Não há menu suspenso na linha selecionada",
     "ERROR_NO_EMBED": "",
     "ERROR_NO_EMBED_IN_POSITION": "Não há embed na posição {0}",
+    "ERROR_NO_FURTHER_PAGES_FOUND": "",
     "ERROR_NO_PREMIUM": "",
     "ERROR_NOT_A_DEV": "Você não é um desenvolvedor",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "Isso não é uma configuração de menu suspenso",

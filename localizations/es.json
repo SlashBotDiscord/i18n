@@ -328,6 +328,7 @@
     "ERROR_NO_DROPDOWN_IN_ROW": "No hay ningún desplegable en la fila seleccionada",
     "ERROR_NO_EMBED": "",
     "ERROR_NO_EMBED_IN_POSITION": "No hay un embed en la posición {0}",
+    "ERROR_NO_FURTHER_PAGES_FOUND": "",
     "ERROR_NO_PREMIUM": "",
     "ERROR_NOT_A_DEV": "No eres un desarrollador",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "Esa no es una configuración de desplegable de rol válida",

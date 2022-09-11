@@ -328,6 +328,7 @@
     "ERROR_NO_DROPDOWN_IN_ROW": "Il n'y a pas de menu déroulant dans la rangée sélectionnée",
     "ERROR_NO_EMBED": "",
     "ERROR_NO_EMBED_IN_POSITION": "Il n'y a pas d'intégration en position {0}",
+    "ERROR_NO_FURTHER_PAGES_FOUND": "",
     "ERROR_NO_PREMIUM": "",
     "ERROR_NOT_A_DEV": "Tu n'es pas un développeur",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "Ce n'est pas une configuration de dropdownrole",
