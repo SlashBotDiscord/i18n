@@ -1,11 +1,11 @@
 {
   "name": "slashbot_localization",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push_update": "node main.js && git add . && git commit -m \"updated languages\" && git push origin main"
+    "push_update": "node main.js && git add . && git commit -m \"updated languages\" && git pull origin main && git push origin main"
   },
   "author": "",
   "license": "ISC"
