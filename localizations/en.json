@@ -388,6 +388,7 @@
     "FORM_RESPONSE_DATA_TABLE": "**User** {0}\n**Answers** {1}\n**Edited** {2}",
     "FORM_RESPONSE_DATA_TITLE": "Form Response",
     "FORM_RESPONSE_DELETED": "Deleted the response from {0} to the form {1}",
+    "FORM_RESPONSES_DELETED": "Deleted all responses from form {1}",
     "FORM_RESPONSES_TITLE": "Form Responses",
     "FORM_SET_UP": "Form set up",
     "FORM_SUBMITTED_EDITABLE": "Thanks for submitting your answer.\nYou can edit them at any time by pressing the button again.",
