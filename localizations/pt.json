@@ -377,6 +377,8 @@
     "FORM_DELETED": "",
     "FORM_CREATE_MODAL_LABEL": "",
     "FORM_SET_UP": "",
+    "FORM_EDITED": "",
+    "FORM_EDIT_DISCLAIMER": "",
     "FORM_LIST_TITLE": "",
     "FORM_DATA_TABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Função** {0}\n**Mensagem** [clique aqui]({1})",
