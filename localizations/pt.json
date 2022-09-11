@@ -383,6 +383,8 @@
     "FORM_EDIT_DISCLAIMER": "",
     "FORM_LIST_TITLE": "",
     "FORM_DATA_TABLE": "",
+    "FORM_SUBMITTED_EDITABLE": "",
+    "FORM_SUBMITTED_NOT_EDITABLE": "",
     "FUNCTIONBUTTON_DESCRIPTION": "**Função** {0}\n**Mensagem** [clique aqui]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Regras do Servidor {0}",
     "FUNCTIONBUTTON_TITLE": "FunctionButton adicionada",

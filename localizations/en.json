@@ -383,6 +383,8 @@
     "FORM_EDIT_DISCLAIMER": "You just edited this form.\nIf you edited any questions the user replies might not make sense any more since they answered the old questions.",
     "FORM_LIST_TITLE": "All Forms",
     "FORM_DATA_TABLE": "**ID** `{0}`\n**Title** {1}\n**Questions** {2}\n**Editable** {3}\n**Log Channel** {4}\n**Paused** {5}",
+    "FORM_SUBMITTED_EDITABLE": "Thanks for submitting your answer.\nYou can edit them at any time by pressing the button again.",
+    "FORM_SUBMITTED_NOT_EDITABLE": "Thanks for submitting your answer.",
     "FUNCTIONBUTTON_DESCRIPTION": "**Function** {0}\n**Message** [click here]({1})",
     "FUNCTIONBUTTON_SERVER_RULES": "Server Rules {0}",
     "FUNCTIONBUTTON_TITLE": "FunctionButton added",
