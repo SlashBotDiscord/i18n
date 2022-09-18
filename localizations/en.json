@@ -44,6 +44,7 @@
     "BUTTONROLE_LIST_TITLE": "All created ButtonRoles",
     "BUTTONROLE_LIST_TOGGLE": "Toggle Roles",
     "BUTTONROLE_LOG_CHANNEL_TEST_MESSAGE": "This channel has been set up to be the log channel for a ButtonRole (This is a test message)",
+    "BUTTONROLE_LOG_SOURCE": "The user used a Button with the ButtonRole `{0}` on [this message]({1})",
     "BUTTONROLE_REQUIRE_ALL": "Require all roles",
     "BUTTONROLE_REQUIRE_SOME": "Require some roles",
     "BUTTONROLE_REQUIRED_ROLE": "\n**Required Role** <@&{0}>",
