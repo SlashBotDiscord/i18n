@@ -44,6 +44,7 @@
     "BUTTONROLE_LIST_TITLE": "",
     "BUTTONROLE_LIST_TOGGLE": "",
     "BUTTONROLE_LOG_CHANNEL_TEST_MESSAGE": "",
+    "BUTTONROLE_LOG_SOURCE": "",
     "BUTTONROLE_REQUIRE_ALL": "Alle benötigen",
     "BUTTONROLE_REQUIRE_SOME": "Einige bemötigen",
     "BUTTONROLE_REQUIRED_ROLE": "\n**Benötigte Rolle** <@&{0}>",
