@@ -44,6 +44,7 @@
     "BUTTONROLE_LIST_TITLE": "Все созданные ButtonRoles",
     "BUTTONROLE_LIST_TOGGLE": "Переключаемые роли",
     "BUTTONROLE_LOG_CHANNEL_TEST_MESSAGE": "Этот канал был настроен как канал логов для ButtonRole (Это тестовое сообщение)",
+    "BUTTONROLE_ID": "",
     "BUTTONROLE_REQUIRE_ALL": "Требуются роли",
     "BUTTONROLE_REQUIRE_SOME": "Требуются некоторые роли",
     "BUTTONROLE_REQUIRED_ROLE": "\n**Требуемая роль** <@&{0}>",
