@@ -391,6 +391,7 @@
     "FORM_LOG_CHANNEL_TEST_MESSAGE": "This channel has been set up to be the log channel for a Form (This is a test message)",
     "FORM_LOG_TITLE_SUBMIT": "Response Submitted",
     "FORM_LOG_TITLE_EDITED": "Response Edited",
+    "FORM_ANSWERS_TOO_LONG": "The submitted answers are too long to be displayed.\nPlease use {0} to view the answers",
     "FORM_RESPONSE_DATA_TABLE": "**User** {0}\n**Edited** {1}\n**Answers**\n\n{2}",
     "FORM_RESPONSE_DATA_TITLE": "Form Response",
     "FORM_RESPONSE_DELETED": "Deleted the response from {0} to the form {1}",
