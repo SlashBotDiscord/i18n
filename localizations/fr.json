@@ -247,6 +247,8 @@
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "Tu ne peux pas exiger le rôle @everyone",
     "ERROR_BUTTONROLE_ROLE_NAME_EXCEEDED": "Le nom de ton rôle ne peut pas dépasser 50 caractères quand tu ne fournis pas de label personnalisé",
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Tu ne peux pas ajouter et retirer le même rôle",
+    "ERROR_BUTTONROLE_ROLES_RESTRICTED": "",
+    "ERROR_BUTTONROLE_ROLES_REQUIRED_RESTRICTED": "",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Lorsque tu restreint les rôles, tu ne peux en configurer que 4 à la fois",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Type invalide (Types valides : `toggle` `add` `remove`)",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Il me manque les permissions pour envoyer des messages dans le salon dans lequel se trouve le message",
