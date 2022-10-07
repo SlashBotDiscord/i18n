@@ -247,6 +247,8 @@
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "Você não pode exigir o cargo @everyone",
     "ERROR_BUTTONROLE_ROLE_NAME_EXCEEDED": "Os nomes dos cargos não podem ter mais de 50 caracteres quando não há um rótulo personalizado",
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Você não pode remover e adicionar o mesmo cargo",
+    "ERROR_BUTTONROLE_ROLES_RESTRICTED": "",
+    "ERROR_BUTTONROLE_ROLES_REQUIRED_RESTRICTED": "",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Ao restringir os cargos, você só pode configurar 4 cargos de uma vez",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Tipo inválido (tipos válidos: `toggle` `add` `remove`)",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Não tenho permissão para enviar mensagens no canal em que a mensagem esta",

@@ -247,6 +247,8 @@
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "Вы не можете запрашивать роль @everyone",
     "ERROR_BUTTONROLE_ROLE_NAME_EXCEEDED": "Названия ваших ролей не могут быть длиннее 50 символов, если вы не указали собственную пометку.",
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Вы не можете удалять и добавлять одну и ту же роль",
+    "ERROR_BUTTONROLE_ROLES_RESTRICTED": "",
+    "ERROR_BUTTONROLE_ROLES_REQUIRED_RESTRICTED": "",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Вы можете настроить только 4 роли одновременно при ограничении этой кнопки",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Неверный тип (допустимые типы: `toggle` `add` `remove`)",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Мне не хватает прав на отправку сообщений в канале, в котором находится сообщение",

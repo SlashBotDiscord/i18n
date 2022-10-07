@@ -247,6 +247,8 @@
     "ERROR_BUTTONROLE_REQUIRE_EVERYONE": "Du kannst die Rolle @everyone nicht voraussetzen",
     "ERROR_BUTTONROLE_ROLE_NAME_EXCEEDED": "Du musst ein Label angeben, wenn deine Rollennamen länger als 50 Zeichen sind",
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Du kannst nicht die gleiche Rolle austauschen",
+    "ERROR_BUTTONROLE_ROLES_RESTRICTED": "",
+    "ERROR_BUTTONROLE_ROLES_REQUIRED_RESTRICTED": "",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Wenn du den Knopf beschränkst kannst du nur 4 Rollen auf einmal geben",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Ungültiger Typ (gültige Typen: `toggle`, `add`, `remove`)",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Mit fehlt die Berechtigung Nachrichten in den Kanal zu senden, in dem sich die Nachricht befindet",
