@@ -569,9 +569,9 @@
     "VOTE": "Votar",
     "WARN_SUCCESS": "**{0} ha sido advertido por:**\n{1}{2}",
     "WARN_SUCCESS_REASONLESS": "**{0} ha sido advertido**",
+    "WEBHOOKIFY_MODAL_AVATAR": "",
     "WEBHOOKIFY_MODAL_TITLE": "",
     "WEBHOOKIFY_MODAL_USERNAME": "",
-    "WEBHOOKIFY_MODAL_AVATAR": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Página web",
     "YES": "Sí"
