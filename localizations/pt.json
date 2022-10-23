@@ -570,9 +570,9 @@
     "VOTE": "Votar",
     "WARN_SUCCESS": "**{0} foi avisado por:**\n{1}{2}",
     "WARN_SUCCESS_REASONLESS": "**{0} foi avisado**",
+    "WEBHOOKIFY_MODAL_AVATAR": "",
     "WEBHOOKIFY_MODAL_TITLE": "",
     "WEBHOOKIFY_MODAL_USERNAME": "",
-    "WEBHOOKIFY_MODAL_AVATAR": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Website",
     "YES": "Sim"

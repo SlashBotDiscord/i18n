@@ -570,9 +570,9 @@
     "VOTE": "Vote",
     "WARN_SUCCESS": "**{0} has been warned for:**\n{1}{2}",
     "WARN_SUCCESS_REASONLESS": "**{0} has been warned**",
+    "WEBHOOKIFY_MODAL_AVATAR": "Webhook Avatar Url",
     "WEBHOOKIFY_MODAL_TITLE": "Enter Webhook Data",
     "WEBHOOKIFY_MODAL_USERNAME": "Webhook Username",
-    "WEBHOOKIFY_MODAL_AVATAR": "Webhook Avatar Url",
     "WEBHOOKIFY_SUCCESS": "Successfully webhookified [this message]({0}) with the username \"{1}\" and the given [avatar](<{2}>)",
     "WEBSITE": "Website",
     "YES": "Yes"
