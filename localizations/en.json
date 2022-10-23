@@ -376,8 +376,9 @@
     "ERROR_UNKNOWN_WITH_LINK": "`Something went horribly wrong.` [ErrorURL](https://discord.com/channels/{0}/{1}/{2})",
     "ERROR_WARN_YOURSELF": "You can't warn yourself",
     "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "Unable to find message. Please try again.",
-    "ERROR_WEBHOOKIFY_UNABLE_TO_CREATE": "Unable to create webhook. Max Webhook limit reached or invalid avatar URL",
+    "ERROR_WEBHOOKIFY_UNABLE_TO_CREATE": "Unable to create webhook. Max Webhook limit reached (10) or invalid avatar URL",
     "ERROR_WEBHOOKIFY_UNABLE_TO_SEND": "Unable to create message using Webhook",
+    "ERROR_WEBHOOKIFY_INVALID_CHANNEL": "This command can only be used in text, news or thread channels",
     "ERROR_WIKIPEDIA_NO_RESULT": "I'm not able to find anything with the query [{0}] you gave",
     "EVENTS_RECEIVED": "Events received",
     "EXPIRES": "✅ Expires {0}",
@@ -572,7 +573,7 @@
     "WEBHOOKIFY_MODAL_TITLE": "Enter Webhook Data",
     "WEBHOOKIFY_MODAL_USERNAME": "Webhook Username",
     "WEBHOOKIFY_MODAL_AVATAR": "Webhook Avatar Url",
-    "WEBHOOKIFY_SUCCESS": "Successfully webhookified [this message]({0}) with the username \"{1}\" and the given [avatar]({2})",
+    "WEBHOOKIFY_SUCCESS": "Successfully webhookified [this message]({0}) with the username \"{1}\" and the given [avatar](<{2}>)",
     "WEBSITE": "Website",
     "YES": "Yes"
 }
