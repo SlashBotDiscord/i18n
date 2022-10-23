@@ -376,6 +376,8 @@
     "ERROR_UNKNOWN_WITH_LINK": "",
     "ERROR_WARN_YOURSELF": "Tu ne peux pas t'avertir toi-même",
     "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "",
+    "ERROR_WEBHOOKIFY_UNABLE_TO_CREATE": "",
+    "ERROR_WEBHOOKIFY_UNABLE_TO_SEND": "",
     "ERROR_WIKIPEDIA_NO_RESULT": "",
     "EVENTS_RECEIVED": "Événement reçu",
     "EXPIRES": "",
@@ -567,6 +569,10 @@
     "VOTE": "Vote",
     "WARN_SUCCESS": "**{0} a reçu un avertissement pour la raison suivante:**\n{1}{2}",
     "WARN_SUCCESS_REASONLESS": "**{0} a été averti**",
+    "WEBHOOKIFY_MODAL_TITLE": "",
+    "WEBHOOKIFY_MODAL_USERNAME": "",
+    "WEBHOOKIFY_MODAL_AVATAR": "",
+    "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Site Web",
     "YES": "Oui"
 }
