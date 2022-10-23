@@ -375,6 +375,7 @@
     "ERROR_UNKNOWN": "Something went wrong",
     "ERROR_UNKNOWN_WITH_LINK": "`Something went horribly wrong.` [ErrorURL](https://discord.com/channels/{0}/{1}/{2})",
     "ERROR_WARN_YOURSELF": "You can't warn yourself",
+    "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "Unable to find message. Please try again.",
     "ERROR_WIKIPEDIA_NO_RESULT": "I'm not able to find anything with the query [{0}] you gave",
     "EVENTS_RECEIVED": "Events received",
     "EXPIRES": "✅ Expires {0}",
