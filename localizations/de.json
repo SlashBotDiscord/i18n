@@ -570,9 +570,9 @@
     "VOTE": "Stimme Ab",
     "WARN_SUCCESS": "**{0} wurde verwarnt für:**\n{1}{2}",
     "WARN_SUCCESS_REASONLESS": "**{0} wurde verwarnt**",
+    "WEBHOOKIFY_MODAL_AVATAR": "",
     "WEBHOOKIFY_MODAL_TITLE": "",
     "WEBHOOKIFY_MODAL_USERNAME": "",
-    "WEBHOOKIFY_MODAL_AVATAR": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Webseite",
     "YES": "Ja"
