@@ -375,6 +375,7 @@
     "ERROR_UNKNOWN": "Что-то пошло не так",
     "ERROR_UNKNOWN_WITH_LINK": "`Что-то пошло не так.` [ErrorURL](https://discord.com/channels/{0}/{1}/{2})",
     "ERROR_WARN_YOURSELF": "Вы не можете выдать предупреждение самому себе",
+    "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "",
     "ERROR_WIKIPEDIA_NO_RESULT": "Я не могу ничего найти по запросу [{0}], который вы дали.",
     "EVENTS_RECEIVED": "Событий получено",
     "EXPIRES": "✅ Истекает {0}",

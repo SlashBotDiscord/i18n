@@ -375,6 +375,7 @@
     "ERROR_UNKNOWN": "Algo deu errado",
     "ERROR_UNKNOWN_WITH_LINK": "",
     "ERROR_WARN_YOURSELF": "Você não pode se avisar",
+    "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "",
     "ERROR_WIKIPEDIA_NO_RESULT": "",
     "EVENTS_RECEIVED": "Eventos recebidos",
     "EXPIRES": "",

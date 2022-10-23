@@ -375,6 +375,7 @@
     "ERROR_UNKNOWN": "Něco se pokazilo",
     "ERROR_UNKNOWN_WITH_LINK": "",
     "ERROR_WARN_YOURSELF": "Nemůžeš varovat sám sebe",
+    "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "",
     "ERROR_WIKIPEDIA_NO_RESULT": "",
     "EVENTS_RECEIVED": "Uskutečněné eventy",
     "EXPIRES": "",

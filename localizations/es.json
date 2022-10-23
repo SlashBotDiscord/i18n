@@ -375,6 +375,7 @@
     "ERROR_UNKNOWN": "Algo ha salido mal",
     "ERROR_UNKNOWN_WITH_LINK": "",
     "ERROR_WARN_YOURSELF": "No se puede advertir a uno mismo",
+    "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "",
     "ERROR_WIKIPEDIA_NO_RESULT": "",
     "EVENTS_RECEIVED": "Eventos recibidos",
     "EXPIRES": "",

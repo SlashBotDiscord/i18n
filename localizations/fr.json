@@ -375,6 +375,7 @@
     "ERROR_UNKNOWN": "Il y a eu un problème",
     "ERROR_UNKNOWN_WITH_LINK": "",
     "ERROR_WARN_YOURSELF": "Tu ne peux pas t'avertir toi-même",
+    "ERROR_WEBHOOKIFY_MESSAGE_NOT_FOUND": "",
     "ERROR_WIKIPEDIA_NO_RESULT": "",
     "EVENTS_RECEIVED": "Événement reçu",
     "EXPIRES": "",
