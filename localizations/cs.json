@@ -89,6 +89,7 @@
     "CONTINUE": "",
     "COPIED": "Zkopíroval",
     "COPYMESSAGE_SUCCESS": "[Tato]({0}) zpráva zkopírována",
+    "COPYMESSAGE_NOT_SERVER_OWNER": "",
     "COPYMESSAGE_SUCCESS_CHANNEL": "Zkopíroval jsem [tuto zprávu]({0}){1}",
     "COPYMESSAGE_UNABLE_TO_FETCH": "Nemohl jsem získat údaje o uvedené zprávě",
     "CREATED": "Vytvořeno",

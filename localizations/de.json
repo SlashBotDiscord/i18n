@@ -89,6 +89,7 @@
     "CONTINUE": "Fortfahren",
     "COPIED": "kopiert",
     "COPYMESSAGE_SUCCESS": "Ich habe [diese Nachricht]({0}) kopiert",
+    "COPYMESSAGE_NOT_SERVER_OWNER": "",
     "COPYMESSAGE_SUCCESS_CHANNEL": "Ich habe die [Nachricht]({0}){1} kopiert",
     "COPYMESSAGE_UNABLE_TO_FETCH": "Es ist mir nicht möglich diese Nachricht zu sehen",
     "CREATED": "Erstellt",

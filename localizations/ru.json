@@ -89,6 +89,7 @@
     "CONTINUE": "Продолжить",
     "COPIED": "Скопировано",
     "COPYMESSAGE_SUCCESS": "[Сообщение]({0}) скопировано",
+    "COPYMESSAGE_NOT_SERVER_OWNER": "",
     "COPYMESSAGE_SUCCESS_CHANNEL": "Я скопировал [сообщение]({0}){1}",
     "COPYMESSAGE_UNABLE_TO_FETCH": "Невозможно получить целевое сообщение",
     "CREATED": "Создан",
