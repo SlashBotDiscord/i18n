@@ -89,6 +89,7 @@
     "CONTINUE": "",
     "COPIED": "Copié",
     "COPYMESSAGE_SUCCESS": "Copié [ce message]({0})",
+    "COPYMESSAGE_NOT_SERVER_OWNER": "",
     "COPYMESSAGE_SUCCESS_CHANNEL": "J'ai copié [le message]({0}){1}",
     "COPYMESSAGE_UNABLE_TO_FETCH": "Impossible de récupérer le message ciblé",
     "CREATED": "Créé",

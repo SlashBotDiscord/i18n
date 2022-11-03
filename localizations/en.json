@@ -89,6 +89,7 @@
     "CONTINUE": "Continue",
     "COPIED": "Copied",
     "COPYMESSAGE_SUCCESS": "Copied [this message]({0})",
+    "COPYMESSAGE_NOT_SERVER_OWNER": "To copy messages from another server you need to be the owner of that server",
     "COPYMESSAGE_SUCCESS_CHANNEL": "I copied [the message]({0}){1}",
     "COPYMESSAGE_UNABLE_TO_FETCH": "Unable to fetch targeted message",
     "CREATED": "Created",
