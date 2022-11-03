@@ -1,8 +1,13 @@
 const {readdirSync, readFileSync} = require("fs")
 
 class SlashBotLocalizationManager {
+    #languages = {}
     constructor() {
         this.loadLanguages()
+    }
+
+    get languages() {
+        return this.#languages
     }
 
     loadLanguages() {
@@ -14,7 +19,8 @@ class SlashBotLocalizationManager {
                     readFileSync(`${__dirname}/localizations/${f}`).toString("utf-8")
                 );
             });
-        Object.defineProperty(this, "languages", {value: i18n})
+        this.language
+        this.#languages = i18n
     }
 
     getTranslation(locale, key, ...args) {
