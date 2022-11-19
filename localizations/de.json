@@ -164,6 +164,7 @@
     "EDIT_COLOR": "Farbe bearbeiten",
     "EDIT_DESCRIPTION": "Beschreibung bearbeiten",
     "EDIT_EMBED": "Bearbeiten beenden",
+    "ADD_EMBED": "",
     "EDIT_FIELD": "Feld bearbeiten",
     "EDIT_FIELD_INLINE": "In einer Zeile anordnen",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "Entweder 'true' oder 'false'",

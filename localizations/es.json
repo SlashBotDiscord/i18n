@@ -164,6 +164,7 @@
     "EDIT_COLOR": "Editar color",
     "EDIT_DESCRIPTION": "Editar Descripción",
     "EDIT_EMBED": "Finalizar configuración del embed",
+    "ADD_EMBED": "",
     "EDIT_FIELD": "Editar Campo",
     "EDIT_FIELD_INLINE": "Campo en Línea",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "Uno de 'true' o 'false'",
