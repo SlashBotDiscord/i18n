@@ -1,6 +1,7 @@
 {
     "ACTIVITIES_RESPONSE": "[Click to join {0}]({1})",
     "ADD_BUTTON": "Add Button",
+    "ADD_EMBED": "Add embed to message",
     "ADD_FIELD": "Add Field",
     "ADD_ROLE": "Add role \"{0}\"",
     "AND": "and",
@@ -164,7 +165,6 @@
     "EDIT_COLOR": "Edit color",
     "EDIT_DESCRIPTION": "Edit Description",
     "EDIT_EMBED": "Finish embed editing",
-    "ADD_EMBED": "Add embed to message",
     "EDIT_FIELD": "Edit Field",
     "EDIT_FIELD_INLINE": "Field Inline",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "One of 'true' or 'false'",

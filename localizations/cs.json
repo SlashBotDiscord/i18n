@@ -1,6 +1,7 @@
 {
     "ACTIVITIES_RESPONSE": "[Kliknutím se připojíte]({0})",
     "ADD_BUTTON": "",
+    "ADD_EMBED": "",
     "ADD_FIELD": "",
     "ADD_ROLE": "Přidat roli \"{0}\"",
     "AND": "a",
@@ -164,7 +165,6 @@
     "EDIT_COLOR": "",
     "EDIT_DESCRIPTION": "",
     "EDIT_EMBED": "",
-    "ADD_EMBED": "",
     "EDIT_FIELD": "",
     "EDIT_FIELD_INLINE": "",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "",
