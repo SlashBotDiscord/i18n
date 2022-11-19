@@ -164,6 +164,7 @@
     "EDIT_COLOR": "modifier la couleur",
     "EDIT_DESCRIPTION": "Modifier la description",
     "EDIT_EMBED": "Terminer la modification de l'intégration",
+    "ADD_EMBED": "",
     "EDIT_FIELD": "Modifier un champ de texte",
     "EDIT_FIELD_INLINE": "Alignement du champ de texte",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "Un entre 'true' ou 'false'",

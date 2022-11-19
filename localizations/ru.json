@@ -164,6 +164,7 @@
     "EDIT_COLOR": "Редактировать цвет",
     "EDIT_DESCRIPTION": "Редактировать описание",
     "EDIT_EMBED": "Редактировать эмбед",
+    "ADD_EMBED": "",
     "EDIT_FIELD": "Редактировать поле",
     "EDIT_FIELD_INLINE": "Inline поле",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "Одно из значений: да 'true' или нет 'false'",
