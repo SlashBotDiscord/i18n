@@ -296,6 +296,7 @@
     "ERROR_FATAL_MISSING_ACCESS": "I'm missing access",
     "ERROR_FATAL_MISSING_PERMISSIONS": "I'm missing permissions to perform this action",
     "ERROR_FORM_ALREADY_SUBMITTED": "You already submitted your answers for this form.\nYou can not edit them.",
+    "ERROR_FORM_PAUSED": "This form is currently paused",
     "ERROR_FORM_LIMIT_REACHED": "Forms Limit reached. Upgrade your tier to unlock more",
     "ERROR_FORM_RESPONSE_NOT_FOUND": "Unable to find this response",
     "ERROR_FUNCTIONBUTTON_NO_PRONOUN_ROLES": "You need 4 roles called 'he/him', 'she/her', 'they/them' and 'others'",
