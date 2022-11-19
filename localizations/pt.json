@@ -1,6 +1,7 @@
 {
     "ACTIVITIES_RESPONSE": "[Clique para entrar {0}]({1})",
     "ADD_BUTTON": "",
+    "ADD_EMBED": "",
     "ADD_FIELD": "Adicionar Campo",
     "ADD_ROLE": "Adicionar cargo \"{0}\"",
     "AND": "e",
@@ -164,7 +165,6 @@
     "EDIT_COLOR": "Editar cor",
     "EDIT_DESCRIPTION": "Editar Descrição",
     "EDIT_EMBED": "Finalizar configuração embed",
-    "ADD_EMBED": "",
     "EDIT_FIELD": "Editar Campo",
     "EDIT_FIELD_INLINE": "Campo Inline",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "Um de 'true' ou 'false'",
