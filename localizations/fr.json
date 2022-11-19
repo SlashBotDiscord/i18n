@@ -296,6 +296,7 @@
     "ERROR_FATAL_MISSING_ACCESS": "Il me manque l'accès",
     "ERROR_FATAL_MISSING_PERMISSIONS": "Il me manque des permissions pour effectuer cette action",
     "ERROR_FORM_ALREADY_SUBMITTED": "",
+    "ERROR_FORM_PAUSED": "",
     "ERROR_FORM_LIMIT_REACHED": "",
     "ERROR_FORM_RESPONSE_NOT_FOUND": "",
     "ERROR_FUNCTIONBUTTON_NO_PRONOUN_ROLES": "Tu as besoin de 4 rôles appelés 'he/him', 'she/her', 'they/them' et 'others'",
