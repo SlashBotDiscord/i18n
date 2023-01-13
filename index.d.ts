@@ -1,4 +1,5 @@
 export declare enum Locale {
+    Indonesian = "id",
     EnglishUS = "en-US",
     EnglishGB = "en-GB",
     Bulgarian = "bg",
