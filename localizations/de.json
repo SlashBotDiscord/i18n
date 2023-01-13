@@ -1,6 +1,7 @@
 {
     "ACTIVITIES_RESPONSE": "[Klicke, um {0} beizutreten]({1})",
     "ADD_BUTTON": "Knopf hinzufügen",
+    "ADD_EMBED": "",
     "ADD_FIELD": "Feld hinzufügen",
     "ADD_ROLE": "Rolle \"{0}\" hinzufügen",
     "AND": "und",
@@ -164,7 +165,6 @@
     "EDIT_COLOR": "Farbe bearbeiten",
     "EDIT_DESCRIPTION": "Beschreibung bearbeiten",
     "EDIT_EMBED": "Bearbeiten beenden",
-    "ADD_EMBED": "",
     "EDIT_FIELD": "Feld bearbeiten",
     "EDIT_FIELD_INLINE": "In einer Zeile anordnen",
     "EDIT_FIELD_INLINE_PLACEHOLDER": "Entweder 'true' oder 'false'",
