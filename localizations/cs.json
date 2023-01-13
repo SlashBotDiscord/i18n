@@ -346,6 +346,8 @@
     "ERROR_NOT_A_GUILD_MEMBER": "To není člen tohoto serveru",
     "ERROR_NOT_A_TEXT_CHANNEL": "To není textový kanál",
     "ERROR_NOT_A_VOICE_CHANNEL": "To není hlasový kanál",
+    "ERROR_NOT_IN_GUILD": "",
+    "ERROR_NOT_IN_THREAD": "",
     "ERROR_NOT_SENT_BY_CLIENT": "To není zpráva poslaná mnou",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "To není zpráva poslaná mnou (nový)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "To není zpráva poslaná mnou (starý)",

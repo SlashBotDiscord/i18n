@@ -346,6 +346,8 @@
     "ERROR_NOT_A_GUILD_MEMBER": "Dieser Nutzer ist kein Mitglied dieses Servers",
     "ERROR_NOT_A_TEXT_CHANNEL": "Der ausgewählte Kanal ist kein Textkanal",
     "ERROR_NOT_A_VOICE_CHANNEL": "Der ausgewählte Kanal ist kein Sprachkanal",
+    "ERROR_NOT_IN_GUILD": "",
+    "ERROR_NOT_IN_THREAD": "",
     "ERROR_NOT_SENT_BY_CLIENT": "Dies ist keine gültige Nachricht, die von mir geschickt wurde",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Dies ist keine gültige Nachricht, die von mir geschickt wurde (neu)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Dies ist keine gültige Nachricht, die von mir geschickt wurde (alt)",

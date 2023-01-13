@@ -346,6 +346,8 @@
     "ERROR_NOT_A_GUILD_MEMBER": "No eres usuario de este servidor",
     "ERROR_NOT_A_TEXT_CHANNEL": "Esto no es un canal de texto",
     "ERROR_NOT_A_VOICE_CHANNEL": "Esto no es un canal de voz",
+    "ERROR_NOT_IN_GUILD": "",
+    "ERROR_NOT_IN_THREAD": "",
     "ERROR_NOT_SENT_BY_CLIENT": "Este mensaje no se ha enviado por mí",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Este mensaje no se ha enviado por mí (nuevo)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Este mensaje no se ha enviado por mí (antiguo)",

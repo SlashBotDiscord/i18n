@@ -346,6 +346,8 @@
     "ERROR_NOT_A_GUILD_MEMBER": "That's not a member of this guild",
     "ERROR_NOT_A_TEXT_CHANNEL": "That's not a text channel",
     "ERROR_NOT_A_VOICE_CHANNEL": "That's not a voice channel",
+    "ERROR_NOT_IN_GUILD": "You can only use commands in guilds",
+    "ERROR_NOT_IN_THREAD": "Please add me to the private thread (by mentioning me) to use commands",
     "ERROR_NOT_SENT_BY_CLIENT": "That's not a message sent by me",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "That's not a message sent by me (new)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "That's not a message sent by me (old)",
