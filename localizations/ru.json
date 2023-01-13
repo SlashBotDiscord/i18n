@@ -346,6 +346,8 @@
     "ERROR_NOT_A_GUILD_MEMBER": "Это не участник этого сервера",
     "ERROR_NOT_A_TEXT_CHANNEL": "Это не текстовый канал",
     "ERROR_NOT_A_VOICE_CHANNEL": "Это не голосовой канал",
+    "ERROR_NOT_IN_GUILD": "",
+    "ERROR_NOT_IN_THREAD": "",
     "ERROR_NOT_SENT_BY_CLIENT": "Это сообщение отправлено не мной",
     "ERROR_NOT_SENT_BY_CLIENT_NEW": "Это сообщение отправлено не мной (новое)",
     "ERROR_NOT_SENT_BY_CLIENT_OLD": "Это сообщение отправлено не мной (старое)",
