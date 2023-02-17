@@ -337,6 +337,7 @@
     "ERROR_MAX_DURATION_ACTIVITIES": "El máximo es 7 días (604800 segundos)",
     "ERROR_MESSAGE_DELETED": "¡No borres este mensaje!",
     "ERROR_MESSAGE_EDIT_FAIL": "Hay emojis inválidos en uno o más componentes",
+    "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "",
     "ERROR_MESSAGE_EDIT_FAIL_URL": "Este enlace no está disponible u otra cosa ha fallado",
     "ERROR_MESSAGE_EMBED_COUNT": "El número total de embeds en este nuevo mensaje no puede ser más mayor de 10",
     "ERROR_MESSAGE_EMBED_MAX_REACHED": "",

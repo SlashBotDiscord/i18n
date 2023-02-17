@@ -337,6 +337,7 @@
     "ERROR_MAX_DURATION_ACTIVITIES": "Das Maximum sind 7 Tage (604800 Sekunden)",
     "ERROR_MESSAGE_DELETED": "Lösche die Nachricht bitte nicht!",
     "ERROR_MESSAGE_EDIT_FAIL": "In dieser Nachricht sind Komponenten mit ungültigen Emojis",
+    "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "",
     "ERROR_MESSAGE_EDIT_FAIL_URL": "Die URL wird nicht unterstützt oder etwas anderes ist schief gelaufen",
     "ERROR_MESSAGE_EMBED_COUNT": "Die Anzahl von Embeds in der neuen Nachricht kann nicht größer als 10 sein",
     "ERROR_MESSAGE_EMBED_MAX_REACHED": "",
