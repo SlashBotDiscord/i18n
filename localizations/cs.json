@@ -337,6 +337,7 @@
     "ERROR_MAX_DURATION_ACTIVITIES": "Maximum je 7 dní (604800 vteřin)",
     "ERROR_MESSAGE_DELETED": "Nemaž zprávu",
     "ERROR_MESSAGE_EDIT_FAIL": "Byly nalezeny jeden nebo více neplatných emojis v komponentech",
+    "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "",
     "ERROR_MESSAGE_EDIT_FAIL_URL": "To je nepodporovaná stránka, nebo došlo k chybě",
     "ERROR_MESSAGE_EMBED_COUNT": "Na této zprávě nemůže být víc jak 10 embedů",
     "ERROR_MESSAGE_EMBED_MAX_REACHED": "",

@@ -337,6 +337,7 @@
     "ERROR_MAX_DURATION_ACTIVITIES": "Le maximum est 7 jours (ou 604800 secondes)",
     "ERROR_MESSAGE_DELETED": "Ne supprime pas ce message !",
     "ERROR_MESSAGE_EDIT_FAIL": "Un ou plusieurs composants contiennent des emojis non valides",
+    "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "",
     "ERROR_MESSAGE_EDIT_FAIL_URL": "Ce n'est pas une URL supporté ou quelque chose d'autre s'est mal passé",
     "ERROR_MESSAGE_EMBED_COUNT": "Le total d'intégrations sur le nouveau message ne peut pas être supérieur à 10",
     "ERROR_MESSAGE_EMBED_MAX_REACHED": "",
