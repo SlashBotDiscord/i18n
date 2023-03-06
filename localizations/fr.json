@@ -205,6 +205,7 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Sélectionne le champs de texte à modifier",
     "EMBED_ADVANCED_TITLE": "Générateur d'intégration avancé",
     "EMBED_CREATED": "Intégration{0} créée avec {1} argument(s)",
+    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Intégration{0} créée avec du JSON brut",
     "EMBED_EDIT_FIRST_IN_POSITION": "La première intégration est en position 1",
     "EMBED_EDIT_JSON": "L'intégration du [message]({0}) a été édité avec du JSON brut",
@@ -270,7 +271,7 @@
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Il me manque les permissions pour envoyer des messages dans le salon dans lequel se trouve le message",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Je ne suis pas en mesure d'envoyer un message dans ce salon",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Je ne suis pas en mesure d'envoyer un message dans ce salon, donc je ne peux pas vérifier",
+    "ERROR_CANT_SEND_TO_THIS_CHANNEL_CHECK": "",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Il me manque des permissions pour gérer tes rôles",
     "ERROR_COLOR_TOO_LARGE": "",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Tu peux seulement utiliser des commandes dans des serveurs",
@@ -612,5 +613,6 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Site Web",
-    "YES": "Oui"
+    "YES": "Oui",
+    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Je ne suis pas en mesure d'envoyer un message dans ce salon, donc je ne peux pas vérifier"
 }

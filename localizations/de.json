@@ -205,6 +205,7 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Wähle das Feld zum entfernen aus",
     "EMBED_ADVANCED_TITLE": "Fortgeschrittener Embed Generator",
     "EMBED_CREATED": "Embed{0} mit {1} argumenten erstellt",
+    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Embed{0} mit JSON erstellt",
     "EMBED_EDIT_FIRST_IN_POSITION": "Das erste Embed ist in der Position 1",
     "EMBED_EDIT_JSON": "Embed in dieser [Nachricht]({0}) wurde mit JSON bearbeitet",
@@ -270,7 +271,7 @@
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Mit fehlt die Berechtigung Nachrichten in den Kanal zu senden, in dem sich die Nachricht befindet",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Ich bin nicht in der Lage eine Nachricht in diesem Kanal zu senden",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "Ich bin nicht in der Lage eine Nachricht in diesem Kanal zu senden oder du hast eine ungültige Bilder URL gegeben",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Ich bin nicht in der Lage eine Nachricht in diesen Kanal zu senden, also kann ich nichts überprüfen",
+    "ERROR_CANT_SEND_TO_THIS_CHANNEL_CHECK": "",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Mir fehlt die Berechtigung deine Rollen zu verwalten",
     "ERROR_COLOR_TOO_LARGE": "Die Farbe muss zwischen 0 (#000000) und 16777215 (#FFFFFF) sein",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Du kannst Befehle nur in einem Server verwenden",
@@ -612,5 +613,6 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Webseite",
-    "YES": "Ja"
+    "YES": "Ja",
+    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Ich bin nicht in der Lage eine Nachricht in diesen Kanal zu senden, also kann ich nichts überprüfen"
 }

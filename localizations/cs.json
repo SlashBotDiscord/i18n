@@ -205,6 +205,7 @@
     "EMBED_ADVANCED_SELECT_FIELD": "",
     "EMBED_ADVANCED_TITLE": "",
     "EMBED_CREATED": "Embed{0} byla vytvořena s {1} argumenty",
+    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Embed{0} vytvořeny pomocí raw JSON",
     "EMBED_EDIT_FIRST_IN_POSITION": "První embed je na pozici 1",
     "EMBED_EDIT_JSON": "Embed na [této zprávě]({0}) byla upravena pomocí raw JSON",
@@ -270,7 +271,7 @@
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Chybí mi oprávnění k poslání zprávy do kanálu kde je ta zpráva",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Nemůžu poslat zprávu do tohoto kanálu",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Nemůžu poslat zprávu do tohoho kanálu",
+    "ERROR_CANT_SEND_TO_THIS_CHANNEL_CHECK": "",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Chybí mi oprávnění spravovat ti role.",
     "ERROR_COLOR_TOO_LARGE": "",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Můžeš používat příkazy jen na serverech",
@@ -612,5 +613,6 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Stránka",
-    "YES": "Ano"
+    "YES": "Ano",
+    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Nemůžu poslat zprávu do tohoho kanálu"
 }
