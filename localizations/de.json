@@ -194,6 +194,7 @@
     "EDIT_TIMESTAMP": "Zeitstempel bearbeiten",
     "EDIT_TITLE": "Titel bearbeiten",
     "EDIT_URL": "URL bearbeiten",
+    "EMBED_ADD_JSON": "",
     "EMBED_ADDED": "Embed mit {1} Argument(en) zur [Nachricht]({0}) hinzugefügt",
     "EMBED_ADVANCED_ADDED": "",
     "EMBED_ADVANCED_CREATED": "Embed erfolgreich erstellt",
@@ -205,7 +206,6 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Wähle das Feld zum entfernen aus",
     "EMBED_ADVANCED_TITLE": "Fortgeschrittener Embed Generator",
     "EMBED_CREATED": "Embed{0} mit {1} argumenten erstellt",
-    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Embed{0} mit JSON erstellt",
     "EMBED_EDIT_FIRST_IN_POSITION": "Das erste Embed ist in der Position 1",
     "EMBED_EDIT_JSON": "Embed in dieser [Nachricht]({0}) wurde mit JSON bearbeitet",
@@ -613,6 +613,5 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Webseite",
-    "YES": "Ja",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Ich bin nicht in der Lage eine Nachricht in diesen Kanal zu senden, also kann ich nichts überprüfen"
+    "YES": "Ja"
 }

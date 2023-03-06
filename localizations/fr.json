@@ -194,6 +194,7 @@
     "EDIT_TIMESTAMP": "Modifier l'horodatage",
     "EDIT_TITLE": "Modifier le titre",
     "EDIT_URL": "Modifier l'URL",
+    "EMBED_ADD_JSON": "",
     "EMBED_ADDED": "Intégration ajoutée au [message]({0}) avec {1} argument(s)",
     "EMBED_ADVANCED_ADDED": "",
     "EMBED_ADVANCED_CREATED": "Intégration créée avec succès",
@@ -205,7 +206,6 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Sélectionne le champs de texte à modifier",
     "EMBED_ADVANCED_TITLE": "Générateur d'intégration avancé",
     "EMBED_CREATED": "Intégration{0} créée avec {1} argument(s)",
-    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Intégration{0} créée avec du JSON brut",
     "EMBED_EDIT_FIRST_IN_POSITION": "La première intégration est en position 1",
     "EMBED_EDIT_JSON": "L'intégration du [message]({0}) a été édité avec du JSON brut",
@@ -613,6 +613,5 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Site Web",
-    "YES": "Oui",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Je ne suis pas en mesure d'envoyer un message dans ce salon, donc je ne peux pas vérifier"
+    "YES": "Oui"
 }
