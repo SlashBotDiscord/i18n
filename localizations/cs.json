@@ -194,6 +194,7 @@
     "EDIT_TIMESTAMP": "",
     "EDIT_TITLE": "",
     "EDIT_URL": "",
+    "EMBED_ADD_JSON": "",
     "EMBED_ADDED": "Na [tuto zprávu]({0}) byla vytvořena embed s {2} argumenty",
     "EMBED_ADVANCED_ADDED": "",
     "EMBED_ADVANCED_CREATED": "",
@@ -205,7 +206,6 @@
     "EMBED_ADVANCED_SELECT_FIELD": "",
     "EMBED_ADVANCED_TITLE": "",
     "EMBED_CREATED": "Embed{0} byla vytvořena s {1} argumenty",
-    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Embed{0} vytvořeny pomocí raw JSON",
     "EMBED_EDIT_FIRST_IN_POSITION": "První embed je na pozici 1",
     "EMBED_EDIT_JSON": "Embed na [této zprávě]({0}) byla upravena pomocí raw JSON",
@@ -613,6 +613,5 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Stránka",
-    "YES": "Ano",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Nemůžu poslat zprávu do tohoho kanálu"
+    "YES": "Ano"
 }
