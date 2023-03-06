@@ -9,7 +9,7 @@ Thanks to our community, we have translated the bot to the following languages �
 
 - English ([`Zelda_Fan#0225`](https://github.com/ZeldaFan0225))
 - German ([`Zelda_Fan#0225`](https://github.com/ZeldaFan0225))
-- Spanish (`Evil Psychiatric ↯#6666`, [`Lukas#6969`](https://github.com/LukassDev69))
+- Spanish (`Evil Psychiatric ↯#6666`, [`Lukas#6969`](https://github.com/LukassDev69), [`MatKing#1016`](https://github.com/MatKingRKM))
 - Portuguese (`Fabricio#3801`)
 - Czech ([`Dejvy#0069`](https://github.com/Dejvy))
 - French ([`ARγOtaRe#8215`](https://github.com/ARyOtaRe), [`Pikachu#0003`](https://github.com/PikaFederation))
