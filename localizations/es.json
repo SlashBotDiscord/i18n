@@ -205,6 +205,7 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Selecciona el campo a eliminar",
     "EMBED_ADVANCED_TITLE": "Generador Avanzado de Embed",
     "EMBED_CREATED": "Embed{0} creado con {1} argumento(s)",
+    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Embed{0} creado con JSON puro",
     "EMBED_EDIT_FIRST_IN_POSITION": "El primer embed está en la posición 1",
     "EMBED_EDIT_JSON": "Embed en [mensaje]({0}) modificado con json puro",
@@ -270,7 +271,7 @@
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Faltan permisos para enviar mensajes en el canal del mensaje",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "No es posible enviar un mensaje a este canal",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "No es posible enviar un mensaje a este canal, por lo que no se puede comprobar",
+    "ERROR_CANT_SEND_TO_THIS_CHANNEL_CHECK": "",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Se necesitan permisos para gestionar los roles",
     "ERROR_COLOR_TOO_LARGE": "",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Sólo se pueden usar comandos en servidores",
@@ -612,5 +613,6 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Página web",
-    "YES": "Sí"
+    "YES": "Sí",
+    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "No es posible enviar un mensaje a este canal, por lo que no se puede comprobar"
 }

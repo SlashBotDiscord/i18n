@@ -205,6 +205,7 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Выберите поле для удаления",
     "EMBED_ADVANCED_TITLE": "Продвинутый генератор эмбеда",
     "EMBED_CREATED": "Эмбед{0} создан с {1} аргументом(-ами)",
+    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Эмбед{0} создан с помощью JSON",
     "EMBED_EDIT_FIRST_IN_POSITION": "Первый эмбед находится на позиции 1",
     "EMBED_EDIT_JSON": "Эмбед [сообщения]({0}) изменен JSON",
@@ -270,7 +271,7 @@
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Мне не хватает прав на отправку сообщений в канале, в котором находится сообщение",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Я не могу отправить сообщение в этот канал.",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "Невозможно отправить сообщение в этот канал либо вы указали неверный URL изображения",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Я не могу отправить сообщение в этот канал, поэтому проверка невозможна.",
+    "ERROR_CANT_SEND_TO_THIS_CHANNEL_CHECK": "",
     "ERROR_CLIENT_MISSING_ROLE_PERMISSIONS": "Мне не хватает прав для управления вашими ролями",
     "ERROR_COLOR_TOO_LARGE": "Цвет должен быть указан в диапазоне от 0 (#000000) до 16777215 (#FFFFFF)",
     "ERROR_COMMAND_OUTSIDE_GUILD": "Вы можете использовать команды только на серверах",
@@ -612,5 +613,6 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Веб-сайт",
-    "YES": "Да"
+    "YES": "Да",
+    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "Я не могу отправить сообщение в этот канал, поэтому проверка невозможна."
 }
