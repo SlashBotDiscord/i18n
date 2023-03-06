@@ -194,6 +194,7 @@
     "EDIT_TIMESTAMP": "Editar Fecha",
     "EDIT_TITLE": "Editar Título",
     "EDIT_URL": "Editar Enlace",
+    "EMBED_ADD_JSON": "",
     "EMBED_ADDED": "Embed añadido al [mensaje]({0}) con {1} argumento(s)",
     "EMBED_ADVANCED_ADDED": "",
     "EMBED_ADVANCED_CREATED": "El embed se ha creado satisfactoriamente",
@@ -205,7 +206,6 @@
     "EMBED_ADVANCED_SELECT_FIELD": "Selecciona el campo a eliminar",
     "EMBED_ADVANCED_TITLE": "Generador Avanzado de Embed",
     "EMBED_CREATED": "Embed{0} creado con {1} argumento(s)",
-    "EMBED_ADD_JSON": "",
     "EMBED_CREATED_JSON": "Embed{0} creado con JSON puro",
     "EMBED_EDIT_FIRST_IN_POSITION": "El primer embed está en la posición 1",
     "EMBED_EDIT_JSON": "Embed en [mensaje]({0}) modificado con json puro",
@@ -613,6 +613,5 @@
     "WEBHOOKIFY_MODAL_USERNAME": "",
     "WEBHOOKIFY_SUCCESS": "",
     "WEBSITE": "Página web",
-    "YES": "Sí",
-    "ERROR_CANT_SEND_TO_THiS_CHANNEL_CHECK": "No es posible enviar un mensaje a este canal, por lo que no se puede comprobar"
+    "YES": "Sí"
 }
