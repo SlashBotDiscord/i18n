@@ -490,6 +490,8 @@
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_FUNCTIONBUTTON": "",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_LINKBUTTON": "",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_OTHER_BUTTON": "",
+    "MESSAGE_INFO_COMPONENT_DESCRIPTION_DROPDOWNROLE": "",
+    "MESSAGE_INFO_COMPONENT_DESCRIPTION_OTHER_DROPDOWN": "",
     "MESSAGE_COPY_DISCLAIMER_DESCRIPTION": "Da Discord den Inhalt und die Embeds einer Nachricht hinter einem privilegierten Intention verschlossen (für welche wir nicht genehmigt wurden) hat kannst du diesen Command nicht mehr mit Nachrichten verwenden, die nicht von SlashBot verschickt wurden\nKeine Sorge, wir haben dafür eine Lösung. Du kannst den Kontext Command 'Copymessage' verwenden.\n\n**Mobile Platform**\n`- ` Tippe lange auf eine Nachricht\n`- ` Tippe \"Apps\"\n`- ` Tippe \"Copymessage\"\n\n**Desktop**\n`- ` Rechtsklick auf eine Nachricht\n`- ` Klicke \"Apps\"\n`- ` Wähle \"Copymessage\"\n\nLeider kannst du den Ziel Kanal oder on Komponenten kopiert werden sollen nicht auswählen.\nDiese Nachricht kann jedoch wieder mit dem Command /message copy kopiert werden in einen anderen Kanal.\nKomponenten können immer noch mit `/transfer components` mit dem Argument `copy` auf `true` gesetzt kopiert werden.\n\n**[Erfahre mehr](https://docs.slashbot.de/editing/message-copying#copying-message-not-from-bot)**",
     "MESSAGE_COPY_DISCLAIMER_TITLE": "Message Copy kann mit dieser Nachricht nicht verwendet werden",
     "MESSAGE_EDIT_EDITED": "[Nachricht]({0}){1} bearbeitet",
