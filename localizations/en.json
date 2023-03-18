@@ -487,7 +487,7 @@
     "LOADING": "<a:loading:773778301629235202> Please wait...",
     "LOG_CHANNEL": "Log",
     "MESSAGE": "Message",
-    "MESSAGE_INFO_COMPONENT_DESCRIPTION_DROPDOWNROLE": "**DropdownRole** Options `{0}` Notification {2} Reselectable {3}",
+    "MESSAGE_INFO_COMPONENT_DESCRIPTION_DROPDOWNROLE": "**DropdownRole** Options `{0}` Notification {1} Reselectable {2}",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_OTHER_DROPDOWN": "**Unknown Select Menu** Type {0}",
     "MESSAGE_COPY_DISCLAIMER_DESCRIPTION": "Due to Discord restricting the messages content and embeds to a privileged intent we have been denied for you can no longer use this command on messages not sent by SlashBot.\nDon't worry we still got you covered with a context command.\n\n**Mobile**\n`- ` Long tap a message\n`- ` Tap \"Apps\"\n`- ` Tap \"Copymessage\"\n\n**Desktop**\n`- ` Right click a message\n`- ` Click \"Apps\"\n`- ` Select \"Copymessage\"\n\nSadly you can not select the target channel or whether you want to copy components or not but it is better than nothing.\nThis message can then be copied to the targeted channel using /message copy\nComponents can still be copied with a separate command `/transfer components` with the argument `copy` set to `true`\n\n**Read more [here](https://docs.slashbot.de/editing/message-copying#copying-message-not-from-bot)**",
     "MESSAGE_COPY_DISCLAIMER_TITLE": "Message Copy can't be used on this message",
