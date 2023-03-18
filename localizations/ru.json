@@ -490,6 +490,8 @@
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_FUNCTIONBUTTON": "",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_LINKBUTTON": "",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_OTHER_BUTTON": "",
+    "MESSAGE_INFO_COMPONENT_DESCRIPTION_DROPDOWNROLE": "",
+    "MESSAGE_INFO_COMPONENT_DESCRIPTION_OTHER_DROPDOWN": "",
     "MESSAGE_COPY_DISCLAIMER_DESCRIPTION": "Из-за того, что Discord ограничил содержание сообщений и эмбедов до конфиденциального намерения, в котором нам было отказано, вы больше не можете использовать эту команду на сообщения, отправленные не SlashBot.\nНе волнуйтесь, мы все еще прикрываем вас контекстной командой. \n\n\n**Мобильная версия**\n`- `Длинный тап по сообщению\n`- `Тап на\n`\"Приложения\"\n`- `Тап на\n`\"Copymessage\"\n\n**ПК версия**\n`- `Правый клик по сообщению\n`- `Клик на \n`\"Apps\"\n`- `Клик на \n`\"Copymessage\"\n\nК сожалению, вы не можете выбрать целевой канал или копировать компоненты, но это лучше, чем ничего. \nЭто сообщение может быть скопировано в целевой канал с помощью команды /message copy\nКомпоненты могут быть скопированы с помощью отдельной команды `/transfer components` с аргументом `copy`, установленным на `true`\n\n**Узнайте больше [здесь](https://docs.slashbot.de/editing/message-copying#copying-message-not-from-bot)**.",
     "MESSAGE_COPY_DISCLAIMER_TITLE": "Копирование сообщения не может быть использовано для этого сообщения",
     "MESSAGE_EDIT_EDITED": "[Сообщение]({0}){1} отредактировано",
