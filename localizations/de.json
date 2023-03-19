@@ -90,6 +90,7 @@
     "COMPONENTS": "Komponenten",
     "COMPONENTS_CHECK_DISMISS": "Du hast dich dazu entschieden die beschädigten Komponenten nicht zu entfernen.\nMerke dir jedoch, dass du nicht in der Lage sein wirst diese Nachricht zu bearbeiten, so lange diese in dieser Nachricht sind.",
     "COMPONENTS_CHECK_INVALID": "❌ `Beschädigte Komponenten: {0}. Soll ich diese entfernen?`",
+    "COMPONENTS_CHECK_INVALID_NEW": "",
     "COMPONENTS_CHECK_REMOVE_SUCCESS": "Alle {0} beschädigten Komponenten in [dieser Nachricht]({1}) wurden erfolgreich entfernt",
     "COMPONENTS_CHECK_SUCCESS": "✅ Alle Rollen in dieser Nachricht funktionieren immer noch",
     "COMPONENTS_MOVE_BUTTONS_TITLE": "Button verschieben",

@@ -90,6 +90,7 @@
     "COMPONENTS": "Componentes",
     "COMPONENTS_CHECK_DISMISS": "Você optou por não remover os componentes com defeito.\nLembre-se de que você não poderá editar esta mensagem de forma alguma, desde que contenha componentes defeituosos.",
     "COMPONENTS_CHECK_INVALID": "❌ `Componentes com defeito: {0}. Você quer que eu os remova?`",
+    "COMPONENTS_CHECK_INVALID_NEW": "",
     "COMPONENTS_CHECK_REMOVE_SUCCESS": "Todos os {0} componentes com defeito [nesta mensagem] ({1}) foram removidos com sucesso",
     "COMPONENTS_CHECK_SUCCESS": "✅ Todos os cargos nesta mensagem ainda estão bons",
     "COMPONENTS_MOVE_BUTTONS_TITLE": "Mover Botão",
