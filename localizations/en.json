@@ -90,6 +90,7 @@
     "COMPONENTS": "Components",
     "COMPONENTS_CHECK_DISMISS": "You chose not to remove the faulty components.\nKeep in mind that you will not be able to edit this message in any way as long as it has faulty components in it.",
     "COMPONENTS_CHECK_INVALID": "❌ `Faulty components: {0}. Do you want me to remove them?`",
+    "COMPONENTS_CHECK_INVALID_NEW": "❌ Faulty components have been found. To edit this message please remove all components with {0}",
     "COMPONENTS_CHECK_REMOVE_SUCCESS": "All {0} faulty components [on this message]({1}) have been removed successfully",
     "COMPONENTS_CHECK_SUCCESS": "✅ All roles on this message are still fine",
     "COMPONENTS_MOVE_BUTTONS_TITLE": "Move Button",

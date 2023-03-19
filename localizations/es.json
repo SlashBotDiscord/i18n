@@ -90,6 +90,7 @@
     "COMPONENTS": "Componentes",
     "COMPONENTS_CHECK_DISMISS": "Se ha elegido no eliminar los componentes defectuosos.\nTen encuenta que no se puede modificar este mensaje mientras contenga componentes defectuosos.",
     "COMPONENTS_CHECK_INVALID": "❌ `Componentes defectuosos: {0}. ¿Te gustaría eliminarlos?`",
+    "COMPONENTS_CHECK_INVALID_NEW": "",
     "COMPONENTS_CHECK_REMOVE_SUCCESS": "Todos los {0} componentes defectuosos [en este mensaje]({1}) han sido eliminados satisfactoriamente",
     "COMPONENTS_CHECK_SUCCESS": "✅ Todos los roles de este mensaje se encuentran correctamente establecidos",
     "COMPONENTS_MOVE_BUTTONS_TITLE": "Mover botón",

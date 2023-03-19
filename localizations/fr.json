@@ -90,6 +90,7 @@
     "COMPONENTS": "Composants",
     "COMPONENTS_CHECK_DISMISS": "Tu as choisi de ne pas supprimer les composants défectueux.\nGarde à l'esprit que tu ne pourras en aucun cas modifier ce message tant qu'il contiendra des composants défectueux.",
     "COMPONENTS_CHECK_INVALID": "❌`Composant(s) défectueux : {0}. Veux-tu que je les supprime?`",
+    "COMPONENTS_CHECK_INVALID_NEW": "",
     "COMPONENTS_CHECK_REMOVE_SUCCESS": "{0} composant(s) défectueux [sur ce message]({1}) a/ont été retiré(s) avec succès",
     "COMPONENTS_CHECK_SUCCESS": "✅ Tous les rôles sur ce message sont encore bons",
     "COMPONENTS_MOVE_BUTTONS_TITLE": "Déplacer le bouton",

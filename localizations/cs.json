@@ -90,6 +90,7 @@
     "COMPONENTS": "Komponenty",
     "COMPONENTS_CHECK_DISMISS": "Komponenty nebudou odebrány ale pamatuj že je budeš muset odebrat jestli budeš chtít nějak upravit tuto zprávu.",
     "COMPONENTS_CHECK_INVALID": "❌ Vadné komponenty: {0}. Chceš abych je odstranil?",
+    "COMPONENTS_CHECK_INVALID_NEW": "",
     "COMPONENTS_CHECK_REMOVE_SUCCESS": "Všechny vadné komponenty {0} na [této zprávě]({1}) byly odebrány",
     "COMPONENTS_CHECK_SUCCESS": "✅ Všechny role na této zprávě jsou v pořádku",
     "COMPONENTS_MOVE_BUTTONS_TITLE": "Přesunout tlačítko",
