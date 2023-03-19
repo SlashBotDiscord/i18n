@@ -284,6 +284,7 @@
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Du kannst nicht die gleiche Rolle austauschen",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Wenn du den Knopf beschränkst kannst du nur 4 Rollen auf einmal geben",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Ungültiger Typ (gültige Typen: `toggle`, `add`, `remove`)",
+    "FUNCTIONBUTTON_YOUR_ROLES": "",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Mit fehlt die Berechtigung Nachrichten in den Kanal zu senden, in dem sich die Nachricht befindet",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Ich bin nicht in der Lage eine Nachricht in diesem Kanal zu senden",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "Ich bin nicht in der Lage eine Nachricht in diesem Kanal zu senden oder du hast eine ungültige Bilder URL gegeben",

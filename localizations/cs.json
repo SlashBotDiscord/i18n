@@ -284,6 +284,7 @@
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Nemůžeš přidat nebo odebrat tu samou roli",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Můžeš nastavit pouze 4 omezující role",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Neplatný typ (Platné typy: `toggle` `add` `remove`)",
+    "FUNCTIONBUTTON_YOUR_ROLES": "",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Chybí mi oprávnění k poslání zprávy do kanálu kde je ta zpráva",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Nemůžu poslat zprávu do tohoto kanálu",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",

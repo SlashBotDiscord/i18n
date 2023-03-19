@@ -284,6 +284,7 @@
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "No se puede eliminar y añadir el mismo rol",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Al restringir roles sólo se pueden establecer 4 a la vez",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Tipo inválido (Tipo válido: `toggle` `add` `remove`)",
+    "FUNCTIONBUTTON_YOUR_ROLES": "",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Faltan permisos para enviar mensajes en el canal del mensaje",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "No es posible enviar un mensaje a este canal",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",
