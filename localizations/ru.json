@@ -19,6 +19,7 @@
     "BANNER": "Баннер",
     "BLURPLE": "",
     "BUTTONROLE_ADDED": "Добавлена ButtonRole с ID `{0}` в [это сообщение]({1})",
+    "BUTTONROLE_ADVANCED_DESCRIPTION_NEW": "",
     "BUTTONROLE_ADVANCED_DESCRIPTION": "Нажмите на кнопки ниже, чтобы добавить/удалить кнопку\n\nУбедитесь, что следуете нижеприведенным требованиям: \n`- `Название может быть любым текстом либо `none` (не указано)\n`- `Эмодзи может быть указано любое либо `none` (не указано)\n`- `Стиль: `PRIMARY`, `SECONDARY`, `SUCCESS` или `DANGER`\n`- `Тип: `TOGGLE`, `ADD` или `REMOVE`\n`- `Требуемая роль - роль, которая нужна пользователю для использования кнопки`\n\n\nНиже вы можете видеть меню выбора с кнопками, которые вы уже настроили",
     "BUTTONROLE_ADVANCED_EMOJI_PLACEHOLDER": "Эмодзи вашей кнопки",
     "BUTTONROLE_ADVANCED_LABEL_PLACEHOLDER": "Название вашей кнопки",
