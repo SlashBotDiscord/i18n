@@ -284,6 +284,7 @@
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "Tu ne peux pas ajouter et retirer le même rôle",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "Lorsque tu restreint les rôles, tu ne peux en configurer que 4 à la fois",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Type invalide (Types valides : `toggle` `add` `remove`)",
+    "FUNCTIONBUTTON_YOUR_ROLES": "",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "Il me manque les permissions pour envoyer des messages dans le salon dans lequel se trouve le message",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "Je ne suis pas en mesure d'envoyer un message dans ce salon",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "",

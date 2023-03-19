@@ -284,6 +284,7 @@
     "ERROR_BUTTONROLE_SWITCH_SAME_ROLE": "You can't remove and add the same role",
     "ERROR_BUTTONROLE_TOO_MANY_ROLES": "When restricting this button you can only set up 4 roles at once",
     "ERROR_BUTTONROLES_INVALID_TYPE": "Invalid type (Valid types: `toggle` `add` `remove`)",
+    "FUNCTIONBUTTON_YOUR_ROLES": "**Your Roles**\n{0}",
     "ERROR_CANT_SEND_TO_THAT_CHANNEL": "I'm missing permissions to send messages in the channel the message is in",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL": "I'm not able to send a message to that channel",
     "ERROR_CANT_SEND_TO_THIS_CHANNEL_2": "Unable to send a message to that channel or you gave an invalid image url",
