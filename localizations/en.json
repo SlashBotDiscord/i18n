@@ -127,6 +127,7 @@
     "DROPDOWNROLES_ADVANCED_BUTTONS_4": "Cancel setup",
     "DROPDOWNROLES_ADVANCED_BUTTONS_5": "Remove a button",
     "DROPDOWNROLES_ADVANCED_BUTTONS_6": "Add a button",
+    "BUTTONROLE_CUSTOMID_TOO_LONG": "Your roles are too new, you can only set up 4 roles maximum.\nWe apologize for the inconveniences.\nPlease try again with 1 less role",
     "DROPDOWNROLES_ADVANCED_ERROR_OPTION_ALREADY_ADDED": "This exact configuration of roles has already been set up",
     "DROPDOWNROLES_ADVANCED_MODAL_DESCRIPTION_LABEL": "Custom description of the option",
     "DROPDOWNROLES_ADVANCED_MODAL_DESCRIPTION_PLACEHOLDER": "Custom Description",
