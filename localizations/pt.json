@@ -308,6 +308,7 @@
     "ERROR_DROPDOWNROLES_ALREADY_SELECTED": "<:SystemMessageInteractionFail:964501377466372136> Você já selecionou opções nesta configuração de Menu Suspenso.",
     "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "Você não pode adicionar mais funções a esta configuração de Menu Suspenso",
     "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "Você não pode remover mais funções desta configuração de Menu Suspenso",
+    "ERROR_DROPDOWNROLES_REQUIRED_LIMIT": "",
     "ERROR_DUPLICATE_ROLES": "Você não pode ter cargos duplicados",
     "ERROR_EITHER_LABEL_OR_EMOJI": "Você precisa ter um emoji ou um rótulo",
     "ERROR_EMBED_ADVANCED_NO_EMBED": "Você precisa gerar uma embed antes de enviá-la",

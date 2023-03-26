@@ -308,6 +308,7 @@
     "ERROR_DROPDOWNROLES_ALREADY_SELECTED": "<:SystemMessageInteractionFail:964501377466372136> Du hast schon Optionen aus diesem DropDownRoles setup ausgewählt.",
     "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "Du kannst diesem DropdownRoles Setup keine weiteren Rollen mehr hinzufügen",
     "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "Du kannst von diesem DropdownRoles Setup keine weiteren Rollen mehr entfernen",
+    "ERROR_DROPDOWNROLES_REQUIRED_LIMIT": "",
     "ERROR_DUPLICATE_ROLES": "Du kannst keine Rolle mehrmals geben",
     "ERROR_EITHER_LABEL_OR_EMOJI": "Du musst entweder ein Emoji oder ein Label angeben",
     "ERROR_EMBED_ADVANCED_NO_EMBED": "Du musst ein Embed erstellen, bevor du es senden kannst",

@@ -308,6 +308,7 @@
     "ERROR_DROPDOWNROLES_ALREADY_SELECTED": "<:SystemMessageInteractionFail:964501377466372136> Вы уже выбрали опции из этой настройки DropdownRoles.",
     "ERROR_DROPDOWNROLES_EDIT_MAX_ROLES": "Вы не можете превысить лимит ролей в этой настройке DropdownRoles",
     "ERROR_DROPDOWNROLES_EDIT_MIN_ROLES": "Нет ролей, которые можно было бы удалить из этой настройки DropdownRoles",
+    "ERROR_DROPDOWNROLES_REQUIRED_LIMIT": "",
     "ERROR_DUPLICATE_ROLES": "Вы не можете иметь дублирующие роли",
     "ERROR_EITHER_LABEL_OR_EMOJI": "Вы должны указать либо эмодзи, либо пометку",
     "ERROR_EMBED_ADVANCED_NO_EMBED": "Необходимо сгенерировать эмбед перед его отправкой",
