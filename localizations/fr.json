@@ -103,6 +103,7 @@
     "COMPONENTS_MOVE_ROW_DESCRIPTION2": "Clique sur le bouton ci-dessous représentant la position (sur [ce message]({0})) sur laquelle tu souhaites déplacer la rangée.\n\n**Rangée à déplacer** {1}",
     "COMPONENTS_MOVE_ROW_DESCRIPTION3": "Déplacement de [ce message]({0}) terminé.\n\n**Rangée à déplacer** {1}\n**Position à déplacer** {2}",
     "COMPONENTS_MOVE_ROW_TITLE": "Déplacer la rangée",
+    "ERROR_DROPDOWNROLES_ADVANCED_INVALID_VALUE": "",
     "ERROR_COMPONENT_MOVE_ROWS_INVALID_ROW": "",
     "COMPONENTS_SETSTATE_REPLY": "Tous les composants sur [ce message]({0}) on été {1}",
     "CONTEXT_MENUS": "Menus contextuels",

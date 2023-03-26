@@ -103,6 +103,7 @@
     "COMPONENTS_MOVE_ROW_DESCRIPTION2": "Нажмите на ту кнопку, которая обозначает позицию (на [этом сообщении]({0})), в которую вы хотите переместить строку.\n\n**Перемещаемая строка** {1}",
     "COMPONENTS_MOVE_ROW_DESCRIPTION3": "Перемещение на [этом сообщении]({0}) завершено.\n\n**Перемещаемая строка** {1}\n**Новое положение строки** {2}",
     "COMPONENTS_MOVE_ROW_TITLE": "Переместить ряд",
+    "ERROR_DROPDOWNROLES_ADVANCED_INVALID_VALUE": "",
     "ERROR_COMPONENT_MOVE_ROWS_INVALID_ROW": "",
     "COMPONENTS_SETSTATE_REPLY": "Все компоненты [этого сообщении]({0}) были {1}",
     "CONTEXT_MENUS": "Контекстные меню",

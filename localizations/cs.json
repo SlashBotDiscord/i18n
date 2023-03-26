@@ -103,6 +103,7 @@
     "COMPONENTS_MOVE_ROW_DESCRIPTION2": "Klikni níže na tlačítko které odpovídá pozici (z [této zprávy]({0})), na které chceš tlačítko přesunout.\n\n**Tlačítko k přesunutí** {1}",
     "COMPONENTS_MOVE_ROW_DESCRIPTION3": "Přesouvání na [této zprávě]({0}) bylo dokončeno.\n\n**Tlačítko k přesunutí** {1}\n**Přesunutí na pozici** {2}",
     "COMPONENTS_MOVE_ROW_TITLE": "Přesunout Řádek",
+    "ERROR_DROPDOWNROLES_ADVANCED_INVALID_VALUE": "",
     "ERROR_COMPONENT_MOVE_ROWS_INVALID_ROW": "",
     "COMPONENTS_SETSTATE_REPLY": "Všechny komponenty na [této zprávě]({0}) byly {1}",
     "CONTEXT_MENUS": "Kontextové nabídky",

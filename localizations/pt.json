@@ -103,6 +103,7 @@
     "COMPONENTS_MOVE_ROW_DESCRIPTION2": "Clique no botão abaixo que representa a posição (na [esta mensagem] ({0})) para a qual deseja mover a linha.\n\n**Linha para mover** {1}",
     "COMPONENTS_MOVE_ROW_DESCRIPTION3": "Movimentação em [esta mensagem]({0}) completa.\n\n**Linha para mover** {1}\n**Posição para mover para** {2}",
     "COMPONENTS_MOVE_ROW_TITLE": "Mover Linha",
+    "ERROR_DROPDOWNROLES_ADVANCED_INVALID_VALUE": "",
     "ERROR_COMPONENT_MOVE_ROWS_INVALID_ROW": "",
     "COMPONENTS_SETSTATE_REPLY": "Todos os componentes em [esta mensagem]({0}) foram {1}",
     "CONTEXT_MENUS": "Menus de Contexto",
