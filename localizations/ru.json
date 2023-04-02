@@ -625,6 +625,7 @@
     "TOGGLE_ROLE": "Переключать роль \"{0}\"",
     "TOTAL_CLUSTERS": "",
     "TOTAL_SHARDS": "Всего шардов",
+    "CLUSTER_NUMBER": "",
     "TRANSFER_COMPONENTS_ERROR": "",
     "TRANSFER_COMPONENTS_RESPONSE": "{0} все компоненты со [старого сообщения]({1}) на [новое сообщение]({2})",
     "TRANSFER_EMBEDS_AND_REPLACED": " и заменили старые",

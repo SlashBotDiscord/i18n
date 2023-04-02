@@ -625,6 +625,7 @@
     "TOGGLE_ROLE": "Toggle rol \"{0}\"",
     "TOTAL_CLUSTERS": "",
     "TOTAL_SHARDS": "Número total de fragmentos",
+    "CLUSTER_NUMBER": "",
     "TRANSFER_COMPONENTS_ERROR": "",
     "TRANSFER_COMPONENTS_RESPONSE": "{0} todos los componentes del [mensaje antiguo]({1}) al [nuevo mensaje]({2})",
     "TRANSFER_EMBEDS_AND_REPLACED": " y se han reemplazado los anteriores",

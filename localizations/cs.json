@@ -625,6 +625,7 @@
     "TOGGLE_ROLE": "Přepnout roli \"{0}\"",
     "TOTAL_CLUSTERS": "",
     "TOTAL_SHARDS": "Celkový počet shardu",
+    "CLUSTER_NUMBER": "",
     "TRANSFER_COMPONENTS_ERROR": "",
     "TRANSFER_COMPONENTS_RESPONSE": "{0} všechny komponenty ze [staré zprávy]({1}) na [novou zprávu]({2})",
     "TRANSFER_EMBEDS_AND_REPLACED": " a nahrazené staré",

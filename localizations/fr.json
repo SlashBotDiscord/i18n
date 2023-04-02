@@ -625,6 +625,7 @@
     "TOGGLE_ROLE": "Ajoute et retire le rôle \"{0}\"",
     "TOTAL_CLUSTERS": "",
     "TOTAL_SHARDS": "Nombre total de partitions",
+    "CLUSTER_NUMBER": "",
     "TRANSFER_COMPONENTS_ERROR": "",
     "TRANSFER_COMPONENTS_RESPONSE": "{0} tous les composants de [l'ancien message]({1}) au [nouveau message]({2})",
     "TRANSFER_EMBEDS_AND_REPLACED": " et j'ai remplacé les anciens",
