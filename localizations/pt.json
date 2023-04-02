@@ -625,6 +625,7 @@
     "TOGGLE_ROLE": "Cargo de alternância \"{0}\"",
     "TOTAL_CLUSTERS": "",
     "TOTAL_SHARDS": "Shards Totais",
+    "CLUSTER_NUMBER": "",
     "TRANSFER_COMPONENTS_ERROR": "",
     "TRANSFER_COMPONENTS_RESPONSE": "{0} todos os componentes da [mensagem antiga]({1}) para a [mensagem nova]({2})",
     "TRANSFER_EMBEDS_AND_REPLACED": " e substituiu os antigos",

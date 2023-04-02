@@ -625,6 +625,7 @@
     "TOGGLE_ROLE": "Toggle role \"{0}\"",
     "TOTAL_CLUSTERS": "Total Clusters",
     "TOTAL_SHARDS": "Total Shards",
+    "CLUSTER_NUMBER": "Cluster {0}",
     "TRANSFER_COMPONENTS_ERROR": "Unable to transfer components to new message",
     "TRANSFER_COMPONENTS_RESPONSE": "{0} all components from the [old message]({1}) to the [new message]({2})",
     "TRANSFER_EMBEDS_AND_REPLACED": " and replaced the old ones",
