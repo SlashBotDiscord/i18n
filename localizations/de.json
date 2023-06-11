@@ -248,6 +248,7 @@
     "ERROR": "Fehler",
     "ERROR_2_EMOJIS_NEEDED": "Wenn du benutzerdefinierte Emoji gibst musst du mindestens 2 unterschiedliche Emojis geben",
     "ERROR_ACTION_NOT_FOUND": "Diese Aktion wurde nicht gefunden",
+    "ERROR_AT_LEAST_1_ROLES": "",
     "ERROR_AT_LEAST_2_ROLES": "Du brauchst mindestens 2 einzigartige Rollen",
     "ERROR_AT_LEAST_X_ROLES": "Du brauchst mindestens {0} einzigartige Rollen",
     "ERROR_BAN_YOURSELF": "Du kannst dich nicht selbst bannen",

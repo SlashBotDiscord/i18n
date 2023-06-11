@@ -248,6 +248,7 @@
     "ERROR": "Erro",
     "ERROR_2_EMOJIS_NEEDED": "Ao fornecer emojis personalizados, você precisa fornecer pelo menos 2 emojis únicos",
     "ERROR_ACTION_NOT_FOUND": "Incapaz de encontrar esta ação",
+    "ERROR_AT_LEAST_1_ROLES": "",
     "ERROR_AT_LEAST_2_ROLES": "Você precisa de pelo menos 2 cargos exclusivos",
     "ERROR_AT_LEAST_X_ROLES": "Você precisa de pelo menos {0} cargos exclusivos",
     "ERROR_BAN_YOURSELF": "Você não pode se banir",

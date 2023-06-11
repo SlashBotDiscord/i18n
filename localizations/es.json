@@ -248,6 +248,7 @@
     "ERROR": "Error",
     "ERROR_2_EMOJIS_NEEDED": "Al proporcionar emojis personalizados, se requieren mínimamente 2 emojis en unicode",
     "ERROR_ACTION_NOT_FOUND": "No se puede encontrar esta acción",
+    "ERROR_AT_LEAST_1_ROLES": "",
     "ERROR_AT_LEAST_2_ROLES": "Se necesitan mínimamente 2 roles únicos",
     "ERROR_AT_LEAST_X_ROLES": "Se necesitan mínimamente {0} roles únicos",
     "ERROR_BAN_YOURSELF": "No se puede expulsar a uno mismo",
