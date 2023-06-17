@@ -562,6 +562,8 @@
     "PREMIUM_STATUS": "Premium status",
     "PREMIUM_STATUS_GUILD": "**Activated** {0}\n**Activated by** {1}",
     "PREMIUM_STATUS_USER": "**Activated** {0}{1}\n**Guilds activated** {2}\n**Tier** {3}",
+    "PREMIUM_SUPPORT_DESCRIPTION": "Without your help SlashBot will stop running <t:{0}:R>.\nPlease consider supporting us on [Patreon](https://patreon.com/slash_bot)",
+    "PREMIUM_SUPPORT_REMOVE_NOTICE": "You can remove this embed by activating premium",
     "PREMIUM_UNKNOWN_ERROR": "Unable to enable premium",
     "PRIMARY": "Primary",
     "PRIVATE_THREAD": "Private thread {0}",

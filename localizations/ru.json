@@ -562,6 +562,8 @@
     "PREMIUM_STATUS": "Премиум статус",
     "PREMIUM_STATUS_GUILD": "**Активирован** {0}\n**Активировано** {1}",
     "PREMIUM_STATUS_USER": "**Активирован** {0}{1}\n**Активировано серверов** {2}\n**Уровень** {3}",
+    "PREMIUM_SUPPORT_DESCRIPTION": "",
+    "PREMIUM_SUPPORT_REMOVE_NOTICE": "",
     "PREMIUM_UNKNOWN_ERROR": "Невозможно активировать премиум",
     "PRIMARY": "",
     "PRIVATE_THREAD": "Приватная ветка {0}",
