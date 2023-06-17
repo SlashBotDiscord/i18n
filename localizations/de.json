@@ -562,6 +562,8 @@
     "PREMIUM_STATUS": "Premium Status",
     "PREMIUM_STATUS_GUILD": "**Aktiviert** {0}\n**Aktiviert durch** {1}",
     "PREMIUM_STATUS_USER": "**Aktiviert** {0}{1}\n**Server aktiviert** {2}\n**Rang** {3}",
+    "PREMIUM_SUPPORT_DESCRIPTION": "",
+    "PREMIUM_SUPPORT_REMOVE_NOTICE": "",
     "PREMIUM_UNKNOWN_ERROR": "Fehler bei der Aktivierung von Premium",
     "PRIMARY": "",
     "PRIVATE_THREAD": "Privater Thread {0}",

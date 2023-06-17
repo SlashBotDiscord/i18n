@@ -562,6 +562,8 @@
     "PREMIUM_STATUS": "Estado de suscripción",
     "PREMIUM_STATUS_GUILD": "",
     "PREMIUM_STATUS_USER": "",
+    "PREMIUM_SUPPORT_DESCRIPTION": "",
+    "PREMIUM_SUPPORT_REMOVE_NOTICE": "",
     "PREMIUM_UNKNOWN_ERROR": "",
     "PRIMARY": "",
     "PRIVATE_THREAD": "Hilo privado {0}",

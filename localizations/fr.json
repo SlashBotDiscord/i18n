@@ -562,6 +562,8 @@
     "PREMIUM_STATUS": "État du Premium",
     "PREMIUM_STATUS_GUILD": "",
     "PREMIUM_STATUS_USER": "",
+    "PREMIUM_SUPPORT_DESCRIPTION": "",
+    "PREMIUM_SUPPORT_REMOVE_NOTICE": "",
     "PREMIUM_UNKNOWN_ERROR": "",
     "PRIMARY": "",
     "PRIVATE_THREAD": "Fil privé de discussion {0}",
