@@ -24,7 +24,7 @@
     "BUTTONROLE_ADVANCED_EMOJI_PLACEHOLDER": "The emoji for your Button",
     "BUTTONROLE_ADVANCED_LABEL_PLACEHOLDER": "The label for your Button",
     "BUTTONROLE_ADVANCED_MODAL_ROLES_PLACEHOLDER_NONSWITCH": "The roles to use separated with a newline",
-    "BUTTONROLE_ADVANCED_MODAL_ROLES_PLACEHOLDER_SWITCH": "The roles to remove in line and role to add in line two",
+    "BUTTONROLE_ADVANCED_MODAL_ROLES_PLACEHOLDER_SWITCH": "The roles to remove in line one and role to add in line two",
     "BUTTONROLE_ADVANCED_MODAL_TITLE": "Add a Button",
     "BUTTONROLE_ADVANCED_OPTION_REMOVED": "The **{0}.** Button with the type \"{1}\" for the roles {1} has been removed",
     "BUTTONROLE_ADVANCED_RESULT": "**Buttons set up** {0}\n**Channel** {1}\n**Notification** {2}",
