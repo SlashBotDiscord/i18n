@@ -172,6 +172,7 @@
     "DROPDOWNROLES_EDIT_DONE_EDIT_DESCRIPTION": "**Option bearbeitet**\n\n**Rolle** {0}\n**Emoji** {1}\n**Label** {2}\n**Beschreibung** {3}\n**Benötigte Rollen** {4}\n**Nachricht** [klcike hier]({5})",
     "DROPDOWNROLES_EDIT_INVALID_DROPDOWN": "Du kannst keine weiteren Optionen von diesem DropdownRoles Setup entfernen",
     "DROPDOWNROLES_EDIT_NO_VALUE_SELECTED": "Du hast keine Option ausgewählt",
+    "DROPDOWNROLES_EDIT_OPTION_EDITED": "",
     "DROPDOWNROLES_EDIT_ROLES_ADDED": "Ich habe die Rolle <@&{0}> zum DropdownRoles Setup in der Reihe {1} in dieser [Nachricht]({2}) hinzugefügt",
     "DROPDOWNROLES_EDIT_ROLES_CHOOSE_OPTION": "Wähle die Option, die du bearbeiten möchtest",
     "DROPDOWNROLES_EDIT_ROLES_EDIT_CONFIRM": "Bitte bestätige, dass dies die richtige Option zu bearbeiten ist. Falls dies der Fall ist klicke den Knopf unten, um dies zu bestätigen.",

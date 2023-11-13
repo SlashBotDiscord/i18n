@@ -172,6 +172,7 @@
     "DROPDOWNROLES_EDIT_DONE_EDIT_DESCRIPTION": "",
     "DROPDOWNROLES_EDIT_INVALID_DROPDOWN": "Tu ne peux pas enlever plus d'options de ce menu déroulant",
     "DROPDOWNROLES_EDIT_NO_VALUE_SELECTED": "Tu n'as pas sélectionner de valeur",
+    "DROPDOWNROLES_EDIT_OPTION_EDITED": "",
     "DROPDOWNROLES_EDIT_ROLES_ADDED": "Ajout du rôle <@&{0}> à la configuration de DropdownRoles à la rangée {1} sur [ce message]({2}) ",
     "DROPDOWNROLES_EDIT_ROLES_CHOOSE_OPTION": "",
     "DROPDOWNROLES_EDIT_ROLES_EDIT_CONFIRM": "",

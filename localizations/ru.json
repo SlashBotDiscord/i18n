@@ -172,6 +172,7 @@
     "DROPDOWNROLES_EDIT_DONE_EDIT_DESCRIPTION": "**Опция изменена**\n\n**Роль** {0}\n**Эмодзи** {1}\n**Пометка** {2}\n**Описание** {3}\n**Требуемые роли** {4}\n**Сообщение** [нажмите здесь] ({5})",
     "DROPDOWNROLES_EDIT_INVALID_DROPDOWN": "Нет никаких опций из этого выпадающего списка, которые вы могли бы удалить",
     "DROPDOWNROLES_EDIT_NO_VALUE_SELECTED": "Вы не выбрали значение",
+    "DROPDOWNROLES_EDIT_OPTION_EDITED": "",
     "DROPDOWNROLES_EDIT_ROLES_ADDED": "Добавлена роль <@&{0}> к настройке выпадающего списка в строке {1} в [этом сообщении]({2})",
     "DROPDOWNROLES_EDIT_ROLES_CHOOSE_OPTION": "Выберите опцию, которую вы хотите изменить",
     "DROPDOWNROLES_EDIT_ROLES_EDIT_CONFIRM": "Пожалуйста, проверьте, правильно ли выбрана нужная опция для изменения. Если да, пожалуйста, нажмите кнопку ниже для подтверждения",
