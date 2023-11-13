@@ -172,6 +172,7 @@
     "DROPDOWNROLES_EDIT_DONE_EDIT_DESCRIPTION": "",
     "DROPDOWNROLES_EDIT_INVALID_DROPDOWN": "No se pueden eliminar más opciones de esta lista desplegable",
     "DROPDOWNROLES_EDIT_NO_VALUE_SELECTED": "No se ha seleccionado ningún valor",
+    "DROPDOWNROLES_EDIT_OPTION_EDITED": "",
     "DROPDOWNROLES_EDIT_ROLES_ADDED": "Rol añadido <@&{0}> a la configuración de roles con desplegable en la fila {1} de [este mensaje]({2})",
     "DROPDOWNROLES_EDIT_ROLES_CHOOSE_OPTION": "",
     "DROPDOWNROLES_EDIT_ROLES_EDIT_CONFIRM": "",

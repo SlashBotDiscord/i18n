@@ -172,6 +172,7 @@
     "DROPDOWNROLES_EDIT_DONE_EDIT_DESCRIPTION": "**Option edited**\n\n**Role** {0}\n**Emoji** {1}\n**Label** {2}\n**Description** {3}\n**Required Roles** {4}\n**Message** [click here]({5})",
     "DROPDOWNROLES_EDIT_INVALID_DROPDOWN": "You can't remove any more options from this dropdown",
     "DROPDOWNROLES_EDIT_NO_VALUE_SELECTED": "You didn't select a value",
+    "DROPDOWNROLES_EDIT_OPTION_EDITED": "Added updated the option {0} in row {1} on [this message]({2})",
     "DROPDOWNROLES_EDIT_ROLES_ADDED": "Added role <@&{0}> to the DropdownRoles setup in row {1} on [this message]({2})",
     "DROPDOWNROLES_EDIT_ROLES_CHOOSE_OPTION": "Choose the option you want to edit",
     "DROPDOWNROLES_EDIT_ROLES_EDIT_CONFIRM": "Please check if this is the right option to edit. If yes please click the button below to confirm",
