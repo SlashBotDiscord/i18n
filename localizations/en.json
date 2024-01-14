@@ -365,6 +365,7 @@
     "ERROR_LABEL_LENGTH_EXCEEDED": "Your label exceeded the max length (max. 80)",
     "ERROR_LEVEL2_NEEDED": "This server needs level 2 for this to work (access to private threads)",
     "ERROR_MAX_DURATION_ACTIVITIES": "The max is 7 days (604800 seconds)",
+    "ERROR_MAX_ROLES_TOO_HIGH": "Max roles can't be higher than the amount of roles",
     "ERROR_MESSAGE_DELETED": "Don't delete the message!",
     "ERROR_MESSAGE_EDIT_FAIL": "There are invalid emojis in one or more components",
     "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "Something went wrong while trying to edit this message",

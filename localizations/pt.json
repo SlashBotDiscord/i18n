@@ -365,6 +365,7 @@
     "ERROR_LABEL_LENGTH_EXCEEDED": "Sua etiqueta excedeu o comprimento máximo (max. 80)",
     "ERROR_LEVEL2_NEEDED": "Este servidor precisa de nível 2 para isto funcionar (acesso a tópicos privados)",
     "ERROR_MAX_DURATION_ACTIVITIES": "O máximo é de 7 dias (604800 segundos)",
+    "ERROR_MAX_ROLES_TOO_HIGH": "",
     "ERROR_MESSAGE_DELETED": "Não exclua a mensagem!",
     "ERROR_MESSAGE_EDIT_FAIL": "Existem emojis inválidos em um ou mais componentes",
     "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "Algo deu errado ao tentar editar esta mensagem",
