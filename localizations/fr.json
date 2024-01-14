@@ -365,6 +365,7 @@
     "ERROR_LABEL_LENGTH_EXCEEDED": "Oups ! Ton label a excédé le nombre de caractères (maximum: 100)",
     "ERROR_LEVEL2_NEEDED": "Ce serveur a besoin du niveau 2 pour que cela fonctionne (accès aux fils privés).",
     "ERROR_MAX_DURATION_ACTIVITIES": "Le maximum est 7 jours (ou 604800 secondes)",
+    "ERROR_MAX_ROLES_TOO_HIGH": "",
     "ERROR_MESSAGE_DELETED": "Ne supprime pas ce message !",
     "ERROR_MESSAGE_EDIT_FAIL": "Un ou plusieurs composants contiennent des emojis non valides",
     "ERROR_MESSAGE_EDIT_FAIL_UNKNOWN": "",
