@@ -10,15 +10,15 @@ Ein Haupe-Feature sind ButtonRoles.
 Mit ButtonRoles kannst du mühelos den Mitgliedern deines Servers erlauben sich Rollen zuzuweisen.
 
 ButtonRoles haben 4 Modi:
-
 - Toggle bzw. Wechseln, welcher die Rolle hinzufügt, falls man sie nicht hat und die Rolle entfernt, falls man sie hat
 - Add bzw. Hinzufügen, welcher die Rolle nur hinzufügt, aber nicht wieder entfernt
 - Remove bzw. Entfernen, welcher die Rolle nur entfernt, aber nicht hinzufügt
 - Switch bzw. Austauschen, welcher eine Rolle entfernt und eine andere Rolle hinzufügt
 
-![ButtonRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413770900533268/buttonrole.png)
+![ButtonRoles](https://slashbot.xyz/assets/buttonrole.png)
 
 Du kannst das Label, das Emoji und sogar das Aussehen des Buttons anpassen.
+
 
 ## DropdownRoles
 
@@ -29,7 +29,7 @@ Du kannst einstellen, wie viele Rollen ein Mitglied auswählen kann. Du kannst a
 Jede Option kann ein angepasstes Label, optionales Emoji und eine optionale Beschreibung kaben.
 Du kannst sogar eine Rolle voraussetzen, damit man eine Option auswählen kann.
 
-![DropdownRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413970746519592/buttonrole.png)
+![DropdownRoles](https://slashbot.xyz/assets/selectmenuroles.png)
 
 ## Advanced Embeds
 
@@ -37,10 +37,8 @@ Mit unserem fortgeschrittenen Embed Builder kannst du Embeds schneller und besse
 Wähle einfach die Eigenschaft des Embeds aus, die du bearbeiten möchtest.
 Du wirst zur Eingabe aufgefordert und kannst entweder neuen Text geben, den schon bestehenden Text bearbeiten oder den Text entfernen.
 
-![Advanced Embed](https://cdn.discordapp.com/attachments/881258074873135244/949418884279201893/unknown.png)
+![Advanced Embed](https://slashbot.xyz/assets/embed_advanced.png)
 
 ## Utilities
 
-Wir bieten nützliche Commands, so wie Commands zum anschauen vom Avatar eines Mitglieds, einfache Moderation, wie zum Beispiel eine komplett anpassbare Timeoutdauer.
-Andere nützliche Commands sind unser Emoji Viewer, Nachrichten löschen, Slowmode, Umfragen, Google und Text-bearbeiter Commands.
-Musst du kurz was auf Wikipedia nachschlagen? Wir haben einen Command dafür!
+Wir bieten weitere nützliche Funktionen, die das Erstellen von ButtonRoles und DropdownRoles für deine Community erleichtert.
