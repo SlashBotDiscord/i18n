@@ -10,15 +10,15 @@ One of our key features are ButtonRoles.
 With ButtonRoles you can easily let members of your server assign role(s) to them selves.
 
 ButtonRoles have 4 modes:
-
 - Toggle, which removes if you have the role and adds if you don't have the role
 - Add, which only adds the role no matter if you have it already
 - Remove, which only removes the role no matter if you don't have it
 - Switch, which removes one role but adds another role in return
 
-![ButtonRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413770900533268/buttonrole.png)
+![ButtonRoles](https://slashbot.xyz/assets/buttonrole.png)
 
 You can customize the label, emoji and even the style of the buttons.
+
 
 ## DropdownRoles
 
@@ -28,17 +28,15 @@ After using one of many setup commands you have a select-menu with up to 25 role
 You can set how many roles a member can choose. You can also fully customize the select-menus placeholder.
 Each option can have a custom label, optional emoji, optional description and required roles to select the option.
 
-![DropdownRoles](https://cdn.discordapp.com/attachments/860575753950461983/934413970746519592/buttonrole.png)
+![DropdownRoles](https://slashbot.xyz/assets/selectmenuroles.png)
 
 ## Advanced Embeds
 
 With our advanced embed builder you can **create** and **edit** easier than ever before.
 Simply select what aspect of the embed you want to edit and type out or edit the value if it already exists.
 
-![Advanced Embed](https://cdn.discordapp.com/attachments/881258074873135244/949418884279201893/unknown.png)
+![Advanced Embed](https://slashbot.xyz/assets/embed_advanced.png)
 
 ## Utilities
 
-We offer utility commands such as viewing assets of a member, simple moderation like fully custom timeout durations.
-Other utility commands are our emoji viewer, purge, slowmode, poll, google and text modifier commands.
-Need to look something up on wikipedia? We have a command for that.
+We offer a wide variety of utilities that will help you set up ButtonRoles and DropdownRoles for your community.
