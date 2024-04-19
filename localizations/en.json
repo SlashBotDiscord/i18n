@@ -88,7 +88,7 @@
     "COMMANDHANDLER_PERMISSIONS_NEEDED": "This command requires `{0}` more (global) permission(s): ```diff\n{1}```\nAdd them to my integration role to fix this.",
     "COMMANDS": "Slash Commands",
     "COMMANDS_DESCRIPTION": "**Permissions needed**\n**You** {0}\n**Me** {1}",
-    "COMMANDS_DESCRIPTION_BOT": "**Permissions needed**\n**Me** {1}",
+    "COMMANDS_DESCRIPTION_BOT": "**Permissions needed**\n**Me** {0}",
     "COMMANDS_DESCRIPTION_DETAILED": "**Sub commands**\n{0}\n{1}",
     "COMMANDS_DESCRIPTION_DETAILED_BOT": "**Sub commands**\n{0}",
     "COMMANDS_OVERVIEW": "Commands Overview",
