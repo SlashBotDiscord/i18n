@@ -569,6 +569,8 @@
     "PREMIUM_INVALID_GUILD_ID": "That's not a valid guild ID",
     "PREMIUM_MAX_GUILDS_ACTIVATED": "Your premium tier can't activate more than {0} guild(s). [Upgrade]({1}) or contact the developers if you wish to activate more than {2} guilds",
     "PREMIUM_NON_EXISTENT_GUILD": "The guild with ID {0} doesn't exist",
+    "PREMIUM_STATUS_GUILD_LABEL": "Guild Premium Status",
+    "PREMIUM_STATUS_USER_LABEL": "User Premium Status",
     "PREMIUM_STATUS": "Premium status",
     "PREMIUM_STATUS_GUILD": "**Activated** {0}\n**Activated by** {1}",
     "PREMIUM_STATUS_USER": "**Activated** {0}{1}\n**Guilds activated** {2}\n**Tier** {3}",

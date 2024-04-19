@@ -569,6 +569,8 @@
     "PREMIUM_INVALID_GUILD_ID": "Это недействительный ID сервера",
     "PREMIUM_MAX_GUILDS_ACTIVATED": "Ваш уровень премиума не может активировать больше {0} серверов. [Обновитесь]({1}) или свяжитесь с разработчиками, если вы хотите активировать больше {2} серверов",
     "PREMIUM_NON_EXISTENT_GUILD": "Сервера с ID {0} не существует",
+    "PREMIUM_STATUS_GUILD_LABEL": "",
+    "PREMIUM_STATUS_USER_LABEL": "",
     "PREMIUM_STATUS": "Премиум статус",
     "PREMIUM_STATUS_GUILD": "**Активирован** {0}\n**Активировано** {1}",
     "PREMIUM_STATUS_USER": "**Активирован** {0}{1}\n**Активировано серверов** {2}\n**Уровень** {3}",
