@@ -569,6 +569,8 @@
     "PREMIUM_INVALID_GUILD_ID": "Dies ist keine gültige Server-ID",
     "PREMIUM_MAX_GUILDS_ACTIVATED": "Dein Premium-Rang kann nicht mehr als {0} Server aktivieren. [Erhöhe deinen Premium-Rang]({1}) oder kontaktiere die Entwickler, wenn du mehr als {2} Server aktivieren möchtest",
     "PREMIUM_NON_EXISTENT_GUILD": "Der Server mit der ID {0} existiert nicht",
+    "PREMIUM_STATUS_GUILD_LABEL": "",
+    "PREMIUM_STATUS_USER_LABEL": "",
     "PREMIUM_STATUS": "Premium Status",
     "PREMIUM_STATUS_GUILD": "**Aktiviert** {0}\n**Aktiviert durch** {1}",
     "PREMIUM_STATUS_USER": "**Aktiviert** {0}{1}\n**Server aktiviert** {2}\n**Rang** {3}",
