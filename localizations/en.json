@@ -389,6 +389,8 @@
     "ERROR_NO_EMBED_IN_POSITION": "There's no embed in position {0}",
     "ERROR_NO_FURTHER_PAGES_FOUND": "Unable to find any more pages",
     "ERROR_NO_PREMIUM": "In order to use this command this guild needs a [premium subscription]({0})",
+    "ERROR_NO_PREMIUM_GUILD": "In order to use this command this guild needs a [premium subscription]({0})",
+    "ERROR_NO_PREMIUM_USER": "In order to use this command you need a [premium subscription]({0})",
     "ERROR_NOT_A_DEV": "You're not a developer",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "That's not a dropdownrole setup",
     "ERROR_NOT_A_GUILD_MEMBER": "That's not a member of this guild",

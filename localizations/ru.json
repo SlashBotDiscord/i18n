@@ -389,6 +389,8 @@
     "ERROR_NO_EMBED_IN_POSITION": "Эмбед на позиции {0} не найден",
     "ERROR_NO_FURTHER_PAGES_FOUND": "Не могу найти больше страниц",
     "ERROR_NO_PREMIUM": "Для использования этой команды необходим [премиум]({0})",
+    "ERROR_NO_PREMIUM_GUILD": "",
+    "ERROR_NO_PREMIUM_USER": "",
     "ERROR_NOT_A_DEV": "Вы не являетесь разработчиком",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "Это не является настройкой DropdownRoles",
     "ERROR_NOT_A_GUILD_MEMBER": "Это не участник этого сервера",
