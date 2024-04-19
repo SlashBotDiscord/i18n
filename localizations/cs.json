@@ -389,6 +389,8 @@
     "ERROR_NO_EMBED_IN_POSITION": "Na pozici {0} není žádný embed",
     "ERROR_NO_FURTHER_PAGES_FOUND": "",
     "ERROR_NO_PREMIUM": "",
+    "ERROR_NO_PREMIUM_GUILD": "",
+    "ERROR_NO_PREMIUM_USER": "",
     "ERROR_NOT_A_DEV": "Nejsi vývojář!",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "To není dropdown role setup",
     "ERROR_NOT_A_GUILD_MEMBER": "To není člen tohoto serveru",

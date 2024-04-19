@@ -389,6 +389,8 @@
     "ERROR_NO_EMBED_IN_POSITION": "In der Position {0} gibt es kein Embed",
     "ERROR_NO_FURTHER_PAGES_FOUND": "",
     "ERROR_NO_PREMIUM": "Dieser Server benötigt ein [Premium Abo]({0}), damit du diesen Command verwenden kannst",
+    "ERROR_NO_PREMIUM_GUILD": "",
+    "ERROR_NO_PREMIUM_USER": "",
     "ERROR_NOT_A_DEV": "Du bist kein Entwickler",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "Dies ist kein DropdownRoles Setup",
     "ERROR_NOT_A_GUILD_MEMBER": "Dieser Nutzer ist kein Mitglied dieses Servers",

@@ -389,6 +389,8 @@
     "ERROR_NO_EMBED_IN_POSITION": "Não há nenhuma embed na posição {0}",
     "ERROR_NO_FURTHER_PAGES_FOUND": "Não é possível encontrar mais páginas",
     "ERROR_NO_PREMIUM": "Para usar este comando sua guilda precisa de uma [assinatura premium]({0})",
+    "ERROR_NO_PREMIUM_GUILD": "",
+    "ERROR_NO_PREMIUM_USER": "",
     "ERROR_NOT_A_DEV": "Você não é um desenvolvedor",
     "ERROR_NOT_A_DROPDOWNROLE_SETUP": "Isso não é uma configuração de menu suspenso",
     "ERROR_NOT_A_GUILD_MEMBER": "Esse não é um membro dessa guilda",
