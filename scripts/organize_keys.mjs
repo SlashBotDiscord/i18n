@@ -4,7 +4,7 @@ import { join } from "node:path";
 const BLACKLISTED = ["AVAILABLE_LANGUAGES.json"];
 const BASE_PATH = join(process.cwd(), "localizations");
 
-const PRIMARY_FILE = await pathToJSON(join(BASE_PATH, "en.json"));
+const PRIMARY_FILE = await pathToJSON(join(BASE_PATH, "en-US.json"));
 
 for await (const dirent of await opendir(BASE_PATH)) {
     if (!dirent.isFile() || BLACKLISTED.includes(dirent.name)) continue;
