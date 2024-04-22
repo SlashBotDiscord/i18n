@@ -13,7 +13,6 @@ class SlashBotLocalizationManager {
     loadLanguages() {
         let i18n = {};
         readdirSync(`${__dirname}/localizations`)
-            .filter((f) => f.replace(".json", "").length === 2)
             .forEach((f) => {
                 i18n[f.replace(".json", "")] = JSON.parse(
                     readFileSync(`${__dirname}/localizations/${f}`).toString("utf-8")
@@ -25,11 +24,11 @@ class SlashBotLocalizationManager {
 
     getTranslation(locale, key, ...args) {
 		let language = locale
-		language = language.split("-")[0]
-		if (!(language in this.languages)) language = "en";
+		// language = language.split("-")[0]
+		if (!(language in this.languages)) language = "en-US";
 
 		const strings = this.languages[language],
-			english = this.languages["en"];
+			english = this.languages["en-US"];
 		let value;
 
 		if (key in strings) value = strings[key];
