@@ -369,6 +369,7 @@
     "ERROR_MAX_DURATION_ACTIVITIES": "O máximo é de 7 dias (604800 segundos)",
     "ERROR_MAX_ROLES_TOO_HIGH": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "",
+    "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
     "ERROR_MESSAGE_ADVANCED_NO_CONTENT": "",
     "ERROR_MESSAGE_DELETED": "Não exclua a mensagem!",
     "ERROR_MESSAGE_EDIT_FAIL": "Existem emojis inválidos em um ou mais componentes",
