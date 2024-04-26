@@ -157,6 +157,7 @@
     "DROPDOWNROLES_ADVANCED_ROLES_INSTRUCTION": "Další zprávy prosím odešlete v následujícím formátu:\n```md\n@{0} <role> <emotikon> <štítek>\n<popis>\n<omezující role>\n```\n `- ` Štítek může být jakýkoli text kratší než 100 znaků\n`- ` Emoji může být jakýkoli emotikon nebo žádný\n`- ` Maximálně 25 rolí\n`- ` Mezi rolí, emotikonem a štítkem a popisem musí existovat nový řádek\n`- ` Omezovací role jsou sadou rolí, z nichž člen potřebuje aspoň jednu k získání role (max. 4)\n\nPošlete `done` pro dokončení nebo `cancel` pro zrušení",
     "DROPDOWNROLES_ADVANCED_SELECT_TO_REMOVE": "",
     "DROPDOWNROLES_BULK_SETUP": "Hromadný nabídkový setup",
+    "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
     "DROPDOWNROLES_CANCEL_DESCRIPTION": "",
     "DROPDOWNROLES_CANCELLED": "Nabídkový setup byl zrušen",
     "DROPDOWNROLES_CHANGES_DESCRIPTION": "**Chybí ti některé role**\nChybí ti jedna nebo více rolí pro vybrané role\n\n*`Vybraná role -> Požadované role`*",

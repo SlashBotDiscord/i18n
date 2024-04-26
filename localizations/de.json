@@ -157,6 +157,7 @@
     "DROPDOWNROLES_ADVANCED_ROLES_INSTRUCTION": "Bitte sende deine nächsten Nachrichten, dem folgenden Format folgend:\n```md\n@{0} <rolle> <emoji> <label>\n<beschreibung>\n<benötigte rollen>\n```\n`- ` Ein Label kann ein Text mit einer Länge von bis zu 100 Zeichen sein\n`- ` Ein Emoji kann jedes Emoji oder `none` sein\n`- ` Zwischen rolle, emoji, label und beschreibung und benötigten rollen muss ein Zeilenumbruch sein\n`- ` benötigte Rollen sind Rollen, die das Mitglied benötigt, um diese Rolle auszuwählen (max. 4)\n\nSchicke `done` zum beenden oder `cancel` zum Abbrechen des Setups",
     "DROPDOWNROLES_ADVANCED_SELECT_TO_REMOVE": "Wähle die Rolle zum entfernen aus",
     "DROPDOWNROLES_BULK_SETUP": "DropdownRoles Massen Setup",
+    "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
     "DROPDOWNROLES_CANCEL_DESCRIPTION": "Das Setup ist abgelaufen oder wurde abgebrochen",
     "DROPDOWNROLES_CANCELLED": "DropdownRoles Setup abgebrochen",
     "DROPDOWNROLES_CHANGES_DESCRIPTION": "**Dir fehlen Rolle(n)**\nDir fehlen eine oder mehrere Rollen pro ausgewählte Option.\n\n*` Ausgewählte Rolle -> Benötigte Rolle(n) `*",

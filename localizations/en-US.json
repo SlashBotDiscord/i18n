@@ -157,6 +157,7 @@
     "DROPDOWNROLES_ADVANCED_ROLES_INSTRUCTION": "Please send the next messages with the following format:\n```md\n@{0} <role> <emoji> <label>\n<description>\n<required roles>\n```\n`- ` A label can be any text less than 100 characters\n`- ` An emoji can be any emoji or `none`\n`- ` Maximum 25 roles\n`- ` Between the role, emoji and label and the description a newline has to exist\n`- ` Required roles being a set of roles which the member needs 1 of to get the role (max 4)\n\nSend `done` to finish or `cancel` to cancel",
     "DROPDOWNROLES_ADVANCED_SELECT_TO_REMOVE": "Select the role to remove",
     "DROPDOWNROLES_BULK_SETUP": "DropdownRoles bulk setup",
+    "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "The prompt timed out",
     "DROPDOWNROLES_CANCEL_DESCRIPTION": "The set up timed out or has been cancelled",
     "DROPDOWNROLES_CANCELLED": "DropdownRoles setup cancelled",
     "DROPDOWNROLES_CHANGES_DESCRIPTION": "**You are missing some role(s)**\nYou are missing one or more roles for each role you have selected.\n\n*` Selected role -> Required roles `*",
