@@ -157,6 +157,7 @@
     "DROPDOWNROLES_ADVANCED_ROLES_INSTRUCTION": "Merci d'envoyer les prochains messages avec le format suivant :\n```md\n@{0} <rôle> <emoji> <label>\n<description>\n<rôle de restriction>\n```\n`- ` Un label peut être n'importe quel texte de moins de 100 caractères\n`- ` Un emoji peut être n'importe quel emoji ou aucun\n`- ` Maximum 25 rôles\n`- ` Entre le rôle, l'emoji et le label, et la description, une nouvelle ligne doit exister\n`- ` Le rôle de restriction étant un ensemble de rôles, le membre a besoin de l'un d'entre eux pour avoir le rôle (max 4)\n\nEnvoie `done` pour terminer ou `cancel` pour annuler",
     "DROPDOWNROLES_ADVANCED_SELECT_TO_REMOVE": "Sélectionne le rôle à retirer",
     "DROPDOWNROLES_BULK_SETUP": "Configuration groupée de DropdownRoles",
+    "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
     "DROPDOWNROLES_CANCEL_DESCRIPTION": "",
     "DROPDOWNROLES_CANCELLED": "Configuration du DropdownRole annulée",
     "DROPDOWNROLES_CHANGES_DESCRIPTION": "**Il te manque quelque(s) rôle(s)**\nIl te manque un ou plusieurs rôles pour chaque rôle tu as sélectionné.\n\n*` Rôle sélectionné -> Rôles requis `*",
