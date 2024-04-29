@@ -187,6 +187,7 @@
     "DROPDOWNROLES_EDIT_SELECT_OPTION": "Selecione a opção que você deseja remover",
     "DROPDOWNROLES_EDIT_SELECT_PLACEHOLDER": "Clique abaixo para continuar",
     "DROPDOWNROLES_EXPIRED": "O tempo de configuração expirou após 15 minutos",
+    "DROPDOWNROLES_GLOBAL_NOTE": "",
     "DROPDOWNROLES_NO_CHANGES": "Nenhum cargo foi alterado",
     "DROPDOWNROLES_REMOVED_ALL": "Todos os cargos selecionáveis foram removidos",
     "DROPDOWNROLES_REMOVED_ROLES": "Cargos removidos",
