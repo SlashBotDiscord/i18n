@@ -187,6 +187,7 @@
     "DROPDOWNROLES_EDIT_SELECT_OPTION": "Selecciona la opción que quieres eliminar",
     "DROPDOWNROLES_EDIT_SELECT_PLACEHOLDER": "",
     "DROPDOWNROLES_EXPIRED": "La configuración se ha cancelado después de 5 minutos en espera",
+    "DROPDOWNROLES_GLOBAL_NOTE": "",
     "DROPDOWNROLES_NO_CHANGES": "No se ha cambiado ningún rol",
     "DROPDOWNROLES_REMOVED_ALL": "Se han eliminado todos los roles seleccionables",
     "DROPDOWNROLES_REMOVED_ROLES": "Roles eliminados",
