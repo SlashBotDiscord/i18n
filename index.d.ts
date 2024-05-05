@@ -25,6 +25,7 @@ export declare enum Locale {
     Romanian = "ro",
     Russian = "ru",
     SpanishES = "es-ES",
+    LatAmES = "es-419",
     Swedish = "sv-SE",
     Thai = "th",
     Turkish = "tr",
