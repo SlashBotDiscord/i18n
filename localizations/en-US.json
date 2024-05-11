@@ -524,7 +524,7 @@
     "MESSAGE_INFO_BUTTON_LINK": "**__LinkButton__**\nURL: [click here]({0})",
     "MESSAGE_INFO_BUTTON_NORMAL": "**__ButtonRole__**\nRoles: {0} Notification: {1} Required: {2}",
     "MESSAGE_INFO_BUTTON_SWITCH": "**__Switch ButtonRole__**\nRemove Role: {0} Add Role: {1} Notification: {2} Required: {3}",
-    "MESSAGE_INFO_COMPONENT_DESCRIPTION_BUTTONROLE": "**ButtonRole** Type `{0}` Roles {1} Notification `{2}`",
+    "MESSAGE_INFO_COMPONENT_DESCRIPTION_BUTTONROLE": "**ButtonRole** Type `{0}` Roles {1} Notification `{2}` Required {3}",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_DROPDOWNROLE": "**DropdownRole** Options `{0}` Notification `{1}` Reselectable `{2}` Global `{3}`",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_FUNCTIONBUTTON": "**Functionbutton**",
     "MESSAGE_INFO_COMPONENT_DESCRIPTION_LINKBUTTON": "**LinkButton** URL `{0}`",
