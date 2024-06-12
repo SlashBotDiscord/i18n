@@ -146,7 +146,7 @@
     "DROPDOWNROLES_ADVANCED_MODAL_REQUIRED_ROLES_PLACEHOLDER_NEW": "@menção, os IDs ou os nomes dos cargos necessários separados por uma nova linha",
     "DROPDOWNROLES_ADVANCED_MODAL_RESTRICTION_LABEL": "Cargos necessários para selecionar a opção",
     "DROPDOWNROLES_ADVANCED_MODAL_RESTRICTION_PLACEHOLDER": "@menção, os ID's ou os nomes dos cargos necessários",
-    "DROPDOWNROLES_ADVANCED_MODAL_ROLE_LABEL": "A posição que você deseja adicionar como opção",
+    "DROPDOWNROLES_ADVANCED_MODAL_ROLE_LABEL": "A posição que você deseja adicionar",
     "DROPDOWNROLES_ADVANCED_MODAL_ROLE_PLACEHOLDER": "@menção, o ID ou o nome do cargo",
     "DROPDOWNROLES_ADVANCED_MODAL_TITLE": "Adicionar uma opção",
     "DROPDOWNROLES_ADVANCED_MODAL_TITLE_EXTENDED": "Adicionar opção {0}",
