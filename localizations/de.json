@@ -261,6 +261,7 @@
     "ERROR_AT_LEAST_1_ROLES": "Du benötigst mindestens eine einzigartige Rolle",
     "ERROR_AT_LEAST_2_ROLES": "Du brauchst mindestens 2 einzigartige Rollen",
     "ERROR_AT_LEAST_X_ROLES": "Du brauchst mindestens {0} einzigartige Rollen",
+    "ERROR_ATTACHMENT_NOT_AN_IMAGE": "Der Anhang ist kein Bild",
     "ERROR_BAN_YOURSELF": "Du kannst dich nicht selbst bannen",
     "ERROR_BANNED_MEMBER_NOT_FOUND": "Ich bin nicht in der Lage das ausgewählte Mitglied zu bannen",
     "ERROR_BUTTON_LIMIT_REACHED": "Du kannst dieser Nachricht keine weiteren Buttons hinzufügen",

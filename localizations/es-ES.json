@@ -261,6 +261,7 @@
     "ERROR_AT_LEAST_1_ROLES": "",
     "ERROR_AT_LEAST_2_ROLES": "Se necesitan mínimamente 2 roles únicos",
     "ERROR_AT_LEAST_X_ROLES": "Se necesitan mínimamente {0} roles únicos",
+    "ERROR_ATTACHMENT_NOT_AN_IMAGE": "",
     "ERROR_BAN_YOURSELF": "No se puede expulsar a uno mismo",
     "ERROR_BANNED_MEMBER_NOT_FOUND": "No se encuentra al usuario expulsado que se ha proporcionado",
     "ERROR_BUTTON_LIMIT_REACHED": "No se puede añadir más botones a este mensaje",

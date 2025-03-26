@@ -261,6 +261,7 @@
     "ERROR_AT_LEAST_1_ROLES": "",
     "ERROR_AT_LEAST_2_ROLES": "Tu as besoin d'au moins 2 rôles uniques",
     "ERROR_AT_LEAST_X_ROLES": "Tu as besoin d'au moins {0} rôles uniques",
+    "ERROR_ATTACHMENT_NOT_AN_IMAGE": "",
     "ERROR_BAN_YOURSELF": "Tu ne peux pas te bannir toi-même",
     "ERROR_BANNED_MEMBER_NOT_FOUND": "Je n'arrive pas à trouver le membre banni que tu veux débannir",
     "ERROR_BUTTON_LIMIT_REACHED": "Tu ne peux plus ajouter de boutons sur ce message",

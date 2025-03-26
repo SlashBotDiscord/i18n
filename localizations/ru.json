@@ -261,6 +261,7 @@
     "ERROR_AT_LEAST_1_ROLES": "",
     "ERROR_AT_LEAST_2_ROLES": "Вам необходимо как минимум 2 уникальные роли",
     "ERROR_AT_LEAST_X_ROLES": "Вам необходимо как минимум {0} уникальные роли",
+    "ERROR_ATTACHMENT_NOT_AN_IMAGE": "",
     "ERROR_BAN_YOURSELF": "Вы не можете забанить самого себя",
     "ERROR_BANNED_MEMBER_NOT_FOUND": "Я не могу найти забаненного участника, которого вы хотите разбанить",
     "ERROR_BUTTON_LIMIT_REACHED": "Вы не можете добавить больше кнопок к этому сообщению",
