@@ -39,4 +39,5 @@ export declare class SlashBotLocalizationManager {
     constructor()
     loadLanguages(): undefined;
     getTranslation(locale: LocaleString, key: string, ...args: (string | number)[]): string;
+    getAvailableLanguages(): {name: string, translatedPercent: number}[];
 }

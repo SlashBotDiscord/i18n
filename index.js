@@ -37,6 +37,22 @@ class SlashBotLocalizationManager {
 
         return value.replace(/{(\d+)}/g, (_, i) => args[i]?.toString() ?? _);
     }
+
+    getAvailableLanguages() {
+        const enKeys = Object.keys(this.languages["en-US"]).length;
+        const availableLanguages = JSON.parse(
+            readFileSync(`${__dirname}/information/AVAILABLE_LANGUAGES.json`, "utf-8")
+        );
+        /*if(!availableLanguages.length) {
+            availableLanguages.push(...Object.keys(this.languages))
+        }*/
+        return availableLanguages.map(lang => {
+            return {
+                name: lang.replace(/_/g, "-").toLowerCase(),
+                translatedPercent: Object.values(this.languages[lang] || {}).filter(v => v).length / enKeys,
+            }
+        }).sort((a, b) => b.translatedPercent - a.translatedPercent);
+    }
 }
 
 module.exports = {SlashBotLocalizationManager}
