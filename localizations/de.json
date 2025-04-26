@@ -428,6 +428,7 @@
     "ERROR_ROLES_NOT_BELOW1": "Alle gegebenen Rollen müssen unter meiner höchsten Rolle sein",
     "ERROR_ROLES_NOT_BELOW2": "Keine der gegebenen Rollen darf integriert sein",
     "ERROR_ROLES_TOO_HIGH": "Du hast keine Berechtigung Rollen, die über dir selbst sind einzustellen",
+    "ERROR_ROW_NOT_ACTIONROW": "Die ausgewählte Reihe ist keine ActionRow",
     "ERROR_SAY_TEXT_TOO_LONG1": "Dein Text darf nicht länger als 75 Zeichen sein",
     "ERROR_SAY_TEXT_TOO_LONG2": "Dein Text darf nicht länger als 95 Zeichen sein",
     "ERROR_SHARDS_SPAWNING": "Wir starten unsere Dienste neu. Bitte warte, bis alles wieder online ist.",

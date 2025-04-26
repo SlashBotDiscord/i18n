@@ -2,6 +2,7 @@ const {readdirSync, readFileSync} = require("fs")
 
 class SlashBotLocalizationManager {
     #languages = {}
+    #availableLanguages = []
     constructor() {
         this.loadLanguages()
     }
@@ -20,6 +21,7 @@ class SlashBotLocalizationManager {
             });
         this.language
         this.#languages = i18n
+        this.#availableLanguages = []
     }
 
     getTranslation(locale, key, ...args) {
@@ -39,6 +41,7 @@ class SlashBotLocalizationManager {
     }
 
     getAvailableLanguages() {
+        if(this.#availableLanguages.length) return this.#availableLanguages
         const enKeys = Object.keys(this.languages["en-US"]).length;
         const availableLanguages = JSON.parse(
             readFileSync(`${__dirname}/information/AVAILABLE_LANGUAGES.json`, "utf-8")
@@ -46,7 +49,7 @@ class SlashBotLocalizationManager {
         /*if(!availableLanguages.length) {
             availableLanguages.push(...Object.keys(this.languages))
         }*/
-        return availableLanguages.map(lang => {
+        this.#availableLanguages = availableLanguages.map(lang => {
             return {
                 name: lang.replace(/_/g, "-").toLowerCase(),
                 translatedPercent: Object.values(this.languages[lang] || {}).filter(v => v).length / enKeys,

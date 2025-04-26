@@ -428,6 +428,7 @@
     "ERROR_ROLES_NOT_BELOW1": "Všechny uvedené role musí být pode mnou",
     "ERROR_ROLES_NOT_BELOW2": "Žádná z rolí nemůže být spravována",
     "ERROR_ROLES_TOO_HIGH": "",
+    "ERROR_ROW_NOT_ACTIONROW": "",
     "ERROR_SAY_TEXT_TOO_LONG1": "Tvůj text nemůže být delší jak 75 znaků",
     "ERROR_SAY_TEXT_TOO_LONG2": "Tvůj text nemůže být delší jak 95 znaků",
     "ERROR_SHARDS_SPAWNING": "",

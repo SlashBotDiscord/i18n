@@ -428,6 +428,7 @@
     "ERROR_ROLES_NOT_BELOW1": "Todos os cargos dados devem estar abaixo de mim",
     "ERROR_ROLES_NOT_BELOW2": "Nenhum dos cargos dados podem ser gerenciados",
     "ERROR_ROLES_TOO_HIGH": "Você não tem permissão para configurar cargos acima de você mesmo",
+    "ERROR_ROW_NOT_ACTIONROW": "",
     "ERROR_SAY_TEXT_TOO_LONG1": "Seu texto não pode ser maior que 75 caracteres",
     "ERROR_SAY_TEXT_TOO_LONG2": "Seu texto não pode ser maior que 95 caracteres",
     "ERROR_SHARDS_SPAWNING": "Nós estamos reiniciando no momento. Por favor, aguarde até que estejamos disponíveis novamente.",
