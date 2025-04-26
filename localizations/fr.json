@@ -428,6 +428,7 @@
     "ERROR_ROLES_NOT_BELOW1": "Tous les rôles donnés doivent être sous le mien",
     "ERROR_ROLES_NOT_BELOW2": "Aucun des rôles donnés ne peuvent être intégrés",
     "ERROR_ROLES_TOO_HIGH": "",
+    "ERROR_ROW_NOT_ACTIONROW": "",
     "ERROR_SAY_TEXT_TOO_LONG1": "Ton texte ne doit pas dépasser 75 caractères",
     "ERROR_SAY_TEXT_TOO_LONG2": "Ton texte ne doit pas dépasser 95 caractères",
     "ERROR_SHARDS_SPAWNING": "Nous sommes actuellement en train de redémarrer. Merci de patienter jusqu'à notre retour en ligne.",

@@ -428,6 +428,7 @@
     "ERROR_ROLES_NOT_BELOW1": "Todos los roles a otorgar deben encontrarse inferiormente a mi rol",
     "ERROR_ROLES_NOT_BELOW2": "Ninguno de los roles proporcionados pueden ser gestionados",
     "ERROR_ROLES_TOO_HIGH": "",
+    "ERROR_ROW_NOT_ACTIONROW": "",
     "ERROR_SAY_TEXT_TOO_LONG1": "El texto no puede superar los 75 caracteres",
     "ERROR_SAY_TEXT_TOO_LONG2": "El texto no puede superar los 95 caracteres",
     "ERROR_SHARDS_SPAWNING": "En estos momentos estamos reiniciando. Por favor, espera hasta que estemos de nuevo en línea",

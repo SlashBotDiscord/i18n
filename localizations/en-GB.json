@@ -428,6 +428,7 @@
     "ERROR_ROLES_NOT_BELOW1": "All given roles have to be below me",
     "ERROR_ROLES_NOT_BELOW2": "None of the given roles can be managed",
     "ERROR_ROLES_TOO_HIGH": "You don't have permission to set up roles above yourself",
+    "ERROR_ROW_NOT_ACTIONROW": "The row you selected is not an action row",
     "ERROR_SAY_TEXT_TOO_LONG1": "Your text can't be longer than 75 characters",
     "ERROR_SAY_TEXT_TOO_LONG2": "Your text can't be longer than 95 characters",
     "ERROR_SHARDS_SPAWNING": "We are currently restarting. Please wait until we are back online.",
