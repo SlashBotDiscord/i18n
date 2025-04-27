@@ -55,6 +55,7 @@ class SlashBotLocalizationManager {
                 translatedPercent: Object.values(this.languages[lang] || {}).filter(v => v).length / enKeys,
             }
         }).sort((a, b) => b.translatedPercent - a.translatedPercent);
+        return this.#availableLanguages
     }
 }
 
