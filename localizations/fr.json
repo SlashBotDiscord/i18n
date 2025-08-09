@@ -663,6 +663,8 @@
     "REMOVE_EMBEDS_ALL": "Supression de toutes les intégrations du [message]({0}) (attachées ci-dessous)",
     "REMOVE_EMBEDS_IN_POSITION": "Supression de l'intégration du [message]({0}) en position {1} (attachée ci-dessous)",
     "REMOVE_FIELD": "Enlever un champ de texte",
+    "REMOVE_FIELD_TO_REMOVE": "",
+    "REMOVE_FIELD_TO_REMOVE_PLACEHOLDER": "",
     "REMOVE_ROLE": "Retire le rôle \"{0}\"",
     "REMOVED_ROLES": "Rôles supprimés",
     "REQUIRED_ROLES": "Rôles requis",

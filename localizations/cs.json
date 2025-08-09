@@ -663,6 +663,8 @@
     "REMOVE_EMBEDS_ALL": "Odstraněny všechny embedy z [této zprávy]({0}) (přiloženo níže)",
     "REMOVE_EMBEDS_IN_POSITION": "Embed na pozici {1} byla odstraněna z [této zprávy]({0}) (přiloženo níže)",
     "REMOVE_FIELD": "",
+    "REMOVE_FIELD_TO_REMOVE": "",
+    "REMOVE_FIELD_TO_REMOVE_PLACEHOLDER": "",
     "REMOVE_ROLE": "Odebrat roli \"{0}\"",
     "REMOVED_ROLES": "Odebráné Role",
     "REQUIRED_ROLES": "",

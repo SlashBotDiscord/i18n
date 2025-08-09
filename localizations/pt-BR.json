@@ -663,6 +663,8 @@
     "REMOVE_EMBEDS_ALL": "Removida todas as embeds do [message]({0}) (anexado abaixo)",
     "REMOVE_EMBEDS_IN_POSITION": "Removida embed no [message]({0}) em posição de {1} (anexada abaixo)",
     "REMOVE_FIELD": "Remover Campo",
+    "REMOVE_FIELD_TO_REMOVE": "",
+    "REMOVE_FIELD_TO_REMOVE_PLACEHOLDER": "",
     "REMOVE_ROLE": "Remover cargo \"{0}\"",
     "REMOVED_ROLES": "Cargos Removidos",
     "REQUIRED_ROLES": "Cargos Necessários",
