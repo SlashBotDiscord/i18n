@@ -663,6 +663,8 @@
     "REMOVE_EMBEDS_ALL": "Ich habe alle Embeds in [dieser Nachricht]({0}) entfernt (Embeds wurden unten beigefügt)",
     "REMOVE_EMBEDS_IN_POSITION": "Ich habe das Embed in der Position {1} in [dieser Nachricht]({0}) entfernt (entferntes Embed wurde unten beigefügt)",
     "REMOVE_FIELD": "Feld entfernen",
+    "REMOVE_FIELD_TO_REMOVE": "",
+    "REMOVE_FIELD_TO_REMOVE_PLACEHOLDER": "",
     "REMOVE_ROLE": "Rolle \"{0}\" entfernen",
     "REMOVED_ROLES": "Entfernte Rollen",
     "REQUIRED_ROLES": "Benötigte Rollen",

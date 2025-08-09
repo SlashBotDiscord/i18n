@@ -663,6 +663,8 @@
     "REMOVE_EMBEDS_ALL": "Удалены все эмбеды из [сообщения]({0}) (прикреплено ниже)",
     "REMOVE_EMBEDS_IN_POSITION": "Удален эмбед из [сообщения]({0}) в позиции {1} (прикреплено ниже)",
     "REMOVE_FIELD": "Удалить поле",
+    "REMOVE_FIELD_TO_REMOVE": "",
+    "REMOVE_FIELD_TO_REMOVE_PLACEHOLDER": "",
     "REMOVE_ROLE": "Удалять роль \"{0}\"",
     "REMOVED_ROLES": "Удаленные роли",
     "REQUIRED_ROLES": "Требуемые роли",
