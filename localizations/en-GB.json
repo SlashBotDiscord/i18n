@@ -387,6 +387,7 @@
     "ERROR_LEVEL2_NEEDED": "This server needs level 2 for this to work (access to private threads)",
     "ERROR_MAX_DURATION_ACTIVITIES": "The max is 7 days (604800 seconds)",
     "ERROR_MAX_ROLES_TOO_HIGH": "Max roles can't be higher than the amount of roles",
+    "ERROR_MESSAGE_COMPONENTS_V2_UNABLE_TO_EDIT": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_ATTACHMENT_TOO_LARGE": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "You need either content or an attachment to create a message",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "The prompt timed out",

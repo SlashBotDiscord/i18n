@@ -387,6 +387,7 @@
     "ERROR_LEVEL2_NEEDED": "Ce serveur a besoin du niveau 2 pour que cela fonctionne (accès aux fils privés).",
     "ERROR_MAX_DURATION_ACTIVITIES": "Le maximum est 7 jours (ou 604800 secondes)",
     "ERROR_MAX_ROLES_TOO_HIGH": "",
+    "ERROR_MESSAGE_COMPONENTS_V2_UNABLE_TO_EDIT": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_ATTACHMENT_TOO_LARGE": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
