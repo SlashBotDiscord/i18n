@@ -387,6 +387,7 @@
     "ERROR_LEVEL2_NEEDED": "Tento server potřebuje 2 úroveň aby tento příkaz mohl fungovat. (soukromá vlákna)",
     "ERROR_MAX_DURATION_ACTIVITIES": "Maximum je 7 dní (604800 vteřin)",
     "ERROR_MAX_ROLES_TOO_HIGH": "",
+    "ERROR_MESSAGE_ADVANCED_CREATE_ATTACHMENT_TOO_LARGE": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
     "ERROR_MESSAGE_ADVANCED_NO_CONTENT": "",
