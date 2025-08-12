@@ -387,6 +387,7 @@
     "ERROR_LEVEL2_NEEDED": "Dieser Server muss auf Level 2 geboostet sein, damit ich das machen kann",
     "ERROR_MAX_DURATION_ACTIVITIES": "Das Maximum sind 7 Tage (604800 Sekunden)",
     "ERROR_MAX_ROLES_TOO_HIGH": "Max roles kann nicht mehr als die Anzahl der Rollen sein",
+    "ERROR_MESSAGE_COMPONENTS_V2_UNABLE_TO_EDIT": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_ATTACHMENT_TOO_LARGE": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "Du benötigst entweder Inhalt oder Anhänge, um eine Nachricht zu erstellen",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "Die Eingabe ist abgelaufen",
