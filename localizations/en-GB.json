@@ -391,6 +391,7 @@
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "You need either content or an attachment to create a message",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "The prompt timed out",
     "ERROR_MESSAGE_ADVANCED_NO_CONTENT": "You need to provide content, otherwise the message wouldn't exist",
+    "ERROR_MESSAGE_COMPONENTS_V2": "",
     "ERROR_MESSAGE_COMPONENTS_V2_UNABLE_TO_EDIT": "Unable to edit the target message due to its format",
     "ERROR_MESSAGE_DELETED": "Don't delete the message!",
     "ERROR_MESSAGE_EDIT_FAIL": "There are invalid emojis in one or more components",
