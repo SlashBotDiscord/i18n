@@ -391,6 +391,7 @@
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "Você precisa fornecer algum conteúdo ou anexo para criar uma mensagem.",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "O prompt expirou.",
     "ERROR_MESSAGE_ADVANCED_NO_CONTENT": "Você precisa fornecer algum conteúdo, caso contrário a mensagem não existirá.",
+    "ERROR_MESSAGE_COMPONENTS_V2": "",
     "ERROR_MESSAGE_COMPONENTS_V2_UNABLE_TO_EDIT": "",
     "ERROR_MESSAGE_DELETED": "Não exclua a mensagem!",
     "ERROR_MESSAGE_EDIT_FAIL": "Existem emojis inválidos em um ou mais componentes",

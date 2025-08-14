@@ -391,6 +391,7 @@
     "ERROR_MESSAGE_ADVANCED_CREATE_NO_CONTENT": "",
     "ERROR_MESSAGE_ADVANCED_CREATE_TIMEOUT": "",
     "ERROR_MESSAGE_ADVANCED_NO_CONTENT": "",
+    "ERROR_MESSAGE_COMPONENTS_V2": "",
     "ERROR_MESSAGE_COMPONENTS_V2_UNABLE_TO_EDIT": "",
     "ERROR_MESSAGE_DELETED": "Ne supprime pas ce message !",
     "ERROR_MESSAGE_EDIT_FAIL": "Un ou plusieurs composants contiennent des emojis non valides",
