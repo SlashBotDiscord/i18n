@@ -95,6 +95,8 @@
     "COMMANDS_OVERVIEW": "Übersicht Befehle",
     "COMMANDS_VIEW_MORE": "Um Details über diesen command zu erfahren verwende\n`/commands command:<command_name>`\nDies funktioniert nur für Slash-Commands (in der TextBox)",
     "COMPONENTS": "Komponenten",
+    "COMPONENTS_ADVANCED_START_INFO": "",
+    "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "",
     "COMPONENTS_CHECK_DISMISS": "Du hast dich dazu entschieden die beschädigten Komponenten nicht zu entfernen.\nMerke dir jedoch, dass du nicht in der Lage sein wirst diese Nachricht zu bearbeiten, so lange diese in dieser Nachricht sind.",
     "COMPONENTS_CHECK_INVALID": "❌ `Beschädigte Komponenten: {0}. Soll ich diese entfernen?`",
     "COMPONENTS_CHECK_INVALID_NEW": "❌ Beschädigte Komponenten wurden gefunden. Um diese Nachricht bearbeiten zu können entferne bitte alle Komponenten mit {0}",

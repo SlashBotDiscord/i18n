@@ -95,6 +95,8 @@
     "COMMANDS_OVERVIEW": "Seznam Příkazů",
     "COMMANDS_VIEW_MORE": "",
     "COMPONENTS": "Komponenty",
+    "COMPONENTS_ADVANCED_START_INFO": "",
+    "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "",
     "COMPONENTS_CHECK_DISMISS": "Komponenty nebudou odebrány ale pamatuj že je budeš muset odebrat jestli budeš chtít nějak upravit tuto zprávu.",
     "COMPONENTS_CHECK_INVALID": "❌ Vadné komponenty: {0}. Chceš abych je odstranil?",
     "COMPONENTS_CHECK_INVALID_NEW": "",
