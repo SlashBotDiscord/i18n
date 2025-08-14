@@ -95,7 +95,6 @@
     "COMMANDS_OVERVIEW": "Commands Overview",
     "COMMANDS_VIEW_MORE": "To see more detail about a command use\n`/commands command:<command_name>`\nThis only works for Chat-Input Commands (Slash Commands)",
     "COMPONENTS": "Components",
-
     "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "Start Setup",
     "COMPONENTS_ADVANCED_START_INFO": "Design the message you want to be sent on {0}.\nThen one by one define what actions the components should take.",
     "COMPONENTS_CHECK_DISMISS": "You chose not to remove the faulty components.\nKeep in mind that you will not be able to edit this message in any way as long as it has faulty components in it.",
