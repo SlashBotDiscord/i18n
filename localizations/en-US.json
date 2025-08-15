@@ -107,6 +107,7 @@
     "COMPONENTS_ADVANCED_SETUP_ERROR": "Not all components were properly set up. The setup could have timed out or was cancelled.",
     "COMPONENTS_ADVANCED_SETUP_SUCCESS": "Your advanced components setup was created successfully.",
     "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "Start Setup",
+    "ERROR_COMPONENTS_ADVANCED_NO_DATA": "No components were sent that I can use for the setup",
     "COMPONENTS_ADVANCED_START_INFO": "## Components Advanced Setup\nDesign the message you want to be sent on {0}.\nThen copy the url below and send the message to that url on {0}.\n\nThe link is valid for 1 hour:\n{1}\n\nAfter sending the message, press the button below and you will be asked to set up the buttons and select menus in the message.",
     "COMPONENTS_CHECK_DISMISS": "You chose not to remove the faulty components.\nKeep in mind that you will not be able to edit this message in any way as long as it has faulty components in it.",
     "COMPONENTS_CHECK_INVALID": "❌ `Faulty components: {0}. Do you want me to remove them?`",

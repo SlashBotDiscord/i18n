@@ -107,6 +107,7 @@
     "COMPONENTS_ADVANCED_SETUP_ERROR": "",
     "COMPONENTS_ADVANCED_SETUP_SUCCESS": "",
     "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "",
+    "ERROR_COMPONENTS_ADVANCED_NO_DATA": "",
     "COMPONENTS_ADVANCED_START_INFO": "",
     "COMPONENTS_CHECK_DISMISS": "You chose not to remove the faulty components.\r\nKeep in mind that you will not be able to edit this message in any way as long as it has faulty components in it.",
     "COMPONENTS_CHECK_INVALID": "❌ `Faulty components: {0}. Do you want me to remove them?`",
