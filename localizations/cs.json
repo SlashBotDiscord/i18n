@@ -107,6 +107,7 @@
     "COMPONENTS_ADVANCED_SETUP_ERROR": "",
     "COMPONENTS_ADVANCED_SETUP_SUCCESS": "",
     "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "",
+    "ERROR_COMPONENTS_ADVANCED_NO_DATA": "",
     "COMPONENTS_ADVANCED_START_INFO": "",
     "COMPONENTS_CHECK_DISMISS": "Komponenty nebudou odebrány ale pamatuj že je budeš muset odebrat jestli budeš chtít nějak upravit tuto zprávu.",
     "COMPONENTS_CHECK_INVALID": "❌ Vadné komponenty: {0}. Chceš abych je odstranil?",

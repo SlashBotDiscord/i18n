@@ -107,6 +107,7 @@
     "COMPONENTS_ADVANCED_SETUP_ERROR": "",
     "COMPONENTS_ADVANCED_SETUP_SUCCESS": "",
     "COMPONENTS_ADVANCED_START_BUTTON_LABEL": "",
+    "ERROR_COMPONENTS_ADVANCED_NO_DATA": "",
     "COMPONENTS_ADVANCED_START_INFO": "",
     "COMPONENTS_CHECK_DISMISS": "Tu as choisi de ne pas supprimer les composants défectueux.\nGarde à l'esprit que tu ne pourras en aucun cas modifier ce message tant qu'il contiendra des composants défectueux.",
     "COMPONENTS_CHECK_INVALID": "❌`Composant(s) défectueux : {0}. Veux-tu que je les supprime?`",
