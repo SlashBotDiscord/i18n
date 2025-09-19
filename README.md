@@ -9,13 +9,13 @@ Thanks to our community, we have translated the bot to the following languages �
 
 - English ([`Zelda_Fan#0225`](https://github.com/ZeldaFan0225))
 - German ([`Zelda_Fan#0225`](https://github.com/ZeldaFan0225))
-- Spanish (`Evil Psychiatric ↯#6666`, [`Lukas#6969`](https://github.com/LukassDev69), [`MatKing#1016`](https://github.com/MatKingRKM))
+- Spanish (`Evil Psychiatric ↯#6666`, [`Lukas#6969`](https://github.com/LukassDev69), [`MatKing#1016`](https://github.com/MatKingRKM), [`atzuu.`](https://github.com/z3ro0k))
 - Portuguese (`Fabricio#3801`)
 - Czech ([`Dejvy#0069`](https://github.com/Dejvy))
 - French ([`ARγOtaRe#8215`](https://github.com/ARyOtaRe), [`Pikachu#0003`](https://github.com/PikaFederation))
 - Russian ([`Golosovoy#6202`](https://github.com/Golosovoy))
 
-And thanks to these people, for verifying new translations 💙:
+And thanks to these people, for verifying new translations 💚:
 
 - [`jonilala796#0001`](https://github.com/jonilala796)
 - [`Valentin04#3679`](https://github.com/Valetin04)
