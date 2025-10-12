@@ -33,6 +33,7 @@
     "BUTTONROLE_ADVANCED_ROLE_REMOVE_RESOLVER": "Selecione o botão que você deseja remover",
     "BUTTONROLE_ADVANCED_ROLE_REMOVED": "Removido a opção selecionada",
     "BUTTONROLE_ADVANCED_ROLES_PLACEHOLDER": "Até 5 cargos divididos com ','\nAnexar cargo necessário com '¶'",
+    "ERROR_BUTTONROLE_MAX_ROLES_COUNT_EXCEEDED": "",
     "BUTTONROLE_ADVANCED_STYLE_COLOR_PLACEHOLDER": "'Primário', 'Secundário', 'Sucedido' ou 'Perigo'",
     "BUTTONROLE_ADVANCED_STYLE_PLACEHOLDER": "'Primário', 'Secundário', 'Sucedido' ou 'Perigo'",
     "BUTTONROLE_ADVANCED_TYPE_PLACEHOLDER": "'Alternar', 'Adicionar' ou 'Remover'",

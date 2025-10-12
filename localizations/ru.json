@@ -33,6 +33,7 @@
     "BUTTONROLE_ADVANCED_ROLE_REMOVE_RESOLVER": "Выберите кнопку, которую вы хотите удалить",
     "BUTTONROLE_ADVANCED_ROLE_REMOVED": "Выбранная опция удалена",
     "BUTTONROLE_ADVANCED_ROLES_PLACEHOLDER": "До 5 ролей, разделенных символом ','\nПрисоедините требуемую роль символом '|'",
+    "ERROR_BUTTONROLE_MAX_ROLES_COUNT_EXCEEDED": "",
     "BUTTONROLE_ADVANCED_STYLE_COLOR_PLACEHOLDER": "",
     "BUTTONROLE_ADVANCED_STYLE_PLACEHOLDER": "'Primary', 'Secondary', 'Success' или 'Danger'",
     "BUTTONROLE_ADVANCED_TYPE_PLACEHOLDER": "'Toggle', 'Add' или 'Remove'",
