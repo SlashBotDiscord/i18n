@@ -33,6 +33,7 @@
     "BUTTONROLE_ADVANCED_ROLE_REMOVE_RESOLVER": "Wähle den Knopf, den du entfernen möchtest",
     "BUTTONROLE_ADVANCED_ROLE_REMOVED": "Die gewählte Option wurde entfernt",
     "BUTTONROLE_ADVANCED_ROLES_PLACEHOLDER": "Bis zu 5 Rollen getrennt mit ','\nFüge am Ende eine benötigte Rolle mit '|' hinzu",
+    "ERROR_BUTTONROLE_MAX_ROLES_COUNT_EXCEEDED": "",
     "BUTTONROLE_ADVANCED_STYLE_COLOR_PLACEHOLDER": "'Primär', 'Sekundär', 'Erfolg' oder 'Gefahr'",
     "BUTTONROLE_ADVANCED_STYLE_PLACEHOLDER": "'Primär', 'Sekundär', 'Erfolg' oder 'Gefahr'",
     "BUTTONROLE_ADVANCED_TYPE_PLACEHOLDER": "'Toggle', 'Add' oder 'Remove'",

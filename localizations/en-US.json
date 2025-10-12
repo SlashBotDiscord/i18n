@@ -33,6 +33,7 @@
     "BUTTONROLE_ADVANCED_ROLE_REMOVE_RESOLVER": "Select the button you want to remove",
     "BUTTONROLE_ADVANCED_ROLE_REMOVED": "Removed the selected option",
     "BUTTONROLE_ADVANCED_ROLES_PLACEHOLDER": "Up to 5 roles divided with a ','\nAttach required role with '|'",
+    "ERROR_BUTTONROLE_MAX_ROLES_COUNT_EXCEEDED": "You can only set up a maximum of 5 roles",
     "BUTTONROLE_ADVANCED_STYLE_COLOR_PLACEHOLDER": "'Primary', 'Secondary', 'Success' or 'Danger'",
     "BUTTONROLE_ADVANCED_STYLE_PLACEHOLDER": "'Primary', 'Secondary', 'Success' or 'Danger'",
     "BUTTONROLE_ADVANCED_TYPE_PLACEHOLDER": "'Toggle', 'Add' or 'Remove'",
