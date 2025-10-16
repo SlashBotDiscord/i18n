@@ -299,8 +299,6 @@
     "ERROR_AT_LEAST_2_ROLES": "Du brauchst mindestens 2 einzigartige Rollen",
     "ERROR_AT_LEAST_X_ROLES": "Du brauchst mindestens {0} einzigartige Rollen",
     "ERROR_ATTACHMENT_NOT_AN_IMAGE": "Der Anhang ist kein Bild",
-    "ERROR_CUSTOMIZE_NO_PERMISSIONS": "",
-    "ERROR_CUSTOMIZE_NSFW_CHANNEL": "",
     "ERROR_BAN_YOURSELF": "Du kannst dich nicht selbst bannen",
     "ERROR_BANNED_MEMBER_NOT_FOUND": "Ich bin nicht in der Lage das ausgewählte Mitglied zu bannen",
     "ERROR_BUTTON_LIMIT_REACHED": "Du kannst dieser Nachricht keine weiteren Buttons hinzufügen",
@@ -363,6 +361,8 @@
     "ERROR_CUSTOMIZE_AVATAR_FILE_SIZE": "",
     "ERROR_CUSTOMIZE_BANNER_FILE_SIZE": "",
     "ERROR_CUSTOMIZE_FAILED": "",
+    "ERROR_CUSTOMIZE_NO_PERMISSIONS": "",
+    "ERROR_CUSTOMIZE_NSFW_CHANNEL": "",
     "ERROR_DESCRIPTION_LENGTH_EXCEEDED": "Deine Beschreibung ist zu lang (max. 100 Zeichen)",
     "ERROR_DMS_CLOSED": "Dieses Mitglied hat die privaten Nachrichten geschlossen",
     "ERROR_DROPDOWN_LIMIT_REACHED": "Du kannst dieser Nachricht keine weiteren Dropdowns hinzufügen",
@@ -771,13 +771,5 @@
     "WEBHOOKIFY_MODAL_USERNAME": "Webhook Nutzername",
     "WEBHOOKIFY_SUCCESS": "Erfolgreich [Nachricht]({0}) mit Nutzernamen \"{1}\"  mit dem [Avatar](<{2}>) zum Webhook umgewandelt",
     "WEBSITE": "Webseite",
-    "YES": "Ja",
-    "CUSTOMIZE_AVATAR_RESET_SUCCESS": "",
-    "CUSTOMIZE_AVATAR_SUCCESS": "",
-    "CUSTOMIZE_BANNER_RESET_SUCCESS": "",
-    "CUSTOMIZE_BANNER_SUCCESS": "",
-    "CUSTOMIZE_BIO_RESET_SUCCESS": "",
-    "CUSTOMIZE_BIO_SUCCESS": "",
-    "CUSTOMIZE_USERNAME_RESET_SUCCESS": "",
-    "CUSTOMIZE_USERNAME_SUCCESS": ""
+    "YES": "Ja"
 }
