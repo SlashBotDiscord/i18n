@@ -266,6 +266,8 @@
     "EMBED_ADVANCED_EDIT_DESCRIPTION": "Wähle die Eigenschaft des Embeds, die du bearbeiten willst unten aus.\nWenn du die erste Eigenschaft bearbeitest bekommst du eine Vorschau.\n\nUm eine Eigenschaft vom Embed zu entfernen, reiche einfach ein leeres Feld ein.",
     "EMBED_ADVANCED_EDIT_TITLE": "Fortgeschrittener Embed Bearbeiter",
     "EMBED_ADVANCED_EDITED": "Embed in der Position {0} in der [Nachricht]({1})",
+    "EMBED_ADVANCED_FIELD_INLINE": "",
+    "EMBED_ADVANCED_FIELD_INLINE_DESCRIPTION": "",
     "EMBED_ADVANCED_PLACEHOLDER": "Wähle die Eigenschaft, die du bearbeiten willst",
     "EMBED_ADVANCED_SELECT_FIELD": "Wähle das Feld zum entfernen aus",
     "EMBED_ADVANCED_TITLE": "Fortgeschrittener Embed Generator",

@@ -266,6 +266,8 @@
     "EMBED_ADVANCED_EDIT_DESCRIPTION": "Sélectionne ci-dessous la propriété de l'intégration que tu souhaites modifier.\nLorsque tu modifies la première propriété, tu obtiendras un aperçu.\n\nPour supprimer une propriété de l'intégration, ne passe rien.",
     "EMBED_ADVANCED_EDIT_TITLE": "Éditeur d'intégration avancé",
     "EMBED_ADVANCED_EDITED": "Intégration en position {0} sur le [message]({1}) modifiée avec succès",
+    "EMBED_ADVANCED_FIELD_INLINE": "",
+    "EMBED_ADVANCED_FIELD_INLINE_DESCRIPTION": "",
     "EMBED_ADVANCED_PLACEHOLDER": "Sélectionne la propriété que tu veux modifier",
     "EMBED_ADVANCED_SELECT_FIELD": "Sélectionne le champs de texte à modifier",
     "EMBED_ADVANCED_TITLE": "Générateur d'intégration avancé",

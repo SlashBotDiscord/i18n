@@ -266,6 +266,8 @@
     "EMBED_ADVANCED_EDIT_DESCRIPTION": "Selecciona abajo la propiedad a modificar del embed.\nAl modificar la primera propiedad se mostrará una vista previa.\n\nPara eliminar una propiedad del embed simplemente no envíes nada.",
     "EMBED_ADVANCED_EDIT_TITLE": "Editor Avanzado de Embed",
     "EMBED_ADVANCED_EDITED": "El embed en posición {0} en [message]({1}) se ha editado satisfactoriamente",
+    "EMBED_ADVANCED_FIELD_INLINE": "",
+    "EMBED_ADVANCED_FIELD_INLINE_DESCRIPTION": "",
     "EMBED_ADVANCED_PLACEHOLDER": "Selecciona la propiedad a modificar",
     "EMBED_ADVANCED_SELECT_FIELD": "Selecciona el campo a eliminar",
     "EMBED_ADVANCED_TITLE": "Generador Avanzado de Embed",

@@ -266,6 +266,8 @@
     "EMBED_ADVANCED_EDIT_DESCRIPTION": "Выберите ниже, какой параметр эмбеда вы хотите редактировать.\nПри редактировании одного из параметров вы получите предварительный просмотр.\n\nЧтобы удалить параметр из эмбеда, просто ничего не указывайте.",
     "EMBED_ADVANCED_EDIT_TITLE": "Продвинутый редактор эмбеда",
     "EMBED_ADVANCED_EDITED": "Эмбед [сообщения]({1}) на {0} позиции успешно отредактирован",
+    "EMBED_ADVANCED_FIELD_INLINE": "",
+    "EMBED_ADVANCED_FIELD_INLINE_DESCRIPTION": "",
     "EMBED_ADVANCED_PLACEHOLDER": "Выберите параметр, который вы хотите отредактировать",
     "EMBED_ADVANCED_SELECT_FIELD": "Выберите поле для удаления",
     "EMBED_ADVANCED_TITLE": "Продвинутый генератор эмбеда",
