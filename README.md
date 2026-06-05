@@ -1,4 +1,4 @@
-# SlashBot Localization
+Fabricio#3801# SlashBot Localization
 
 This repository contains the translations of [SlashBot](https://top.gg/bot/788814313930096662).
 You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=788814313930096662&permissions=8&scope=bot%20applications.commands).
